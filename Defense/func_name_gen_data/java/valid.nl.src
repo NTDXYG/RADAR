@@ -1,0 +1,2000 @@
+returns the root user preferences node .
+returns the grouping state for this spell reference choice set . the grouping state indicates how this spell reference choice set can be combined with other primitive choice sets .
+"place a chess piece on the board at position column , row . does not verify whether the piece can be attacked buy other present pieces or that it can attack any of them ."
+returns enum value for the passed return code or null if return code is unknown .
+remove the shared object from the object map .
+utility method for guessing a font family name from its base name .
+"check if the type of the argument matches our expectation . if not , report an error ."
+sniffs out the expander / dsl config name as best it can .
+calculates the event addresses that appear in any of the traces .
+print a number of countries exporting given export item .
+"the shuffle cards method swap two random cards , basically simulating a shuffle ."
+gets the action type for a compaction commit
+convert a list of item values to data values .
+gets the parent folder .
+output similar to soapmessage . write to ( ) .
+return the closure of typed model . used packages and their imported packages .
+removes password from connection url
+"write an rtf control word to our writer , preceeded by a star ' ' meaning "" ignore this if you don ' t know what it means """
+look at the list of loading loaders and remove them if they have been completed or abandoned . this is necessary as there are cases where a loader manager will notify loader callbacks that a loader has been abandoned .
+instantiates an object of a specified class using a no - arg constructor .
+"returns the target state of a transition leaving this state and labeled with label . if no such transition exists , returns null ."
+sets the x and y momentum ( delta per time unit ) .
+get cpu time in nanoseconds .
+return a list of all ancestors of this node . the first node of list is the root and the last is the parent of this node .
+add new listener object .
+transform calendar to iso 8601 string .
+returns card at the top of the deck
+test operator logic emits correct results .
+return the offset in pixels required to center a given character
+the attributes of the parameter object .
+this method is used by the internal data structure of the histogram to get the limit of data points that should be counted at one bucket .
+returns the value of the entry object at the given x index . returns float . na n if no value is at the given x - index . information : this method does calculations at runtime . do not over - use in performance critical situations .
+sets or replaces the current image in the model
+check the database to find out whether any of a set of fields are used for any of the entries .
+resets the variable tables
+write a variable size long .
+new instance of grid for form layout
+"use > = and < = comparison as a workaround for between , make sure min < max ( explicit rhs version ) ."
+populates the specified bean definition property with the value of the attribute whose name is provided if that attribute is defined in the given element .
+"when a file is base64 - encoded , it takes 4 bytes to encode 3 bytes of content , plus we throw in a newline after encoding 57 characters or so ."
+returns a list of system ids for a given profile
+add some amount to a gauge .
+gets the delivery channel .
+"check if the parsed odata uri is a query and it results in something that is not an entity or a collection of entities ; for example a primitive value , complex object , enum value or a collection of any of those ."
+"returns the amount of time for this particle to collide with a vertical wall , assuming no interening collisions ."
+each individual register is a separate object and observable . this handy method will add the given observer to each one .
+returns the aspect ratio from two points .
+add a new slide to the end of message .
+"serialize an instance , restore it , and check for equality ."
+compute grid1 = grid1 - grid2
+returns number of method calls for the class . sum number of method calls on all instrumented instances belonging to this instrumented class . it ' s sum of all method calls for all known instrumented instances .
+currently webservice content generators are wired up by a plugin . the following methods generate urls for executing web service and wsdl generation . these methods are tightly bound to the content generator specifications in the default - plugin of the system solution .
+returns a string representation of this object ; useful for testing and debugging .
+the list of tags for the cluster parameter group .
+"adds new data description implementation , defined for passed target and task ."
+gets the batch service quotas for the specified subscription at the given location .
+call this to convert the projects .
+lookup an broker connection by name .
+returns a json encoded array string representing this object .
+add a mapping between a corresponding sip session related to a header name . see also get corresponding sip session method .
+"starting from the end and check back , the number of check backs = input [ i ] if any input [ i - count ] during check back is true , input [ i ] is reachable"
+generate an array of test strings .
+converts the input numeric text to the internationalized form using the zero character .
+set new values for a range of unicode character .
+method to validate user mobile number
+start the shell process .
+"retrieves the username from the http context . it reads the ' wisdom . monitor . username ' in the session , and checks it is equal to the username set in the application configuration ."
+answer the manifest for this container ( if possible ) . manifest is cached until the file is renewed .
+shown the state that the request is processing .
+returns a string representation of this object ; useful for testing and debugging .
+all rainfall related code
+returns the i depthth ancestor of the current element
+"build time : 2014 - 8 - 30 description : get the external cache directory , it will be bulid a directory what is name "" android / data / package _ name / cache "" for 2 . 2 system """
+a list of db cluster parameter groups .
+"does nothing , data not changing !"
+test remove multi spaces .
+read the next short from the input stream .
+get a sub - list with all entries for the specified field names
+convert a short into a byte array
+returns the process inputs according to the geo tools api expectations
+check to see if unlimited strength crypto is available . there is an implicit assumption that the jce jurisdiction policy files are not going to be changing while this given jvm is running .
+delete all session information
+"returns a combined label with the name and value in one string . eg : name = priority value = p4 would become "" priority - p4 "" . name = security value = null would become "" security "" ."
+stores fields in a map using name as the key for faster lookup
+sets a fixed clock to be used .
+returns a string representation of this object ; useful for testing and debugging .
+"method to determine the customs desk index of the current passenger , return - 1 if there is no current passenger"
+"simple test to see if the decode is none standard where standard is [ 0 , 1 , 0 , 1 , 0 , 1 ] ."
+the interceptor method . this should intercept post activate of the bean
+environment mocker can create file .
+return the list of scores associated with the specified batch and gene .
+call this when your activity gets paused .
+gets string value for key from shared preferences .
+dumps the gdl output of the search space to the given file .
+retrieves a checksum of the rulesets being used . any change to any rule of any ruleset should trigger a checksum change .
+whether or not connected to wifi
+small utility for making comparing floats easier .
+transforms given iproperty to a readable string .
+get the set of keys from the javac resource bundles .
+calculates the okay mood days : days that fall between - 1 and 1 .
+does this equation contain an appearance of a given cell ?
+reads the next 8 bits from standard input and return as an 8 - bit byte .
+add optional parameters of the given type to the end of the param list .
+"updates an ssa representation , placing phi functions and renaming all registers above a certain threshold number ."
+returns the property value evaluated by j2 seproject ' s property evaluator .
+retrieve integer data from shared preferences in private mode .
+"convenience method that fires the validation error event to sp tracking server , resetting the internal ad availability state ."
+gets the string value of this object .
+algorithm for searching class loaders for ha - jdbc url .
+disable collect events for visor instance .
+get command to refresh at redo only
+a function where the output is the geometric average the inputs
+returns the iterable of collections that have the specified provider .
+sets ( or unsets ) the system - wide cookie handler . note : non - standard http protocol handlers may ignore this setting .
+counts the number of test cases that will be run by this test .
+get the last component of a name .
+creates the paint object for drawing the crop window guidelines .
+translate a namespace prefix to its uri .
+gets the title from a map of field values .
+"load data from url . url must be not null . note , this method doesn ' t check if data or url is null ."
+"extracts the string from the "" vfo "" field"
+retrieve ( or create ) an interned hystrix thread pool key instance for a given name .
+creates a new enterprise in data base
+get a named config set
+"gets the appropriate adapter wrapper around the object inspector if necessary , that is , if we ' re dealing with numbers . the json parser won ' t parse the number because it ' s deferred ( lazy ) ."
+encodes byte into its quoted - printable representation .
+determines if the configure snmp event is for a specific address .
+convert a hexadecimal character into the corresponding nibble value .
+returns the output file name .
+should be called on the holder on stop ( ) method . this will fire on stop event to all registered event listeners
+convenience method to access v array using 2 d coordinates .
+encodes the given stream using quoted - printable . this assumes that stream is text and therefore does not escape all line endings .
+filters the children to display in the tree .
+gets a filtered list of languages . the list is cached for the lifetime of this iso639 _ 3 object .
+returns a count of the number of items in the system
+get the indice arg max of this vector
+x for given lon starting from 0
+checks cross count according to path rule to define is it point inside shape or not .
+this is an override method that generates hashcode .
+return the relation that holds between the given entities . return a relation of type unrelated if this sentence contains no relation between the entities .
+this method is used to determine the default async support if all else fails .
+"o ( 1 ) space solution , o ( n ) time rotate is a good idea in solving these problems ."
+get a url from configuration or system properties .
+a callback method for when the generation timer ticks .
+this is the property bag
+gets a list of the supported formats for reading .
+get timestamp of transmission of the message
+applies the forces to all bodies .
+threadsafe factory that provides an authorized bigquery service .
+close column finder popup .
+recursively call given a reverse of scanned number
+returns the node containing the specified name .
+"tests for orientation property - can be null - set is honored - can be bound - is horizontal by default - if bound , impl _ css settable returns false - if specified via css and not bound , impl _ css settable returns true"
+"converts the type to a string that represents the type in the simple time zone time mode . ( e . g . , "" simple time zone . wall _ time "" ) ."
+set the current pseudo name of the user session .
+first day of summer ( icelandic : sumardagurinn fyrsti ) thursday during the period 19 to 25 april
+called by the renderer when it creates a new framebuffer
+returns the message digest of the specified file with the sha algorithm .
+retrieve a variable value .
+returns the number of bytes used by the table already cached ( approximate )
+check the mbean class name .
+set the processor singleton .
+description of the method
+get the last screen used
+"get a pair of colors that fulfil a certain role . see options _ raw returns { - 1 , - 1 } if not found"
+asserts that two objects refer to the same object . if they are not an assertion failed error is thrown with the given message .
+gets the number of pages in the document .
+creates a new type based on the original function type by adding the original this pointer type to the beginning of the argument type list and replacing the this pointer type with bottom .
+format the given phone number
+"read a specified number of bits and return them combined as an integer value . the bits are written to the integer starting at the highest bit ( < < a number of bits ) , going down to the lowest bit ( < < 0 )"
+traverses a specified node looking for files to check . found files are added to a specified list . subdirectories are also traversed .
+parses a gtfsagency from a line in the corresponding gtfs file ( agency . txt ) .
+get the list of roles currently known by users ( there ' s guarantee the well known role _ administrator will be part of the lot )
+make sure we ' ve registered our pig shim
+returns the variable back - off factor for this exchange .
+find the center of curvature ( point on the evolute ) at the nadir of a point .
+"to new activity , use animation from bottom to top carry data"
+gets the owner id
+returns the value of an option .
+it obtains the last element of the pattern
+takes an array of managed objects and returns the mor for each mo
+returns instance of the run options .
+"verify if its float , real or double ."
+"returns the method call which is on the top of the stack , or null if there ' s no such element ."
+returns the compile data for a crosstab .
+converts the volume as read as the progress from a seek bar scaled to 100 and as saved in user preferences to the format taken by set volume methods .
+determines the position of the previous break before the start index on an element list .
+writes an integer as a typed bytes sequence .
+"based on the mesh type , chooses the proper way to see if the point is inside the marker mesh . it is assumed that the "" grid "" being tested is located at 0 , 0 and its dimensions are 2radius ."
+remove all whitespace characters from a string
+returns an autonomous command based on the name ( the unique identifier ) of it .
+find all view instances .
+gets the current settings of this object .
+get the singleton instance of this provider
+"checks for valid file name , and converts illegal character to "" _ "" character"
+returns the specified property from the specified file
+find the number of decimal places represented in the string
+"retrieves the value of the given key from the erxsystem properties store , return default value if the key does not exist ."
+returns the total number of rows requested by each child line
+"given a new variable name , lookup the source name , may return null if it ' s not found ."
+get the thread context loader which is a jdk 1 . 2 feature . if we are running under jdk 1 . 1 or anything else goes wrong the method returns null .
+extracts all notifiers from all notifications contained in the sourced notification .
+create a synapse controller instance based on information in the server configuration information
+returns view state id which is suitable for current jsf implementation .
+updates the status table to keep track of key placement status
+create a test event
+closes a group of sequence file readers .
+check if the current user is an registered user based on request
+a helper method to return the stream caching instance for a given list of interceptors
+convert a given old datanode to new datanode
+returns an encryption zone representing the ez for a given path . returns an empty marker encryption zone if path is not in an ez .
+add a new connection to this repository for the current user .
+create a new session factory .
+moves the cursor to the next position and returns its object .
+gets the settings as string .
+tests if the directory contains the essential root file for a daisy book currently it ' s limited to checking for daisy 2 . 02 books .
+this method is used to add an entry to the cache hash .
+encodes a char value as a big - endian 16 - bit integer into a 2 - byte buffer and returns the buffer .
+creates the singleton used by the native - side network change notifier .
+"returns the "" localname "" part of a qname , which is the whole name if it has no prefix ."
+"returns the room link entity with the corresponding room name , for the current room only . null if there is no such room link ."
+get the value of an annotation field .
+removes the header on the fault message ( fault must be out )
+get the interval from the last lap start time to the current time as a text string and reset the lap start time .
+given an integer string if it ' s a valid int ( see is valid int ) it converts it into an integer otherwise it throws an exception
+returns a scaling transform : [ sx 0 0 ] [ 0 sy 0 ] [ 0 0 1 ]
+"renders the table header border , based on the map of provided headers ."
+a parallel unsized stream of longs generates at least 100 values
+creates a singleton instance of the async controller
+returns the declaration of a name within all active scopes and within a specified namespace .
+newline and indent by current indentation level
+returns all the current alive and successful containers for the given profile which have completed provisioning
+utility method to convert jmx constructor info instances to flash friendly constructor info instances .
+removes a listener from the list that ' s notified each time a change to the data model occurs .
+return an array of download runtime objects which match the given attributes
+returns the buffering capabilities of this configuration .
+returns a string representation of this object ; useful for testing and debugging .
+remove from the beginning of the list in o ( 1 )
+add an output file
+this static method will extract the sql function inside the given sql function if the given sql function is wrapped in drill calcite sql function wrapper and will just return the given sql function if it is not wrapped .
+called when a chapter is written . position will hold the height at which the chapter will be written to .
+returns a string representation of this object ; useful for testing and debugging .
+set sub protocol request list .
+gwt safe version of arrays . copy of .
+initializes the target data line .
+sets up the is element of processors .
+get the password of https proxy
+generate token with format % phone number %
+decompress an integer array using simple16
+"get the string manager for a particular package . if a manager for a package already exists , it will be reused , else a new string manager will be created and returned ."
+return if the candidate is in the same primary country as any of the places already picked
+null and exception safe ; drills through accessibility issues
+writes a specific short value ( 2 bytes ) to the output stream .
+this is the override of super method .
+provides a default configuration ( tika config ) . currently creates a new instance each time it ' s called ; we may be able to have it return a shared instance once it is completely immutable .
+groups array to json object .
+validates that a server url is in the correct format .
+returns the picture for this card .
+removes the specific collection of locations from this argument .
+returns the volume label that is stored in this directory . reading the volume label is only supported for the root directory .
+checks if the string is printable string ( see x . 680 )
+"finds a reverse rotation to the specified one . any side transformed by the rotation passed as a parameter , when passed to the returned rotation will return the original side ."
+asserts that the current response was redirected and returns the prior response .
+list all available products in the store
+this method is used to retrieve a linked list of field identifiers indicating the fields present in a task record .
+unmerges the specified cells . the range passed in should be one that has been previously returned as a result of the get merged cells method
+"given a user id and a list of movies , it takes out those movies which have been rated by the user . non - volatile to parameters ."
+"double rotate binary tree node : first left child with its right child ; then node k3 with new left child . for avl trees , this is a double rotation for case 2 . update heights , then return new root ."
+formats message by adding array of arguments
+convert unixtime into date
+gets the date and time for the end of the assertion time interval in as specified by saml v2 . 0 section 2 . 5 . 1 .
+call before invoke the request
+test node logic emits correct results
+fetch an image icon relative to the calling location .
+lazily create and configure the facade .
+method which opens a new spreadsheet document
+create the specified topic .
+"test inverse transformation from "" real world "" coordinates to grid coordinates coordinate using the localization grid ."
+calculates the crc64 checksum for the given data array .
+this function is used to play a sound at a given location .
+sends a command for a specified item to the event bus .
+extract measures from song for particular track
+returns the total amount of the currency in this balance .
+reads and validates the first line of a web vtt file .
+returns a matcher that matches any function call that has the given number of arguments .
+create a basic subscription without marketdata semantics .
+adds a menu item to the context menu .
+remove fractional part if v target is non double / float type
+adds the value to the data set .
+gets the double property .
+calls request layout on layout parent associated with this constraint object .
+recursively fires create events for all children if recursive descent is enabled . otherwise the create event is only fired for the initial file .
+"gets the top offset from the top , left position of the page specified by this destination ."
+get container by id
+add a short integer ( 2 bytes ) to the message .
+"determine if the field accepts a string default value , this is only true for fields of type string or a sub - type of string"
+returns the id of the element that would be returned by a subsequent call to next . returns null if the list iterator is at the end of the list .
+appends new component names to the toc component .
+set the message explaining why the run has failed .
+"unescapes any java literals found in the string . for example , it will turn a sequence of ' \ ' and ' n ' into a newline character , unless the ' \ ' is preceded by another ' \ ' ."
+"assign a new path , or null to have none ."
+updates the given company ; it checks that the company already exists .
+returns the byte array resulting from converting this object to a structure usable by the system apis .
+register the given event listener to the contest and event class .
+returns the number of calls made for the method described by the input parameter method name .
+we return the cached memory to garbage collector .
+get view intent to open browser to view given url
+"test of set delegate method , of class centroid boundary constraint ."
+decides whether the filter should be applied .
+checks to see if the thread is running
+this is exactly same as dfs traversal .
+convert a given comma delimited list of regular expressions into an array of string
+unmark a post as nsfw
+"get the item decay rate , which differs in difference subclass , and can be changed in run time by the user , so not a constant ."
+run through the map and remove any references that have been null ' d out by the gc .
+get a specific ifdprotocol .
+find the maximum number in given array . time complexity : o ( n )
+registers resource within this session .
+add ipaddress to block list
+check for the presence of all ' filter ' facets in the spring definition . nb : these do not exist yet so the test is disabled .
+calculates a sha1 digest for a string .
+returns the line number with the given tag
+fix an absolute path . some paths in some violations file contain a . . this causes grief .
+this is used to extract information from the http header that can be used to determine the type of the body . this will look at the http headers provided to find a specific token which enables it to determine how to consume the body .
+get the first selected character name
+"extracts the key which is mapped to tcomponent . xml . added by marvin wang on mar 26 , 2013 ."
+method used to supply connection to the server by passing the naming of the websocket endpoint
+normalizes a path string .
+gets the value of the repeating property .
+adds a directory to the collection of module paths .
+"converts the handle . handle need not exist , but must be a source reference ."
+intantiates the static singleton field person _ dir _ name _ finder _ instance . synchronized to guarantee singletonness of the field .
+returns a string representation of this object ; useful for testing and debugging .
+is colliding if the difference in positions is below the collision radius
+method to load user attributes in a map with filtering ( attribute query )
+gets the transform which is used for scaling typographical points to pixels in this font render context .
+use java . text . normalizer to reduce locale strings for comparing
+"an "" enter search "" model and view handles user data entry of a search"
+returns the properties associated to this signal .
+get the transform from local coordinates into screen coordinates .
+"the route of the url , if there is not router to process the url , return null"
+gets the guilds that are subscribed to the specified team .
+modify the current clipping path by intersecting it with the given path .
+obtain the global transaction identifier for the current transaction .
+returns a new unique name for an index folder .
+"a "" wallet detail "" panel provides summary details of the current wallet"
+replace or add a property to the suite for this run only .
+get the sample ' s father
+"identifies and returns the geometry attribute type , or null if none exists ."
+removes all call listeners from provided chat .
+handle requests to sign the result
+returns the identifier of the infrastructure device if the connection point belongs to a network element which is indeed an infrastructure device .
+"internally used to look up the after - liveness information for the given variable on edges of the given label , or the merged after - result , if there are no edges with that label ."
+returns the quasi identifying attributes .
+"output stream out will get : ushort n chars byte is16 bit flag byte [ ] / char [ ] character data for this encoding , the is16 bit flag is always present even if n chars = = 0 ."
+encode char to there asii table using % as the delimiter
+read n bytes from the serial port
+appends the ascii representation of a byte to the line .
+this method creates the response to the caller if the order could not be processed
+method to extract a string representation of the dest host embedded in the packet .
+can we get the label when it ' s present in the owl file ?
+delete file only if it already exists .
+returns a string representation of this object ; useful for testing and debugging .
+create a new gzipoutput stream .
+checking even and odd number without using modulus or remainder operator . division operator is used to find whether number is an odd number . note : division and modulus are more than twice as expensive as multiplication ( a weight 10 ) .
+"this utility method can be used to combine two criteria using an and . if both criteria are null , then null will be returned . if either is null , then the other will be returned ."
+computes the index ( order ) of the int index ' th intersection point in the direction of a specified input line segment
+"given a string , returns how many columns this string would need to occupy in a terminal , taking into account that cjk characters takes up two columns ."
+suppress multiple methods for a class .
+returns with a transformation representing a move by the given vector .
+"test of get clock time method , of class default clock time ."
+gets the flash memory .
+"check whether the given expression is a valid call of this function . two arguments are required . when evaluated , the arguments are converted to strings if they are not already strings ."
+computes the end time = now + timeout
+makes the upper 2x2 a rotation matrix of the given angle
+sets the scheme of sip address . valid scheme format is defined in rfc 3261 [ 1 ] p . 224
+adds all configurations that are directly reachable from this configuration through any kind of configuration transition .
+"copies the input stream into the output stream , until the end of the stream has been reached ."
+returns a new array containing the remaining keys .
+metodo utilizado para obter o total de paginas da consulta
+run a target to touch the test file ; verify the timestamp is as expected
+"deletes a texture id from the texture manager , and deletes the corresponding texture from the gpu"
+attempts to convert a string into an integer value using regex
+"on draw frame is called whenever a new frame needs to be drawn . normally , this is done at the refresh rate of the screen ."
+fetches the value of a property from the configuration file .
+returns the operator after the current value don ' t change the position in the expression
+allocates byte array and sets soft references to it
+it clones a pattern
+sends ( synchronously ) a long press to the view at the specified coordinates .
+returns a string that is padded on the right with spaces to the current length .
+returns true if the string is empty or only includes whitespace characters .
+return an enum from the value of the parameter
+returns a string representation of this object ; useful for testing and debugging .
+checks if entry is valid in the column
+get the response headers of the http response .
+checks if this element has a child element with the given name .
+"test that if we do an incomplete read , we don ' t call checksum _ ok"
+"read n physical lines and returns the n - th . if no enough lines exist , null is returned ."
+removes the first element in the linked list .
+adds the given number as a op _ n opcode to the given index in the program .
+"initialize type map with classes that are explicitly mapped to an i os type . note : if this method ' s list is changed , iosclass . for name ( ) needs to be similarly updated ."
+paint text on the given canvas .
+default implementation returns a list of structured data elements with no internal parsing .
+"this method splits the supplied url on the character ' / ' then url encodes the segments between , returning a url encoded version of the passed url , leaving any occurrence of ' / ' as it is ."
+"returns the value of this timer , in milliseconds"
+"increases the turn counter by 1 , or wraps around back to 0"
+create folder in the sdcard
+controls if the input value is a valid value for component spinner - int .
+decodes the high 16 bits of an integer as a short .
+"removes the given cache directive if it exists , uncaching the data . if the cache request does not exist in hdfs no error is returned . throws an impala runtime exception if there was any problem removing the directive ."
+returns the approximated knn - distance at the specified k .
+"just reverse bytes order ,"
+checks if a given allergy has the same allergen as any in the given allergies
+a function where the output is the arithmetic average the inputs
+it reads a review .
+returns any duplicate elements from the given collection .
+gets the selected state of a toggle action . if the id doesn ' t correspond to a toggle action then it will fail silently .
+"returns the resource corresponding to the given model element , or null if there is no applicable resource ."
+get all open ids for a given user
+a list of mfa devices .
+binds the frame buffer as the current render target .
+returns the list of nodes whose element contains one dialog line .
+set an element and return only when the element is effectively cached .
+clears the the current selection and selects a single node .
+safe and convenient writing to socket character streams ; internal helper method
+get xmpp settings of a user
+try to reserve the given number of bytes . return value indicates whether the caller may use the requested memory .
+change sp to px
+this routine returns the jdbc url corresponding to the dbstrings input .
+set the magnification for the screen
+return the next token from this tokenizer .
+clear selection to the combo .
+"convenience method to find the shortest path via a single static method call . if you need a more advanced search ( e . g . limited by hops , or computation of the path length ) , use the constructor instead ."
+called immediately after the post - breeding exchange occurs .
+gets an object value and transforms it into a byte
+conditionally uses one of the synchronized objects .
+"change the dateformat from "" yyyy - mm - dd "" to ddmmyyy , where yyy is years after 1900"
+converts a hex string to a byte array .
+set propagates to instance . determines whether this qualifier can propagate to instances
+returns all the clients for the first working pod for the given service
+find a completed subject by string name
+add the given tiles
+extracts and returns the boundary token from a line .
+"set the n - th record . as with arrays , n starts with 0 ."
+creates the necessary 3 functions on the pipeline before each test
+formats the given wallet ( transactions and keys ) to the given output stream in protocol buffer format . equivalent to wallet to proto ( wallet ) . write to ( output ) ;
+synchronized method that gives a user a connection from the pool if not empty
+returns the next image to add a frame to the buffer ( the head ) returns null if buffer is full .
+return the minimum quantizable value .
+parse the error message from the response .
+environment mocker can write bytearray too .
+set the in use _ flags so that the storage can be returned to the pool
+removes all operations from the history .
+spawns the kit with the specified name for the specified player with the specified flags
+return the most recently put time string for this type . this should represent the creation time of the most recently received message of the specified type and can be used to filter available messages to find those that have not been received .
+returns a string representation of this object ; useful for testing and debugging .
+populates a scenario with data read from the input files which are named in the config which is wrapped in the scenario .
+"retruns the path attribute of the passed url , stripped out of the leading "" / "" . returns null if the url does not have a path ."
+adds an instruction with a given delta to this internal result . the delta is only needed because we don ' t have a proper system for using labels as a normal assembler would have .
+return the name associated with a specified image .
+sets the function to be inspected and updates the entire gui
+this method delete the preferences
+"non - standard helper method , to delete cookie"
+tests a negative frequency value .
+gets api discovery response in string .
+"prints the collocations found in this tree as strings . each is followed by its boundary constituent indices in the original tree . example : throw _ up ( 2 , 3 ) came _ up _ with ( 7 , 9 )"
+generate an info message string relating to a particular managed collection .
+load the version properties from a resource .
+retorna o nome da rua
+"for the given job , adjust the command line args to set the ' - xmx ' java memory flag to be greater than or equal to the min value ."
+return the ( possibly empty ) set of definitions for this binding .
+pre - configures some properties when showing the page .
+method called everytime surface changes . ideally should never be called as surface should not change .
+returns the value of the ith parameter .
+creates the app mapping for the app id from the configuration
+registers the specified task as an output .
+saves the user config as a json sting .
+multiply each element of a pmatrix3 d by the scale . mat . m00 = scale and so on . . .
+returns the column mapping for the given csvcolumn .
+returns true if search should be done using given channel
+set the user ' s first name
+tags a string with part of speech
+metodo que retorna un arraylist con las tareas que aun no se han realizado
+normalize separate character . separate character should be ' / ' always .
+method used to retrieve bundle of the entity dto passed as a parameter . it tries to find bundle basing on module symbolic name . if module symbolic name is null it retrieves bundle basing on module name .
+parse a double value from a string .
+test the set ( ) method
+returns a hash code value for the object .
+"returns a pseudorandom , uniformly distributed long value between 0 ( inclusive ) and the specified value ( exclusive ) , drawn from this random number generator ' s sequence ."
+disconnect context from ejb ( local ) object so that context . get ejbobject ( ) will throw exception .
+returns the distance from the coordinate represented by p0 to the origin of the coordinate system . note : this method is non - robust due to floating - point rounding errors . inexact results according to floating - point rounding errors may be caused .
+creates a new base64 binary by parsing the given string as hex binary data .
+draw a spiral made of many squares .
+creates header for environment log file
+radix sort ( ) sorts an array of int keys ( using all 32 bits of each key to determine the ordering ) .
+set the default web scope factory
+note : this method is not blocking ! ( code runs in thread )
+tests conversion to thrift representation .
+notify start of loading process
+has to be called when the run time shuts down
+simulates the processing of a new incoming watermark .
+delete a multicast route from the mrib .
+get the spell checker to be used .
+"iterates over the remaining filter definitions . returns the first applicable filter , or null if none apply ."
+use the magnetic field to compute true ( geographic ) north from the specified heading relative to magnetic north .
+"scan to a commit entry , starting at a given position in the journal . return address of entry after commit if found , else - 1 ."
+"accept a mouse release event and set the button ' s "" pressed "" property to true , if the model is armed . if the model is not armed , ignore the event ."
+create a new texture from a url
+checks if the device has a connection
+gets the image of the downside wall .
+returns a string representation of this object ; useful for testing and debugging .
+"get the default cert path builder type . this value can be set at run - time by the security property "" certpathbuilder . type "" . if this property is not set , then the value returned is "" pkix "" ."
+produces a stream of lines from a file . the result is a stream in order to close it later . this code is not inlined for the reason of files . lines ( ) throwing a checked ioexception that must be caught .
+"returns a list of framework methods - once per method , like there were no parameters . for junit to build names for ide ."
+overall progress of the submitted script
+"return the contained , declared parameter with the given name , or null if there is none . inherited and child parameters are not considered ."
+returns a pointer to the native boxa object .
+"send the response to the redirected destination while adding the character encoding of "" utf - 8 "" as well as adding headers for cache - control and pragma"
+get the server configuration context .
+"writes the input stream to the output stream . input is done without a reader object , meaning that the input is copied in its raw form . after it is copied it will close the streams ."
+external function to compute a matrix of beta factors
+add a new video submission to the datastore .
+delete rabbit by rabbit id
+for concocting exception messages .
+"returns the minimum time , formatted according to iso8601"
+utility method for creating a tree from paths described by strings .
+returns a client for the first working pod in the collection
+retrieves a generic time zone display name for a time zone id .
+resets the structure ( header information of the instances )
+returns actual slide direction for the specified slide direction type .
+check whether two objects are equal or both null .
+close the message receiver
+makes sure that provided token is of the expected type
+"installs an uncaught exception handler that logs messages under the "" uncaught "" category ."
+"apply the filters to the data in the order given and add the / filter and / decode parms entries to the stream dictionary . if the filters have already been applied to the data ( either externally , or internally ) then the dictionary entries added ."
+returns whether the kth argument to a function call has to be an expression .
+tests ipv6 destination criterion .
+run a sql command which does not return a recordset : create / insert / update / delete / drop / etc .
+test to check to see if the . draw ( ) method actually returns a card
+check intent action is or not exist . if exist return true else return false .
+"assigns created , person and gameround to the current values"
+returns the document - level uri .
+"prefixes an input array with a 4 - byte transportable length field . if the input data is null or has zero length , returns a 4 - byte representation of 0 ."
+retrieves the name of the object bound to the naming context that is also bound to the current thread .
+returns the boolean value of this property . throws if not set and no default .
+"gets the height in user coordinate space . by convention , the usual height of a rendered image is equal to 1 . 0 f ."
+calculate a hash using aes .
+"gets the date using a date in string , using passed format ."
+returns the ring that constitute the boundary of this rectangle .
+checks that a string is both non - null and non - empty .
+a job that extracts data from a table .
+tests edit log file output stream doesn ' t throw null pointer exception on being abort / abort sequence . see hdfs - 2011 .
+returns the variable for which there is evidence .
+"test of index of method , of class integer array list ."
+create a path file object whose binary name can be inferred from the relative path to a sibling .
+check if the file exists .
+sets the feature values for this tuple
+"creates the temp directory for the pdf , html and java script files . note : the directory is deleted as soon as the jvm terminates ."
+flatten this object in to a parcel .
+"this rethrow the exception providing an allowed exception in first priority , even it is a runtime exception"
+deletes algorithm descriptions and help files
+adds the specified expr as a non - final candidate
+bootstrap standby when the existing nn is active
+set a timeout . starts a ( daemon ) thread which checks if the timeout has elapsed .
+add a trace listener for the purposes of debugging and diagnosis .
+returns a string representation of this object ; useful for testing and debugging .
+basic listener function to signal image backend that task has started .
+stop wav play back
+returns a formatted string of the calendar value time placed .
+return the branch qualifier of this transaction .
+serializes the given objects to the specified stream .
+"formats bytes , e . g . 1000 - > 1k b , - 2500 - > - 2 . 5 k b"
+extract a parameter value from a request .
+safely converts a string into an integer .
+creates a preferences object as described in the extension ' s xml .
+mix the given double into the provided long hash .
+returns the current elapsed time since the timer was started . returns 0 if the timer is not running .
+find cluster by id
+method call from student manager . java and student . java .
+display the preference model editor dialog box . dialog box is modal .
+gets input from player entered on command line .
+returns value of i modulo the number of edges in this directed edge star ( i . e . the remainder when i is divided by the number of edges )
+"opens a server for a specified user . usually , this constructor would be used when communicating with a remote server ."
+returns a map of base service urls keyed by service id .
+get a user ' s profile list
+must be after add begin
+check if current version is previous to given .
+"given a list of words in one string in the form of "" ( word1 | word2 | . . . | wordn ) "" , remove the word from the list if it is in the list ."
+return a simple string representation . . .
+sets up the given document for the default partitioning .
+enable or disable current action from event .
+"returns the response as a character stream decoded with the charset of the content - type header . if that header is either absent or lacks a charset , this will attempt to decode the response body as utf - 8 ."
+set up the audio track to contact the driver .
+report a failed assertion due to a difference in the stored versus the published events .
+get the scene root
+a convenience method for getting argb pixels from an image . this tries to avoid the performance penalty of buffered image . get rgb unmanaging the image .
+creates the secure symbolic link for tomcat l2 go repository .
+static method to get a game by arena
+set the current location .
+adds the given public key as invalid ssh key to the given list .
+destroy url rewrite filter .
+return a string representation of the object
+factory method to create a date panel customized to show holidays . it takes care of all the initial setup .
+clean up expired entries in our cache .
+a list of process type names .
+allocate space for a block of indices
+return offset for bins of a given level .
+get assessment from id string .
+retrieve the temporary directory where to store / load payloads
+implements the systray service . add popup message listener method . if active popup handler is still not available record the listener so we can add him later .
+returns a new working memory with rules loaded from the given namespaces .
+return whether the given resource is either equal to or a descendant of one of the given roots .
+returns the lines of an input stream as a list of strings .
+create a new todo .
+paints the wrapped icon with this alpha icon ' s transparency .
+adds a link to the links property .
+return the underlying map from the jms map message instance .
+builds a key for validators - used when caching validators .
+"add the endpoints of the way to nodes , outer nodes"
+"get the contents of a reader as a list of strings , one entry per line . this method buffers the input internally , so there is no need to use a buffered reader ."
+controls if the input value is a valid value for component color - chooser .
+returns a list with all the schemas .
+handle an exception which occurred during the publishing of a log record .
+"sets the buffering mode of the listener to record and return only the most recent ( the last , the latest ) acceleration update ."
+initialized all the tabs for a given window
+"a list of data points , each of which represents 15 minutes of activity ."
+convert the char array into signed byte starting at cstart for length chars into b starting at bstart
+"long output format : & lt ; name of opcode & gt ; "" [ "" & lt ; opcode number & gt ; "" ] "" "" ( "" & lt ; length of instruction & gt ; "" ) """
+return root schema with schema owner as the given user .
+used to identify which toolboxes this plugin tool should be listed in .
+this method calculate the variance of a list of integers
+copies the first len bytes of array src into array dst with offset offset
+sets the longitude associated with this address .
+"calculates the amount of bytes , per second , that the specified file was processed at ."
+this will get the character from the name .
+get tags via fast settings
+hide the soft keyboard for the passed edit text
+retrieves a collection object consisting of all the org . opennms . netmgt . config . threshold objects which make up the specified thresholding group .
+validate sorts for classes .
+check if this result set contains results for the specified validation level .
+convert an element into its string representation
+clear notification from notification area
+informs all registered result listener that a new result has been removed .
+calcula o volume total de uma lista de caixas
+update the metrics source gauge for how many bytes were transferred during the last time window .
+"returns a string list representation of this object ( if the percent is null ) then na n will be output instead . format is percent , distribution ."
+sets the input layer for this neural network .
+"test for any completely empty container of either type used , for example , in can extract item ( ) logic"
+returns the class name without the package ( if any )
+to check whether the dimensions are empty / null
+finds all the links with a given target .
+test architecture exporter monitor message .
+get the password of the https proxy
+"method to scroll the chat log down by one "" page "" this basically means + = view _ size"
+should be called by external activities / fragments after the logged in action completed
+called when the static image finishes hiding to reset thumbnail and quick action icon values .
+get a formatted string of supporting buffer
+finally print the current graph to a file .
+creates the balana pdp .
+returns the next entry in the settings file .
+extracts the content - type of this result value .
+retrieves representation of an instance of com . leedarson . rest . services . questionbank service
+return a short description of the throwable .
+returns a string representation of this object ; useful for testing and debugging .
+"return the input block size . the largest message we can process is ( key _ size _ in _ bits + 3 ) / 16 , which in our world comes to key _ size _ in _ bytes / 2 ."
+"retrieves the mapped wrapper for a given java object , provided the wrapper was previously cached and has not been garbage collected ."
+"sets this coordinates ( x , y , z ) values to that of other ."
+returns the body properly parsed depending on the content type . might be a string or a json object parsed as a map .
+sets the display surface while in a transaction .
+tests close with disabled wstxfeature and with enabled wstx handler . no coordination calls are expected .
+invoked when the image is completely downloaded and available to the cache .
+sets component maximum width . pass - 1 to let component choose maximum width on its own .
+"serialize an instance , restore it , and check for equality ."
+returns true if the strings are lower case equal
+wait for custom command to return true . default timeout 1000ms .
+"exemple [ 1 , 4 , 6 , 2 , 4 , 6 ] : p = 3 , a = 8 - - > [ 1 , 4 , 6 , 8 , 2 , 4 , 6 ]"
+retrieves the long at the specified byte offset .
+generates a string hex dump from a byte buffer
+calculates the compression loss . we expect current value to be expected growth ratio baseline value . the difference between these two quantities is the compression loss .
+"add key - value pair to map , key need not null"
+returns the sequence of tokens comprising the sentence . this assumes you ' ve done the checking to makes sure the input string ( the source side ) isn ' t a plf waiting to be parsed .
+"add the pad bytes to the passed in block , returning the number of bytes added ."
+returns text converted to an integer value or throws an exception . this method is locale - aware ( which doesn ' t mean much for integers ) .
+dfs heuristic that limits search for mutant words to only include the indices of the string that are different
+stores how many objects are selected for use by the list tag
+determine if two character sequences contain the same characters .
+add a dependency on a processor .
+"returns the current set of region metadata for this process , initializing it if it has not yet been explicitly initialized before ."
+derives a contract with new quantity from this contract .
+returns the full url from the servlet request
+"compares current value with specified value for equality and , if they are equal , replaces current value ."
+parses rules text into the map of signatures to rules .
+clean up after testing
+sends 302 temporary redirect to client . to be used when client must not cache the redirection .
+"whether we can split at reduce work . for simplicity , let ' s require each work can have at most one child work . this may be relaxed by checking connectivity of the work graph after disconnect the current reduce work from its child"
+clear the dfs flags .
+get / update - - > update the email and the name for the user in the database having the passed id .
+notify the monitor of the successful completion of a download process .
+helper method to encapsulate exception handling .
+add a processor to the chain
+gets the value of the advise property .
+searches for the least recently used page
+returns a clone of the user object . this implementation clones any xml nodes or otherwise returns the same user object instance .
+gets an aggregate definition based on a given alert definition name .
+creates a simple buffer that is not recycled ( never will be ) of the given size .
+method that removes a child from the children set
+is the length of this duration equal to the duration passed in .
+convert the byte array to an int starting from the given offset .
+"test flattening for record within an union within another record record r1 { fields : { union [ record r2 , null ] } }"
+checks if given node is a igfs node .
+gets the value of the datasource index property .
+add a content modification .
+check whether this cached introspection results class is configured to accept the given class loader .
+returns the customary display name in the given language for the given territory the phone number is from .
+returns a short string representation .
+activates the treetraversing - routine that builds the path given by dfs .
+"sets the current scheduler . if the old scheduler is the guischeduler , it is interrupted and notified about the changed scheduler ."
+the method determines if the resource can be converted to a class .
+"returns the full identifier of this function , as known by the factories ."
+level 1 is used for interactive tasks .
+set editable quantity and price
+checks that the standard 220 reply is returned following the initiated connection
+gets the item ids of the items present in the inventory
+set the interpolation order .
+returns the current character
+returns a string representation of this object ; useful for testing and debugging .
+"check if everything is sets properly ( meaning , everythin ' s ! = 0 ) ."
+"rename the file with oldname to newname . if a file with newname already exists , it is deleted before the renaming operation proceeds . if a file with oldname does not exist , no file will exist after the operation ."
+asks the user to select an object from a given array of objects .
+"set the offset of the local timezone , ignoring the default provided by the os . mainly useful for testing ."
+"checks the validity of a version number ( the specification version numbers , three dot separated integers between 0 and 99 ) . throws a service exception if the version number is not valid ."
+tests that a valid ascii - based message is correctly found as valid when there is only one public key associated to the validator .
+returns an instance of the plug & play class thread .
+computes the standard deviation of a series of values .
+called after another evolution cycle has been executed .
+verifies ability to handle simple integer multiplications over several iterations
+starts the wheel animation .
+returns an object from the cache .
+"serialize an instance , restore it , and check for equality ."
+"assuming note reference ( ) is all taken care of , build an uplevel reference . this must be called in a context which is local to the client of the uplevel reference ."
+always return localdata for partition region
+this method sends notification message to mobile app through the open hab cloud service
+returns jcodemodel class definition for given element .
+"remove leading double slash , and inherit protocol scheme"
+returns a string representation of the hand
+this method will check if it still stock of the item
+checks if two date objects are on the same day ignoring time .
+prints a statement into a string .
+convert a relationship list to a list of relations .
+parse a time value .
+the description of the policy attributes associated with the load balancer policies defined by the elastic load balancing service .
+return the action external status from a callback url .
+multiply matrix4x4 by matrix .
+returns an array with the absolute filenames of directories that match an ant pattern using the workspace as the base directory .
+returns true if the required local rule parameters have all been set . returns false otherwise .
+retrieves static instance of daladmin interface class
+return the port on which eventd listens for udp data .
+"connects this instance to the given instances using role "" y "" . if the given collection of instances is null , nothing happens ."
+find an already defined java class .
+return the hobby instance in the database with name ' hobby name ' or null if not found .
+get gist with null user
+deletes the given team
+deprecated - program runs ( as yet ) without loggers . see set std err to file & msgbox
+"sets the sample for the first two bands at the given ( x , y ) location ."
+called when the script is unloaded or reloaded
+"gets an hex string in the format "" & lt ; hhhh & gt ; "" ."
+method to notify that the supplied binding has changed
+convert a numeric array - like to a int [ ] .
+the source of the document ( as a map ) .
+get the index of the last bit that is set .
+convert note to document
+inject new values and update the submit button .
+get the base uri for the wsdl file .
+"start the original activity , and finish the precondition activity ."
+add the warnings and errors of one validation result to this one .
+the identification object should default the timestamp to the current time when none is specified .
+"gets an array parameter constructor as a string , which then can be passed to the execute ( ) method ."
+send a replay commit request .
+"returns the box at the specified index , or null on error ."
+gets the clock difference in html string .
+"get the editor that is currently being used , if it is a text editor ."
+range check a child index .
+build the minimal automaton representing the days of a week .
+removing an existing object should succeed .
+get the work currently associated with the transaction .
+set the name of this marker .
+method formats content - type and charset for use as http header value
+set the name of the query from which this blast entry comes from .
+returns cached bytes that are also reset .
+method used within jsp pages to properly indent elements within a hierarchy table . the second parameter is used to determine whether or not to display any arrow graphics .
+construct an identity transformer .
+"serialize an instance , restore it , and check for equality ."
+page events for user
+"test of get x method , of class point ."
+set whether or not protocol lib should determine if a new version has been released .
+check for more attachment .
+"strips leading null bytes from a byte array , returning a new copy . as a special case , if the input array consists entirely of null bytes , then an array with a single null element will be returned ."
+updates each created player by this class and immediately draws it . this method should only be called if you want to update and render on the same thread .
+"merge the specified velocity template with the given model into a string . when using this method to prepare a text for a mail to be sent with spring ' s mail support , consider wrapping velocity exception in mail preparation exception ."
+/ user / delete / person ? id = [ id ] - > delete the person user having the passed id .
+do http post operation for the given url
+returns the first value of a string property .
+returns the second byte array .
+search patron account by phone number
+singleton class to initialize the dbconenctor class
+returns a map of collected package names to root paths .
+finds a team by its normalized name
+"test of terminate method , of class jruby engine ."
+generate list of crumbs .
+gets the value of the extrusion h property .
+indicates whether there are more combinations to be returned or not .
+check if connector is enabled and checks authentication .
+"get the unc name associated with a particular drive letter . if is network drive ( ) returns false for this drive letter , returns null ."
+adds the key to the read top - key .
+these operations critically rely on the fact that we unpack the array in the order we packed it !
+docker run can fetch environment vars from empty list .
+gets the rtp header length
+log a message at level warn to all available / enabled logs .
+retrieves the state label associated with this split data . note : invoking this operation is illegal if no state label has previously been set .
+adapts a virt ex order to a limit order
+overridden hash code ( ) this method is adopted from hash code ( ) method in the course text book effective java 2nd edition to return the hash code of the entry phone number
+creates a view and installs event emitters on it .
+gets a string from a memento
+contacts a region server and waits up to hbase . hbck . close . timeout ms ( default 120s ) to close the region . this bypasses the active hmaster .
+returns a string representation of this object ; useful for testing and debugging .
+returns a string representation of this object ; useful for testing and debugging .
+convert a token into its string representation .
+message is considered valid only when it has wigzo id and its type is determined
+deletes the file and if it ' s a directory deletes also any content in it
+get index of object in array .
+get api end points to handele requests from admin
+encode url using default encoding and unchecked exception
+"circuit listener each time the circuit changes , test if there is a vhdl component if yes , start the vhdl simulator , and if not , stop it"
+returns an array containing all the columns of the entity the columns are sorted by ordinal position ( the original database order ) .
+metoda dodaje pretnju u listu pretnji ove strategije
+set uuid field record value
+clicks the cancel button when entering a folder name . re - uses objects from assignment add submission . java
+returns an german language profile
+"if there is a type attribute for the element node , return its value , otherwise return "" scalar "" ."
+returns the message client that the message is intended to .
+obtiene un usuario por su nombre
+executes an ant task
+"returns the default dialog spacing , in pixels"
+field type signature : : = class type signature | array type signature | type variable signature .
+this method should clear the states of the current instance .
+convert a jsonarray into a slaregistration bean list .
+the next option created can have num argument values .
+"are the choices deterministic ? ( i . e . a single probability 1 . 0 transition ) ( will also return true for a continuous - time model matching this definition , since transition list does not know about model type )"
+parses a string containing a cognometric grouped password
+returns first page in paging range .
+generates the html page that is returned to the user when the given location doesn ' t exist in the database .
+select methods returning objects that are of a given type or of a sub - type of given type
+a helper method to get a string [ ] out of a field array
+attaches a new scene to render in this view port .
+returns the size of substring that does not contain ane trailing spaces
+"returns the value annotated object for the specified annotation key . the annotated value is expected to be string that can be parsed as double . if parsing fails , the returned value will be 1 . 0 ."
+gets to do data from data base
+returns a string representation of this object ; useful for testing and debugging .
+create the json factory
+call this after calling client . execute in order to execute proxy authentication if needed .
+"compute ancestry , starting with children and going back to parents"
+assign value to string if the string is null or null string or nothing
+"according to the "" column "" query "" column "" number ."
+"test of contains value method , of class headers map ."
+runs servlet - setup wizard on specified project
+creates an integer array filled with random values .
+this method sets the common parameters .
+slow method to import all currently highlighted primitives into this instance
+returns the euclidian distance between two double arrays .
+add a port . currently only a single port is being used .
+gets the value of the fade dir property .
+get the source for the given data point
+"append a new "" do function "" operation to the sequence"
+connects the given model to the given log ( needed for log replay ) .
+"get the id of the motor . one of ' a ' , ' b ' or ' c ' ."
+access a parameter from a parameter map
+parses a block command like foreach / if .
+creates a new configuration based on default values
+set twitter oauth token secret
+if the definition of to string is not from java . lang . object or any class in the java . util . package then we consider it a custom implementation in which case we ' ll use it instead of introspecting the class .
+add this state to l [ pair _ index ]
+"given an omtext node , create it ' s corresponding element ."
+saves the current state of the crawler to the specified output stream .
+generate a hash code
+retrieve all videos with a certain tag .
+create the scatter plot data .
+creates a gravatar thumbnail url from the specified email address .
+load the locale settings from the configuration
+lazily creates the scaling requirements for the open shift container provider
+returns class probabilities for a weighted instance .
+get the current output of the 5 v rail
+returns the registered extension for the given mime type . note that some mime types map to multiple extensions . this call will return the most common extension for the given mime type .
+metodo que permite escribir un mensaje al usuario email enviado que pasa por el servidor .
+get a value used as an introduction to the article
+returns the size of the given array .
+finds the weapon index that uses specified ammo
+adds more minutes onto the minutes in the specified date .
+read bytes from an input stream and write them to an output stream .
+return a list with all values in this binary search tree that are greater than the parameter value . value ! = null
+"method to search for any words that might appear in the question answer object . all fields ! ! ! this includes the category , question , and the answer itself ."
+called when a job completes . mark the job as finished and push a status event .
+retrieves a string parameter value from an annotation .
+no exception in creating csv parser with emtpy stream
+overridden to ensure that equal instances have equal hash codes .
+returns the mnemonic keycode int of the resource for the specified key .
+returns whether the passed in shape is a matrix
+"given a uri as an asset and the server name and port ( as server : port ) , returns a url that can be used to download the asset ."
+converts an entity to a dbobject
+sets the values of all buttons for this sensor read object .
+write a collection of doubles to a print writer
+tests that an id is created for a fixture .
+returns the value at the specified key .
+fast space padding method .
+set something to the fields of the game state and checks if the values have been set correctly .
+"get an instance of a named cert path builder , from the first provider that implements it ."
+adds the coordinates to the current position and returns the newly calculated location .
+inserts files into zip file .
+convert a field value on a string
+get the current site name .
+creates a new selection from the given start and length .
+changes the current visibility warning threshold setting .
+remove chars from a string
+compares the time of two events . this method is used when sorting the list of events maintained by the event queue class .
+"a convenience function for converting a date expressed in minutes , days , and hours into a millisecond time stamp ."
+remove up to the requested amount of charge and returns the amount removed .
+generates randomly n distinct integers from 0 to max .
+load sql for reference list
+returns the highest zoom - level number from the scale list .
+"returns the appropriate descriptor for the given types . returns uppermost the ranked adapter factory descriptor with the highest ranking . if no ranked adapter factory descriptor found , delegates to the delegate registry ."
+send message to server without encryption
+constructs a bioassay name . this is useful when writing out data to a file .
+asserts that two doubles are equal concerning a delta . if they are not an assertion failed error is thrown with the given message . if the expected value is infinity then the delta value is ignored .
+call this method to register an entity - specific delegate for a particular entity name .
+"this function tells the lcd ( x0 , y0 ) to ( x1 , y1 ) area to draw into . the next data bytes written to the lcd will be 12 bit color information"
+gets the value of the value is xmlentity property .
+read the next nb bits and return an signed long .
+creates a series for testing .
+provide the short name for the scale .
+"returns whether the broadcast is an emergency ( pws ) message type , including test messages , but excluding lower priority amber alert broadcasts ."
+creates a new period instance that matches exactly the month that includes the specified time stamp .
+sets the term integer identifier for the given query term .
+"this method copies the currently detected beacon instances from the cache . used to pass the list of the beacons in an intent , since the beacon class is parcelable and additional information is not important ."
+gets assignment data from data base
+attempt to separate attached pronouns from the given verb .
+"parses libraries from "" pkg - config - - libs - only - l "" input ."
+add a list of forecasts to this model
+returns the string representation of this dimension .
+"searches for the first occurence of the given argument , beginning the search at index , and testing for equality using the equals method ."
+tests are written for us - locale
+checks if a given throwable instance corresponds to an exception declared by this stub strategy ' s method .
+the process io needs to be handled in order to not block the process .
+unwrap double for call
+gets tag title from the specified uri .
+generate flow category info
+writes an unsigned 32 bit value to the stream .
+sets the contained feature list given by prop node .
+"produces a normalized date time , using zero for the time fields if none were provided ."
+schedule refresh after one minute in case there is a value change between initial load and server startup
+"set system property to value . if security manager denies property modification , silently ignore property change . if value is null , property won ' t be set ."
+query service through checker .
+report summary that will help to diagnose the problem currently includes : - standard input produced by the process under test - standard output - exit code note : the command line is printed by the process tools
+copies the data into a new array of at least capacity size .
+converts a java . util . date into an instance of xmlgregorian calendar
+"internal : response status after invocation , and in case or error attempt to read the exception sent by the server ."
+"test : regex , delimiter = "" ; "" , "" ! ; "" appears in the field ."
+vert . x turns byte [ ] into a b64 encoded string . reverse it .
+create a words tokenizer using the default regular expression which is white spaces and sp characters .
+the spago bioffice document internal engine cannot manage subobjects so this method must not be invoked .
+call this to use a different subclass of location utils throughout the program . this can be used by embedders in addition to tests .
+checks that this class implements public cloneable .
+this method purges specifics and ranges from definitions that don ' t match the attributes specified in the event ( the update def )
+get the number of users .
+run mapreduce job using hawqinput format locally .
+method sets a relative direction used to move the robot .
+return the specified url or path string with the fragment part removed . if the string does not contain a fragment then return the string unchanged .
+"return true if inserting a character in str1 gets str2 str1 is 1 shorter than str2 removal is identical , with reversed parameters"
+waits for a connection from the server and then sets the timeout when the connection is made .
+returns the accessor class reference for this element . note : this call is only valid when the element is using the eclipse nls mechanism .
+atomically decrements by one the element at index i .
+computes the key that identifies this hudson among other hudsons that the user has a credential for .
+preprocess the specified line .
+"this method will be invoked when the current page is scrolled , either as part of a programmatically initiated smooth scroll or a user initiated touch scroll ."
+test if this file is a valid components package directory .
+helper function to get a view
+converts a height from feet & inches into meters portion of a height ( 2 . 43 )
+get access token ( key ) creates a unique access key for the session the goal here is to have a unique key and secret for the session which the app or user can own for the session . everything builds up to this .
+gets the font used in a particular formatting run .
+sends the files that this server is hosting to the server .
+finishes and stores the exit value for the process .
+"+ returns the visible component that contains the specified point , + or null if no visible component contains the point . the x and y + coordinates of the point are relative to the origin of this container . +"
+"find the _ fields constant that matches field id , or null if its not found ."
+stops the current trace . you can still add items to the trace context after the trace is stopped but nothing else will be timed .
+"return option one if it does not equal criteria , else return option two"
+takes the input of stop area id and checks its existence .
+adds a user for which this recommendation holds
+set the global tile id at a specified location
+get the associated extension value .
+concatenates the values of all the nodes in node list
+this method is useful for configuration parameters that have sub - nodes .
+returns the value of the field with the given name .
+creates a new instance
+retain the positions completely contained in the given range .
+"generates an instance of horizontal line that contains point ( 0 , 0 ) a = 0 , b = 1 , c = 0"
+get a data source from local store
+gets the dbcollection for the ' consult ' collection using the given mongo client .
+add the file to action output cache entry . put the file to cache if necessary .
+creates a table cell to wrap the given rendering element
+set the motor speed .
+handles default / assignment or / assignment / list request
+mark that entry filtered .
+converts the specified java object into ibm i format in the specified byte array .
+utility method to ensure messages get created in a uniform way in all converters
+remove the application policy
+first policy is the owner ' s policy
+"converts the given collection to an array , filling the input array which is then returned . added because the . to array ( ) method in le jos ' s array list appears to be broken ."
+adds an edge from the source vertex to the destination vertex ( source - > destination ) .
+test of the set user name ( ) method
+check whether the given item is associated with one or more genres .
+waits for sync ' s backend to be initialized .
+returns a list of alternative names for the given post script name .
+restore the print job ' s print service to what it was originally .
+send data to http queue for processing .
+"get the security property boolean for the given property . it also checks for the older "" ws - "" property values . if none is configured , then the default value parameter is returned ."
+this method decrements the current step .
+tests that the handler properly returns a completed result if the assertion is in the session .
+sets the active level of the dimmer . updates the alpha value based on the level .
+"binds events to the start button . by pressing the start button , the game is initialized and the timeline execution is started ."
+method to receive message text from network .
+test for is multi valued ( ) method .
+write a 32 bit integer to the stream in little endian format .
+make sure that flush doesn ' t throw an exception after close is called
+"linear probing of the table to find the first empty slot - look at hash key , hash key + 1 , hash key + 2 . . . until empty spot"
+get all declare keywords .
+transform json to list of product property jso
+used to adjust the merged cells following a column removal
+imperative implementation that returns the length hailstone moves for a given number .
+determines whether a given node is a proximity node .
+returning a new user context instance for the given already - authenticated user . a new placeholder account will be created for any user that does not already exist within the database .
+seta a value into an object .
+take a class name and return the equivalent file name ex . org . owasp . webgoat becomes org / owasp / webgoat . java
+parse the mioutput generate after posting the command .
+returns whether the property name and value constitute a valid https application property . the property is valid if it is a valid application property and its name begins with ' iothub - app - ' .
+returns a job configuration preconfigured to run against the hadoop managed by the testcase .
+"test of add method , of class hbase message mapper ."
+schedules the activity corresponding to the after key to be run immediately after the completion of the activity corresponding to the before key . this method has no scheduling effect on the activity corresponding to the before key .
+"given a vin , get the vehicle with that vin ."
+"returns a tweened angle based on the given angles , weight and the spin ."
+utility method to build a choice box list with single values .
+perform a smart pool search
+creates the etcd node quorum string .
+indicates if more items are available through next ( ) operations .
+"removes this row data listener from the internal list . if the row data listener is not on the list , nothing is done ."
+updates the file monitor .
+test importing of mrna _ test file .
+determine if messages sent to this server and recorded on this tap stream have been canceled .
+generates a random captcha
+gets a classloader for the given codebase and with the current context classloader as parent .
+returns the text from a file .
+demonstrate the old for loop to find first article object that has java as a tag .
+check if a sorted itemset is contained in another
+returns the number of minutes ago between the start time and the end time .
+data access object for entity instituicao
+determines if a method has a valid name and signature for a java bean setter .
+"returns the typed value , serialized to a byte buffer ."
+check to see if a given node element at a given depth can be rendered
+get the index of an attribute in the attribute array
+reads the whole file . returns the list of lines .
+tests if we receive a confirmation when we attempt to open a file that it doesn ' t exist .
+function to change password
+dispatches success to all of the callbacks registered with this list . this may only be called once .
+adds the to scan task .
+write the 8 - bit byte to the binary output stream .
+"returns true if all mbrs are elements of this view , false otherwise"
+add value to counter
+"called while a drag operation is ongoing , when the mouse pointer has exited the operable part of the drop site for the drop target registered with this listener ."
+get the unique instance for this class
+implement the parcelable interface
+"an "" enter tags "" model and view handles user data entry of multiple tags"
+generate an index of the available records in this grib2 file .
+returns the build number of the running jdk if it ' s a re build it will return 0 if it ' s an internal build .
+set the property value by parsing a given string . may raise java . lang . illegal argument exception if either the string is badly formatted or if this kind of property can ' t be expressed as text .
+compute the checksum of a tar entry header .
+gets pokemon by pokemon id .
+forwards pause app to the midlet .
+either text or gpdbwritable . call the appropiate read method
+checks if key is pressed or mouse is moved etc .
+selects an item in the list and then checks the action bar title
+generate sub query definition for such a sub query which is applied to each row of parent query .
+returns the handler used for creating beans off xml elements with the given namespace and local name .
+called from outside after the complete end of defrag
+go to previous track for current picker
+"sets minimum and maximum size limits for the window . if the window is full screen or not resizable , these limits are ignored . the default for all four parameters is - 1 , which means unrestricted ."
+"find a channel by id . if it doesn ' t exist , it is created ."
+this method return user transaction instance
+"checks that the declaration is marked "" native "" and has a ceylon implementation meant for the specified backend"
+check to ensure that this class implements public cloneable .
+seek the scanner at the first key value of last row
+returns the width of the specified character .
+utility method for generating random double values in the range specified by the low and high attributes . used during the store iventory initialization .
+de - serializes and constructs user - specified avro return type from byte array
+hit this definition and check the threshold
+"this method only uses the default commons http client implementation when the url object represents a http resource . the url object could also represent a file or some jndi resource . in that case , the default java implementation is used ."
+map to java object
+gets all selected objects .
+checks that the given class is visible to the log manager .
+url - encodes data to make it safe for http transport
+this is call if a single colum of the table is changed .
+add a discovery from decoy data
+sets if the original int meta class is used
+return true if the driver appears to be jdbc 4 . 0 compliant .
+"attempts to retrieve the user specified photo path . if nothing is found , defaults to . . / upload / csv"
+checks whether the extension of the filename is that specified . this method obtains the extension as the textual part of the filename after the last dot . there must be no directory separator after the dot . the extension check is case - sensitive on all platforms .
+copy only date information to a new calendar .
+"checks , if this rule applies to the given library name ."
+tests that a null context results in an npe as per el javadoc .
+get the thesaurus to be used .
+return a string representation of this ntprincipal .
+check if the list is empty .
+sets the last item in this word relation to the given word .
+returns a string representation of this object ; useful for testing and debugging .
+reply call from server .
+"specifies the number of seconds , after the reception of the sts header field"
+"returns the bounds of the given item , or null if it is not a valid type of item ."
+"test of close client method , of class client ."
+returns the credentials storage service obtained from the bundle context .
+get the full file model object for an absolute name .
+return this point as a string .
+gets an application property value .
+this test shows that the heavy field is not instantiated until the method get heavy is called
+puts the enum indicating the source of the token into a bundle .
+writes tag and const _ value _ index in element _ value .
+"implements input stream . read ( int ) in terms of input stream . read ( byte [ ] , int , int ) . input stream assumes that you implement input stream . read ( int ) and provides default implementations of the others , but often the opposite is more efficient ."
+"handles delete user , and redirect to user default"
+recharge the lamp by feeding it with a demon
+prefix features with u - ( for unigram ) features or b - ( for bigram ) features
+returns true if str contains a script .
+make a new command ( builder ) .
+convenience method . returns the value of the query parameter with the given name . if it doesn ' t exist then null is returned .
+normalize the title of a dcvalue .
+fetches methods with specified annotation .
+returns the distance between the two points
+"get an instance . the location of the master password file is provided via "" encrypt . key . loc "" ."
+list star ( args ) is like common lisp ( apply # ' list args )
+"finds the vlan device among all interfaces , either by the network name or by vlan - id"
+adds the given notification to the list of unread notifications and notifies interested listeners .
+generates a new project name for datastore os3 . project1 variable .
+process the annotations for the listeners .
+sets the port number of the target host of this datagram packet .
+basically returns a bound data set or null
+converts joda ' s date time format into google ' s date time format .
+write value tag ( ) writes an image file directory ( ifd ) entry whose value fits into the value offset . see section 2 ( page 15 ) of the tiff spec for more details .
+"magic : query for all objects with a known attribute , independant of the class or even if you don ' t know the class ."
+"saves the state to a stream ( that is , serializes it ) ."
+adds a customer to the customer list
+removes the page with a given index .
+gets the last execution instance .
+performs the actual write to the repository . this can be overriden by a subclass if necessary .
+method to dump a tree of resources recursively .
+"releases database connection . unlike the underlying connection . close ( ) , this method does not throw sqlexception or any other exception . it will fail silently from the perspective of calling code , logging errors using commons logging ."
+simple check that hash code is implemented .
+determines if a named class can be loaded or not .
+"releases the shared reference for all sstables , we acquire this when opening the sstable"
+check which character set a given content - type corresponds to .
+gets the given property as a boolean value .
+provides claim mappings for applications .
+returns the current recall : tp / ( tp + fn ) . returns 1 . 0 if tp and fn are both 0 .
+remove a registered listener
+returns the fieldpolynomial as a new bitstring .
+test for block size of 2 gb + 512 b . this test can take a rather long time to complete on windows ( reading the file back can be slow ) so we use a larger timeout here .
+lock object . needs to be explicitly called . unlock is automatic .
+returns the number of seconds since midnight . this method does not consider the position of the activity in the activity chain . the consequence is that activities that run over 24 : 00 : 00 must be manually corrected if they appear in an activity chain .
+"write an array of "" slim "" points ( without endianness , srid and type , part of linear ring and linestring , but not multi point !"
+get the root cause of the exception
+open a new database connection with the given settings .
+"note : - 1 is the empty field : "" "" ! ! ! !"
+"verifies the byte by byte read is equal to an increasing byte array , where the written data is an increasing byte array ."
+example of asynchronously deleting the sink .
+gets the assessments of the selected user
+"removes the given display name from the ignore list of the class . returns whether the removing was succesful , i . e . whether the display name was in the list ."
+"returns the extension for dynamically linked libraries on the current os . that is , returns "" jnilib "" on apple , "" so "" on linux and sun , and "" dll "" on windows ."
+determines whether the passed in string is a valid zookeeper url or not
+gets the type of events the processor produces for its i - th output trace .
+get the value specified for a given attribute on this element as an integer .
+the last item in list
+initializes and creates all the portal container that have been registered previously
+get value . the value of this property
+a utility method to clear the netty pipeline of all handlers .
+make 16 bits of data
+formats date with specified format .
+get string value from sharedpreference
+clears both interceptor lists maintained by this processor .
+! null id may be empty
+returns if the given model path is existing in the current game level .
+method to convert image in bitmap format into byte array
+a method used for autonomous driving .
+adds a claim uri to the required or optional claim list .
+adds given numbers to write blocks counters .
+saves the state of the given editor input into the given memento .
+returns a string representation of this object ; useful for testing and debugging .
+is the drawable db out of date for the given case
+gets an array of the lines ( without line breakes ) which compund the string
+log out and run new login window
+returns true if enabled for the given object .
+a list of email addresses that have been verified .
+find current weather around a geographic point
+gets up to max bytes from an input stream
+send a command to the server
+test add urlconnection try to add a new protocol with class mapping
+we expect illegal state exception to pass thru map .
+removes session output for host system
+get the text to be logged for a certain exception
+"throws illegal argument exception if the char sequence is empty , otherwise returns the char sequence ."
+returns length of json array
+initialize the actual parameters in a method call . assumes that the callee stack frame has already been pushed on the stack .
+gets the value of the field in the class with the given type .
+adds a connection pool listener to the internal list .
+get the display name for a card entity
+returns information on the active network connection
+get preference prefix string
+returns the base folder for tests .
+converts the given type into a jvm signature if it is a generic type . otherwise it returns null .
+gets the value of the outline level property .
+"' fires ' a simple single ' section ' with associated data event . note this method will result in a start event , data event and end event ."
+test remove intertag spaces .
+"utility method to get bitmap from cache or , if not there , load it from its resource ."
+"adds given container to the list of parent from the map . if list is missing in the map , it is created and placed ."
+test search when illegal limit argument .
+clears and removes pool of given type from this collection .
+save a perf trace event as a json dict . the format mirrors a trace event dict .
+return true if the ticket is currently valid . this is true if the system time is between the ticket ' s start and end times .
+gets the file for the owner
+"adds the calculation represented by to the worklist , if it has not already been calculated ."
+return the maximum key value in the map
+"get the property value , if it is null return default value"
+search a secret key ring collection for a secret key corresponding to key id if it exists .
+reads a zero - compressed encoded long from input stream and returns it .
+convert to char [ ] and fill the char chunk . xxx not optimized - it converts to string first .
+the next option created will be required .
+retrieves all specified types in a list ( same as returned by values ( ) method ) .
+can we calculate the total pages when it rounds nicely and there ' s only one ?
+get whether or not a wifi connection is currently connected .
+returns a string representation of this object ; useful for testing and debugging .
+"converts a big integer array into an integer array , reducing all big integers mod q ."
+converts an array of class names to class types
+gets json data from url and stores it in access token class .
+get security _ . the security configurator for this object
+"test of get dating system method , of class default calendar era ."
+parse date with given formatters .
+verifies all where the first fails .
+creates an asychronous filling handle .
+no resources to read should result in error in strict mode .
+get file name without extension ( ) works and is correct case
+gets an object value and transforms it into a long
+returns instance of mapping deriver .
+calls case xxx for each class of the model until one returns a non null result ; it yields that result .
+adds a mode - specific abbrev .
+extract location tag ids from the list of location tag objects provided .
+note : this method may throw checked exceptions although it doesn ' t say so .
+"returns the fully qualified file name associated with the passed data input stream if the data input stream was created using one of the static locate methods supplied with this class , otherwise returns a zero length string ."
+create native object we use it to create native handlers
+convert an input byte array to a string using the ascii character set .
+creates a new sequence .
+"extracts the timestamp from the byte array form of an update ( server time in case of snapshot , seq num in case of action )"
+returns the user id of the portlet . this only applies when the portlet is added by a user to a page in customizable mode .
+returns the current memory consumption
+dy base can retrieve dy user .
+test get table output stream ( ) - we need to test that the inheritance model is properly obeyed .
+tests that an exception is thrown if the read exceeds the file length limit .
+adds a value element of the type indicated by the given xpath at the selected index to the xml content document .
+returns a string representation of this object ; useful for testing and debugging .
+set the name of this cuda device prop to the given name
+reads a specific short byte value ( 2 bytes ) from the input byte array at the given offset .
+contains key implementation for chunk elements
+attempt to load the class of the given name . note that the type parameter isn ' t checked .
+checks if placing the piece at grid position with the rotation rot is a valid move .
+sets an array of authors .
+"get specific device property . if specific not found , return global value ."
+perform a task on each document in the forward index .
+users ' heartbeat to the worker .
+test returning no . of items remaining to the right of start index is greater than the amount to be retrieved
+"creates a new system - compatible image with the given size , which is much faster when drawn than an image with a custom format ."
+converts an url to an uri . escapes whitespaces if needed .
+clear the selection . the model should remove highlighting from the previously selected objects .
+"looks up a server with a given id . if the id is null , returns the static server ."
+"closes the given object , ignoring ioexceptions ."
+we duplicate some strings in the array and distinct operator detect those and skip it . shall print hello reactive world
+adds a task to the google api client manager tasks queue . this task will be scheduled to run on the calling thread .
+draw method - for drawing an image in a new position on the screen
+returns the tenant id for the logged in user .
+returns the value of a field as a float
+helper method to validate issuer
+"sets the type for accessing the content provider ( i . e . , content _ resolver or content _ provider _ client ) for the hobbit ops implementation ."
+returns true iff there is an edge that has not been returned by a previous call of the next method .
+return number of color mana symbols in manacost .
+testing bar creation with date column .
+remove the specified alias from our cache .
+returns the string representation for this object .
+"a list of tags associated with stream name , starting with the first tag after exclusive start tag key and up to the specified limit ."
+resets all current tabs information .
+will invoke the specified action in edt in case it is called from non - edt thread .
+get custom typeface from assets
+executes a command on the native command line and returns the result .
+method invokes by the pdf content stream processor . passes a text render info for every text chunk that is encountered . we ' ll use this object to obtain coordinates .
+given a cluster and a node id checks if the node exists
+"modifies the given zip entry so that it can be added to zip file . the given zip entry represents an enhanced class , so the zip entry has to get the correct size and checksum ( but only it the entry won ' t be compressed ) ."
+update session and remember me service with user login data
+logs object ' s context . to string ( . . . ) representation to info stream if it ' s defined .
+clears local variables form the variable map so that old local variable name - value pairs are not to be used in successive evaluations .
+reads the visual signature from the given input stream .
+perform stride operations at once .
+"writes a bytes array as a typed bytes sequence , using a given typecode ."
+sets the value of the specified security property .
+for each player of the match it assigns 6 politic cards with random colors .
+draw a horizontal line
+bring the console view to the front and show this console .
+extended grammar for varid / conid from haskell 2010 specification . also allows underscore as start on varids .
+returns a string representation of this object . includes information about the types of the arguments in the signature
+this changes the temporary placeholder jpeg without writing it to the media store
+spawns the threads for each each elevator
+sets radian longitude to something sane .
+sets a new application folder . note that this will reset all the folders and resources that are bound to it . for example there might be the need to recreate the database file .
+"returns true if the parameter character is a hexidecimal digit 0 through 9 , a through f , or a through f ."
+"creates and returns the database adapter instance . if an instance has been created , the same instance will be returned on subsequent calls ."
+"returns true if the player owns the token , otherwise false . if the player is gm this function always returns true . if strict token management is disabled then this function always returns true ."
+select a protocol . set it as preferred .
+determine a buffer size for reading the underlying character stream .
+"print the class hierarchy for the given ontology from this class down , assuming this class is at the given level . makes no attempt to deal sensibly with multiple inheritance ."
+returns the index node for the node position digit .
+waits for all tasks within the pipeline to complete .
+add a new column to this table column model
+"returns the full commandline used to start the mysql server , including and arguments to be passed to the server process ."
+tests getting and setting fields .
+method to move a robot one cell back ( relative to his current direction )
+store text in the cache
+return a list of vm arguments
+return a list of the second items from a list of pairs
+set the character at a particular offset
+limits results of get hl7 in archive by state
+return a rating instance with no rating . create and return a new rating instance with no rating known for the given rating style .
+the resource must already exist in the enc of this webapp .
+"removes the character large object ( clob ) associated with the specified key in the given preference node , if any ."
+obtain nfs protocol version ( if provided ) for a store uuid .
+returns an image scaled to fit width panel
+retrieves the naming context bound to the current thread .
+deallocate all host list for the vm .
+returns true if the reference of the specified class key exists in this context .
+returns the user name of the user making this call . this call is only available to applications on the system image ; it requires the manage _ users permission .
+resets and initializes the session factory . if there is a session factory then this one is first closed before a new one is created .
+this method returns an array list of strings of ip addresses that all have the maximum number of visits to this website .
+return the sign of the given double value .
+creates a copy of the record so we don ' t get interference from bolts that execute in the same jvm . we invoke byte buffer . duplicate ( ) so the byte buffer state is decoupled .
+"for example next int between ( 2 , 8 ) can give values between 2 - 8 , all included ."
+sets the given property . make sure this model has this property !
+"doc amaumont comment method "" get external data "" ."
+send an unsolicited pong with the specified payload .
+removes the resolver identified by key from this registry .
+"delete the last "" _ "" part"
+calcula o modulo do desvio da amostra na fila requer que o intervalo total de tempo tenha sido definido
+removes trailing empty lines .
+checks if an imbalance was detected in the system
+returns ntp packet reference identifier as ip address .
+create linear gradient fill .
+returns the system load average for the last minute .
+get the bean property from a configuration key if it contains one .
+return a string representation of this object .
+if the stroke can be described by a basic stroke then this returns true .
+creates reserve disc cache which will be used if primary disc cache becomes unavailable
+"create a simple unit from the given name , allow exceptions ."
+finds the user name from the local database of the device .
+returns all the endpoints .
+encodes byte into its url representation .
+test a null formula
+check the geometric consistency between three correspondences .
+returns true if the hints contain at least one value that equals the specified object
+get boolean value of an attribute .
+set expires header to given date .
+cuts the field from left to right according to y cuts
+adds an object to the queue .
+"adds "" to add "" items which are not excluded ."
+extracts the password from the flex client credentials
+sign the cookie given the string token as input .
+private helper method that computes the height and width of the piece .
+store view hierarchy state into a screen that will be pushed into the backstack of flow
+announce a synonym type with the given conformance hints .
+tests whether an add _ node event can be constructed properly .
+tests in physical port criterion .
+"commercial builds should have the build _ type set to commercial within the release file , found at the root of the jdk ."
+test to make sure constructor throws exception on bad inputs .
+gets the value of the parameter style property .
+return a string representation of the char classes stored in this class . enumerates the classes by index .
+"sets a base form ( lemma ) that will be formatted , or synthesized , using the specified pos regular expressions ."
+sets the window title for the container that hosts this page to the given string .
+"converts an rgb object value to an integer value , the integer format is 0x rrggbb ."
+convert all possible operators to banned
+creates a background thread that will call the launch notifier when the process terminates .
+"takes in a list of items ( as movies ) and ranks them using the recommender system . note that it ranks the movies in the original array list , so the old ratings are destroyed and a new ordering is imposed on movies ."
+"returns the index of a letters in the array . if the array doesn ' t contain the letter , an exception will be thrown ."
+returns whether the given string is the default to string ( ) implementation of an object .
+find principals having specified permission .
+is the matrix full rank ?
+retrieve the initial known set of grammars . this method is called by a validator before the validation starts . the application can provide an initial set of grammars available to the current validation attempt .
+return a map - representation of the auth options
+simple method to determine the growth rate
+"static method that returns topic name for given topic address , i . e . it removes subtopic name and separated of subtopic . name ."
+"returns , if exists , a view of the type type view ."
+returns the current concurrency level . see ' set thread concurrency ' for details on the meaning of concurrency
+returns an image uploader instance associated with the specified media provider
+called when a node is determined to be up .
+extracts the recipient from the given string using the sender regex .
+the current priority of the thread associated with this future .
+"called when live position is on , swapping given players position"
+attemps to login using the supplied params .
+handles an action without a key .
+handle ' add prefix ' link . save { new prefix name } = { new prefix value } into the command prefix . properties file .
+set a new radius
+callback to indicate that parsing is done for this part ( no more update events for this part )
+"add a crafting recipe , and save the recipes to the config ."
+returns the first available ip address associated with the provided network interface
+"initialize attributes ( user , resource and action type ) in practical scenario , it will end up calling the db in service chain"
+informs this fxom document that its scene graph is hold by the specified scene graph holder .
+tests service invocation without ba context but with enabled wstxfeature and with disabled wstx handler . no coordination calls are expected .
+returns the top - level state of rule - result ' s comparison .
+delete record from the transaction store .
+helper method to build properties
+"directly adds a new template model as part of the "" global "" models in output db ."
+get reviews for the book
+gets a new validation register .
+return a handle to jaxb unmarshaller for a particular data type . jaxbcontext itself is thread safe .
+tests if the specified object is a key in this hashtable .
+add a md - sequence to this structure
+create a runtime exception for unexpected instance returned from jndi lookup .
+add a new page set
+returns a string representation of this object ; useful for testing and debugging .
+adds a word and the token to be returned if it is detected .
+creates the order object with random values .
+fetch a participant completion participant service unique to the current thread
+"this method is called whenever a call went through successfully , thus "" decreasing "" the potential wait level"
+attempt to parse the error code from the response headers . returns null if information is not present in the header .
+return a string representation of the event
+returns the content of the specified file as a string using the specified charset .
+translates repository revision number into file version .
+"get a specific cell from a row . if the cell doesn ' t exist , then create it ."
+"returns whether the resource has a default version , with no qualifier ."
+sets the stream type where this ringtone will be played .
+return a string id for a numeric id of a threadpool managed by the threadpool manager
+send an ok entity
+replace the config items in this group by the group in the specified parameter .
+"compare two istatus . the more severe is returned : an error is more severe than a warning , and a warning is more severe than ok ."
+ensure the current locale key exists in the supported local list as listed in locale . support
+turn a list into a readable and printable string
+returns the id that has been allocated for extension or - 1 if no extension exists .
+create a path from an array of components
+trims the capacity of this instance to be the list ' s current size .
+returns the list of association predicates within the given coding scheme
+write the rid into a byte array at offset
+one or more volumes .
+gets the value of the masked property .
+called immediately before checkpointing occurs .
+human readable title describing the stored query .
+returns the comma - separated list of client ids which are candidates to be real components .
+returns a new string object representing this asn . 1 object ' s value .
+this will set the background .
+"[ zk : localhost : 2181 ( connected ) 56 ] get / brokers / ids / 0 { "" host "" : "" localhost "" , "" jmx _ port "" : 9999 , "" port "" : 9092 , "" version "" : 1 }"
+returns the data type name of the column specified by column index .
+set reserved = 0 for all products in db
+called to process touch screen events .
+reset the bit buffer
+an efficient copy between two channels with a fixed - size buffer .
+gets all values for the specified attribute .
+"given a map that maps to comparable objects , sets a key to a given value iff the current value is null or smaller than the given value"
+register a new vreng object for this vreng client . the application it is working with is also stored .
+returns a string representation of this object ; useful for testing and debugging .
+formats a list of strings as an indexed list .
+validate read permission for denied for junior analyst on customer : purchase
+this method is intended for storing labels retrieved from external sources .
+"the same as is toplevel window ( window ) , but doesn ' t treat xembedded frame peer as toplevel ."
+return an element representing the given method .
+prints display manufacturer and display brightness .
+some basic checks for the get column count ( ) method .
+checks the status of executor service
+register a listener that will be notified when head tracking changes occur .
+sets the data buffer for this datagram packet .
+return the root index node for the digit . if does not exists then it create one .
+return widths ( in 1 / 1000ths of point size ) of all characters
+"the file to be used as album art . there can be multiple artworks associated with an audio file , to a maximum of 20 . valid formats are . jpg and . png"
+min and max concatenated
+get a particular result object which maps to the given correlator
+returns an active session for the given workspace name in the named repository .
+get stored session data
+returns true if a word is a metric
+retrieves the service of the given class from the bundle context . this will retrieve the service with highest priority if there are multiple instances of the service .
+this method creates a bar chart of the hours spent this day doing homework . it first calls the create data set method and then calls the bar chart _ awt class to create the chart .
+"serialize an instance , restore it , and check for equality ."
+compare numbers of result given by the obda file and the r2rml file over an npd query
+strip a given value of its last dot ( . )
+sets new coordinates for our guy
+returns a list of all open class tags
+"registers a callback , to be triggered when the system ui visibility changes ."
+adds and binds all shortcuts marked for addition .
+get icon / disabledicon which has previously been registered for this class object .
+displays the result of a command execution to the user .
+send to all - sends the message to every user .
+"sends the given message to the vertex identified by the given key . if the target vertex does not exist , the next superstep will cause an exception due to a non - deliverable message ."
+"saves the counter value in the preference storage . if value is negative , then the value will be removed from the preferences ."
+returns a string representation of the change call .
+"gets units , user want"
+"get all descendant roles , the order is randomly"
+"formats a given time using the date format . medium . in the ' en ' locale , this should result in a time formatted like this : 4 : 59 : 23 pm . the seconds are necessary when displaying time in the conversation scroller ."
+gets the nonce url get a cryptographic key you can use basic or oauth in the path of the api url
+build a string representing this array .
+set a custom value in the ' group . properties ' : section .
+"constructs a new | interface request | for the interface . this method returns a pair where the first element is a proxy , and the second element is the request . the proxy can be used immediately ."
+"retrieves the current locale from the given request , using the locale resolver bound to the request by the dispatcher servlet ( if available ) , falling back to the request ' s accept - header locale ."
+processes user input . reads line from console and does the action on a playing field according to input string .
+initializes this factory with the given concrete factory .
+delete by primary key
+every fields needs to be delimited by complex field characters . this method adds the delimiter that precedes the actual field to the given paragraph .
+returns a copy of the initialized translation rules .
+serves single range to the output stream .
+"start processing a field . this can be followed by a number of calls to add term , and a final call to close field to indicate the end of processing of this field . if a field was previously open , it is closed automatically ."
+use annotation or method naming convention : contribute application defaults
+returns whether the input was recognized as a number .
+"serialize an instance , restore it , and check for equality ."
+"gets the instruction prefix required , if any , to use in a high register transformed version of this instance ."
+to dto - covert stock to stock dto
+"joins the header row with a line filling cell , which includes within it an inner table that shows all the child fields"
+print the number x in width hex chars . x must fit
+returns the first accounting schema defined for the client
+"get the corresponding derivation of double double function by the name . currently supports : "" minus _ squared "" , "" cross _ entropy "" ."
+for a given gene checks it functions is enabled and if so the network transitions to a new state
+get path of internal storage
+filters based on the vector ' s y value
+provides a listener that resets the registered changes in case of a table value change ( other records to handle ) .
+"gives the count of the number of times the "" predicted "" class was predicted for the "" actual "" class ."
+get a list of supported gdal formats
+removes the provider at the specified 1 - based position .
+visit the topology graph and add all the routes that ends with the end word .
+populate the lists of available and selected languages ready for use by a chooser .
+gets a copy of the elements in the list . the returned list does not contain null elements .
+returns an attribute identifier containing the id from the database and therefore useable for database write and update operations
+a list of instance profiles .
+returns the account manager obtained from the bundle context .
+checks whether there are applications installed which are able to handle the given intent .
+converts a jts geometry into a geo xpshape
+compresses directory into zip archive .
+get the hook code
+"transform the given relative request path to an absolute path , taking the path of the given request as a point of reference . the resulting path is also cleaned from sequences like "" path / . . "" ."
+checks if o player is winner .
+create a set with only one element .
+no spans will be added if the triangle does not overlap the heightfield grid .
+ensures the remove from board method defers to the provided behavior .
+start a new game by shuffling the deck and dealing some cards to this board .
+last cluster state observer by this observer . note that this may not be the current one
+"test of equals method , of class sqlinjection analyzer entry ."
+convert byte array to hex string
+make one andes message part from message content
+"this really should just be an action method , but the ajax servlet is configured to get properties from beans , not call action methods . so the method has to follow java bean property conventions ( get . . . ) ."
+remove the last key .
+puts a float into the buffer .
+an api to fetch all document type by batch class id .
+add to every element index its index
+get the matching aliases for authenticating the server side of a secure socket given the public key type and the list of certificate issuer authorities recognized by the peer ( if any ) .
+lookup an entry type
+looks up a server stream in the stream map . null will be returned if the stream is not found .
+returns how many different matrix sizes have results .
+returns the next batch item file in the input directory
+checks if an element contains over one event .
+initializes the action intent that will be sent to simple last fm scrobbler . this method should always be called when sending a new set of data to the scrobbling app .
+registers an environment frame .
+tests if the task throws an exception if you try to download multiple files to a single destination file
+tests that the gerrit version is not high enough to run the file trigger feature .
+method to get the amount of blue at this pixel . it will be from 0 - 255 with 0 being no blue and 255 being as much blue as you can have .
+return how many elements are in the queue
+create indexes for the sites using their position in the grid .
+access a property of the class .
+find the largest item in the tree .
+"base64 - decode the given byte array from an utf - 8 string using the rfc 4868 "" url and filename safe alphabet "" ."
+returns the string representation of this jpeghuffman table object .
+set the key of the entry .
+returns the possible pseudo - functions for a profile
+guess dev jar name based on platform .
+sends a packet of information to a specified node in the network
+get string description for current cache state ( cache is empty or current cache implementation description ) .
+convert int array to integer array
+get the project image url based on given project id ( production server )
+"stops the stream , and informs the rtsp server ."
+"return the id contained in a google ble tag ( service data ) , or null if not available ."
+indicate to a header node what row / col span it should use .
+renders a valid la te x math formula to an icon .
+looks in schema tree for default temporary workspace instance .
+get desired admin interface status .
+"test of contains method , of class integer binary search tree ."
+retrieves all keys currently in the cache .
+"executes the given sql statement , which returns a single result set object ."
+get the waiting queue length . this is an estimate value .
+write the record in the file
+returns the specified nav point . the index matches the order that navigation points were found in the source document .
+prepared for sub - class for convenience .
+writes tag and class _ info _ index in element _ value .
+recursively delete specified directory .
+returns a string representation of this object ; useful for testing and debugging .
+gracefully closes up our socket .
+posts a status update for a specified item to the event bus .
+set slot of session facade and session .
+decode the encoded string and return the bitmap
+create directory with given name in specified directory .
+sets whether the user should be prompted when the launch mode of the server doesn ' t match .
+parse button text into level number
+mark component identified by ' key ' as having reached its end - of - life .
+turns an array of bytes into a hexadecimal string .
+hook that should be called by subclasses to initialize the key property when establishing a new connection .
+returns string representation of a double value trimmed to the number of decimals required . e . g . 23 . 34565678766 trimmed to 2 decimals will look like 23 . 34
+reads a bit of the mapping matrix accounting for boundary wrapping .
+execute a ddl statement for creating a schema object .
+adds given entry to context by given entry type .
+gets the cell value .
+count the number of non - empty squares in the scene .
+gets the list of values contained into the lov result .
+returns today ' s date in the format yyyy - mm - dd
+handler for unhandled exceptions
+set a visible view invisible
+sends a session opened event to all listeners
+adds an header to the provided map of headers .
+"adding additional key / value pairs onto the servlet logline . if nothing is needed to add , just simply return an empty enrichments object ."
+reads all bytes of a file .
+returns whether the given quadrant lies within the given halfplane ( specified by its right - hand quadrant ) .
+invoke hive database filtering that removes the entries which use has no privileges to access
+pressing enter on the given component will act as clicking on the given button .
+goes to the user list screen .
+singleton pattern - for returning one file instance . we make this method private and only return a file if the instance is null thus we create just one file that we can write to instead of multiple files
+this is a workaround for the addition of checked / not checked message generated by the framework which should actually happen the the accessibility service .
+"set the start / end year , month , and day . the time portion of the starting and ending days is automatically supplied to ensure that we will get full days of events ."
+add a constructor to the current class . called by the xml parser .
+"pulls a string off the queue , up to but exclusive of the match sequence , or to the queue running out ."
+method find specific service returns pojo or ejb implementation .
+"returns the cached representation of the item if valid , otherwise recomputes the string representation of the item ."
+converts bit - wise intel - endian format into long
+indicates the specified property has changed . this method should be called in a controller whenever a bindable property is changed .
+create variant id with multiple ids . first will be primary . if list is empty or null empty variant id will be returned .
+returns the terminal with the specified name or null if no such terminal exists .
+sets the project name .
+"create from inside an xml document . called on a parser positioned at a tag in an xml document , tries to create a color state list from that tag ."
+"method to get the prefix if the prefix has not been generated yet , it will be before being returned"
+build the http request
+test each handle to see if any of them are under the supplied motion event .
+lists the contents of the container
+"if bool is false change it to null , otherwise do nothing ."
+"returns the "" return block "" for a given "" caller block "" ."
+"makes sure arrays are correctly set when it first computers a larger matrix then a smaller one . when going from small to large its often forces to declare new memory , this way it actually uses memory ."
+run as server method is used when the node is working as a server
+remove a forced mute listener
+"perform sanity check : ensure that node is a state set over the given state variables . throws a runtime exception if the test fails . [ refs : none , derefs : none ]"
+returns the byte representation of the whole hpai structure .
+fires about global focus change .
+kreira i prikazuje prozor za prikaz i poredjenje strategija .
+converts a string representing a valid url to an equivalent string suitable for passing into web kit .
+converts coordinates from second space to first space .
+retrieves the meta - data associated with this category
+reads the last command ' s output .
+extracts the version id from a string
+"convert an integer to a byte array beginning at the specified offset . no length checking is performed ( i . e . , if the integer cannot be encoded with length octets , it is truncated ) ."
+utility error reporting function for a subbox overrunning its superbox . sets the rep info ' s well formed flag to false .
+adds the given row to the data .
+generate a function that returns the annotations for a body declarations node .
+creates the excel workbook based on another workbook . usefull to add more excelbooks together
+returns the direction of the column specified by column index .
+converts a string to big decimal
+returns the number of the card as a long .
+test for is multi valued ( ) method .
+returns the number of seconds to wait before reporting slow progress again .
+"given a lock type , this method returns the lock types which are incompatible with that lock type according to this lock compatibility table"
+the total number of instances that the dedicated host supports .
+converts a byte array to a base32 string .
+throws the error that affected the most recent attempt to load the manifest . does nothing if the most recent attempt was successful .
+tells all parser listeners that a controller event has been parsed .
+adds delegate at the start of the chain . it becomes the first delegate called .
+"returns the hash code value for this code signer . the hash code is generated using the signer ' s certificate path and the timestamp , if present ."
+right aligns an integer number with zeros for printing
+lists the objects in a bucket
+checks if the given file is a binary external events file
+update download notification to paused .
+reverses the bits of an int value
+matches name of the given security group
+gets a list of all domain representatives
+"adds the given element as the last one , but only if it is greater than the last element ."
+check a number of tags in the given order for the any of the given values . used to parse hierarchical access restrictions
+calculates square root of this complex number
+release the clone back to the pool . the clone will be available for other clients .
+convert null strings to empty strings
+method to check if the parameter sequence is dna or rna
+overloaded the method in index to allow a user to specify if the query should be case sensitive .
+sets the node in the specified position .
+returns a list with an item for each semicolon - separated element of the property .
+"a helper function that will return the syntax document attached to the given text component . return null if the document is not a syntax document , or if the text component is null"
+writes the discover info stanza ( / packet ) to an file
+business method that returns verb net data as dom document from sense
+adds a child file .
+the content server url
+creates and returns a copy of the given array .
+used to construct a message id for a tuple corresponding to a kinesis record .
+return the cached result metadata featured by the given data source and data set . please note that the paramter would have no impact to data source and data set so that will be omited .
+used to identify the name of the file or folder
+gets the connection pool size when in wal mode . maximum number of database connections opened and managed by framework layer to handle queries on each database when using write - ahead logging .
+helper function for subclasses to activate the gl environment before running .
+subtract a vector from this vector in place
+this method is used to show visibility of the rule
+this sets the address to which the data packet will be transmitted .
+to test class if has default constructor method
+"read a dictionary from a unigram xml file , and optionally a bigram xml file ."
+"serialize an instance , restore it , and check for equality ."
+"saves the api preference store , if needed ."
+returns true if the http proxy must be enabled .
+performs an in - place element by element square operation . aij = aij ^ 2
+get property value of app conf
+returns the next optional parameter index .
+test that an operation returns a certain result when each server in the layout returns a certain error code .
+add a player to a party . this function is designed for api usage .
+gets the used bytes of tachyon ' s block store .
+creates new audio format descriptor .
+adds solution to the collection of initial solutions .
+creates an element with the specified tag name and character content .
+an in is getting evicted or is displaced by recovery . caller is responsible for acquiring the major latch before calling this and releasing it when they ' re done .
+retrieve the representation of the message payload .
+check whether or not all data require for the standard rating process are available
+get an identity transform ( creating it if necessary )
+retrieves an annotation for the specified field of getter .
+"search through the list of productions in g for a , if the first terminal of that production equal to a then return true ."
+gets the primary thread group .
+returns the formatted message .
+"get the hash , as a string ."
+used to issue a type . added feature event indicating a new feature being created
+returns the content type to a specific soap attachment identified by reference id .
+removes the first location matching the specific terminal id and height from this argument .
+load a document in open office .
+method : request pendingcount params : count - how many requests were sent return : void purpose : record how many requests were sent
+return the action key . action key = controller key + method name
+one or more values for the account attribute .
+test with a new string source object having same content
+write the passed map to the passed output stream using the predefined xml layout .
+this method grabs all the metrics stored in compiler metrics and puts them into a map .
+the list of snapshot copy grant objects .
+"if the specified string contains an alias group in front of the uuid , strip off that prefix and return just the uuid . if the string does not contain a prefixed uuid , this method simply returns the input string ."
+"returns a copy of the the array of coefficients b0 , . . . , bp ."
+returns the root script node produced from the compiled js input .
+performs functionality common to both encryption and decryption .
+remove alias from key store
+subtract a specific quantity from an inventory slots item stack .
+remove the error message of a field
+send a command to the ftp server and return the server ' s reply
+returns next affected agent or null if none . this method does not remove last iterated agent from ' affected ' list .
+saves a static map to the given directory .
+test an error is thrown when the output format ' s directory already exists .
+returns root dispersion ( as defined in rfc - 1305 ) in milliseconds as double precision value .
+confirm that cloning works .
+get all implemented types of this class .
+constructor tests for default constructor
+specify an optional color for the view
+saves the host to the preference file .
+check if matches ethernet network template .
+reads the exact number of bytes from the source input stream into a byte array .
+add a file count .
+check if mobile network with matching imsi .
+return a list of legislator objects for every term a given legislator has served
+create a string representation of time list .
+list context names of current session
+check if your app is the default system sms app .
+creates a canvas where vlc will paint the video .
+"writes a setstring record to the log , and returns its lsn . updates to temporary files are not logged ; instead , a "" dummy "" negative lsn is returned ."
+enters a value passed from the test into the fullname field .
+test for getting tax for taxable salary .
+converts a list of performance entities to performance dtos
+method to reset the login fields
+"you know you want this , if you ' re going to be calling get string ( ) a lot ."
+checks if there is no transaction
+retrieves the class object for the class with the given name .
+"attempts to remove the specified amount of grass from the square . if there isn ' t enough grass , removes as much as possible ."
+returns the tokens that compose the string mapped with the given key
+a set of android resources to supply to the compositor .
+"return the immediate child of this node having a given id . if there is no such child , return null ;"
+converts long value to an array of bytes ( 1 long = 4 bytes ) .
+simple method to query user for a new teiid model project
+check for image format magic numbers of formats supported by android .
+obtiene un usuario por su nombre
+removes diacritical mark from a string
+reads a variable long if possible . if not present the reader index is reset to the last mark .
+copy all params to the given map or if the given map is null create a new one
+creates an editor input using the given file .
+returns the screen / display size
+"add a node corresponding to an intersection at a geographic point if the location is already in the graph or null , this method does not change the graph ."
+returns the best blast hit .
+this method was generated by my batis generator . this method corresponds to the database table event _ group
+this method computes whether a chain of converters handles exceptions or not .
+confirm that cloning works .
+return a simple readable description of e object using an iitem label provider if possible .
+returns true if this tokenizer has more elements .
+compare two doubles with an epsilon . taken from ilias / markus iser
+write the tag contained in the audio file in the actual file on the disk .
+this function returns how many bombs should a grid of given size have .
+"the time of arrival , gbtt value takes precedence to wtt"
+"calculates the brightness of a color , based on its rgb values ."
+get the text of the tokens comprising this node .
+returns all the packages that are known to the callers class loader . it may return an empty array if the classloader of the caller is null .
+faster to rgb method which uses the provided output array .
+"when called , start action sets time stamp to identify start time of operation ."
+get the number of anonymous users
+convert string to a safe html
+returns list of child concepts
+"given an endpoint , calculate the corresponding browser id audience . this is the domain , in web parlance ."
+confirm that cloning works .
+prepare saml outbound destination handler .
+from from valid url
+calculates hashcode for board
+get source connection for database from data source in the class
+fills the queue with given size .
+returns the total weight of all items in a array .
+creates a hz integrator object and initializes an array of hazelcast instances .
+computes subdivision step size
+adds a geometry for the specified material index .
+"this function sets a floating point property of a buffer . note : there are no relevant buffer properties defined in open al 1 . 1 which can be affected by this call , but this function may be used by open al extensions ."
+check if zero vat is allowed for the passed country
+dispatches the mousepressed event to the subhandles . this is called from the connection handler as subhandles have precedence over the connection handler .
+generates a string representation of this object .
+writes the closing tag for the root element of the xml stream document .
+generate a single prediction for a test instance given the pre - trained classifier .
+returns a string representation of this object ; useful for testing and debugging .
+returns the magic number for the class .
+"test of get key method , of class response message ."
+get an access control object from the db corresponding to the given list of search contexts .
+this test method demonstrates how we can configure the returned value when the method in question takes no method parameters .
+called when disassociated with the drop target context peer .
+asserts that the given file can be modified by the application .
+"this test simulates an user which is already logged in into tenant1 and tries to access a resource on tenant2 . on this scenario , the user should be shown the login page again ."
+returns the image to use with most dialogs .
+creates the bin navi menu .
+fills up an event sequence object with event lists with the code patern declared in the event sequence object .
+"find context with the given name in the context array , converting into org . omg . iop . service context ."
+access an ordered list of all mimetype categories .
+location for the swagger 1 . 2 resources
+the request from clients to get a report of applications matching the giving and application types and application types in the cluster from the resource manager .
+tests writing an increasing byte array .
+hash the clear text password and add a salt to it so it can be persisted
+returns a string representation of this object ; useful for testing and debugging .
+"deletes a character from the specified position of the text , updates this line break measurer object ."
+checks whether the given file has one of the given extension .
+"creates an ssl server with the specified port , listen backlog , and local ip address to bind to ."
+this method returns a list which contains a path to every given file in the input and a path to every file inside a given directory . the list is sorted alphabetically and contains no subdirectories or files within those .
+"sets the locale of current user - thread . this method should be called before access to any localized message . if the locale is null , the default locale will be set ."
+"returns the instructions for creating a new account , or null if there are no instructions . if present , instructions should be displayed to the end - user that will complete the registration process ."
+"enables an account that may or may not have previously been disabled . this erases any knowledge of a lockout , including one that wasn ' t necessarily in effect at the time the method was called ."
+test that allowed stat puts proper entry in audit log
+generates the byte code to initialize the static coverage data field within this class . the code will push the [ z data array on the operand stack .
+"validate scheme . if schemes [ ] was initialized to a non null , then only those scheme ' s are allowed . note this is slightly different than for the constructor ."
+compare 2 arrays only at the first level
+returns a content values object representing this note .
+clamps the minimum value of this tuple to the min parameter .
+converts an antrl or ast into a filter or ast .
+"returns a textual representation of the list of content types for the new resource . this will be the content type header if there is one , otherwise it will be determined by the file name"
+returns the resource path without the resource .
+recursive method to find the indices of the two halves before merge sort .
+"65 - 90 = big , 97 - 122 - small"
+prepare endpoint url scheme security handler .
+"return true if a file represented by "" path "" is indexable . this method is an optimization , we could just look for the index but that is expensive to do for remote resources . all tribble indexable extensions should be listed here ."
+writes a title to the editor console .
+determine if the supplied eobject has a sql vdb aspect
+adds a pox part to the list of existing parts with the label ' label ' .
+perform whatever processing is encapsulated here before completion of the transaction .
+"serialize an instance , restore it , and check for equality ."
+"locate a product with the given id , and return how many of this item are in stock . if the id does not match any product , return zero ."
+"read an unsigned short , 16 bits . like data input stream . read unsigned short except little endian . note , returns int even though it reads a short ."
+this method returns the copy of the stack with a new reference but in reverse order
+invoked when the property of the feed has been changed .
+adds a rubric for given language and code
+returns string of list _ dbs request .
+return a user transaction that was retrieved via get user transaction ( ) . this will make sure that the inital context used to lookup / create the user transaction is properly cleaned up .
+returns the file associated to the imagemosaic feature location
+obtains a buffer for formatting .
+stops the reader . will wait 5 seconds for the runnable to stop ( should stop within 1 second based on the poll timeout below )
+"counts all the known nodes , both active and in - progress , across all templates ."
+creates a pseudo element selector .
+cleanup code to finish simulation .
+returns the value of a single pathway - to - kos mapping .
+create xml file from the given object with custom file name
+get proeprty names returns a list of property names
+dump the configuration using ezlogger .
+gets the value of the tx property .
+adds an outgoing edge to the node .
+read a string from an input stream using the default encoding .
+make a random array of n ( complex ) elements .
+"returns the full asn . 1 der encoding for this oid object , which includes the tag and length ."
+used to save a value to the session
+"gets the value of the given given member as a set of strings , null if it doesn ' t exist"
+updates the clipping of a view
+create a new statistics object that has the supplied execution time .
+"returns true , if there is a line break character in the given string , otherwise false ."
+adds a - - verbose flag .
+do phase 2 abort ( rollback ) on the transaction .
+tells whether or not the previously - parsed ucs - 4 character was originally represented by a surrogate pair .
+add or replace replication
+returns a string representation of this object ; useful for testing and debugging .
+helperful function . return the node from the argument triple corresponding to the byte code address .
+submits a callable for each part to be copied to our thread pool and records its corresponding future .
+increments the counter of the compensations participants in the transaction .
+javadoc for this public method is generated via the doc templates in the doc _ src directory .
+"obtain the name of the caller , most likely a user but could also be a remote process ."
+returns the total length of the corresponding structure when this object is written to ibm i bytes for use by the validation list apis .
+get the meeting spot for the node
+this function clears the count parameter of all vertices in the graph
+"serialize an instance , restore it , and check for equality ."
+"because the envelope is cached , the envelope may be incorrect if you later change a feature ' s geometry using feature # set geometry ."
+sends a message to the specified channel in discord
+converts byte array to hex string
+this function gets the stream of the request to copy it into a file .
+test whether a node is usable by xpath .
+test starting master then stopping it before its fully up .
+"create an action named "" close "" that closes the current document . if there is no current document , do nothing ."
+attempts to load the clear silver jni library .
+a helper function to create a function class name .
+a single location and image id tuplet to test .
+returns the evaluation context factory .
+this method is to verify name and icon of a resource .
+creates a hash code based on the entries stored in this context . the hash code for two instances will be the same if they contain the same keys and values .
+elimina els fitxers seleccionats . de la biblioteca
+adds to the trips feature .
+read length bytes from position of a file channel . an eofexception will be thrown if you attempt to read beyond the end of file .
+find the specified normalized field . search without case .
+"utility method for compiling a open gl shader . note : when developing shaders , use the check gl error ( ) method to debug shader coding errors ."
+sets start pc of the n - th entry .
+schedules a file to be deleted when jvm exits . if file is directory delete it and all sub - directories .
+get the status list
+applys changes for security reason if necessary
+just produces debug representation
+convert integer ( 4 octets ) value to bytes .
+causes child lines to join the given set of rows
+creates a new sdfexpression edge property type given the expression expr .
+set the lineage information for the associated directory .
+initiate disconnect from an a2 dp sink . listen for sink _ state _ changed _ action to find out when disconnect is completed .
+converts an artifact resource object into corresponding rest api comment dto object
+returns the default clusterer ( fully configured ) for the clusterer panel .
+"this method removes any record of the request to transfer the given attributes of the given object . if this cancellation means that there are no more attributes associated with the transfer request , that to is removed ."
+parses the file name from a url .
+set the default host used for resolving unknown host names .
+creates the pattern . matching is by default case insensitive .
+used internally to change selection
+"gets value in column , starting from start row till end row"
+gets the largest timestamp of any sample parsed by the extractor .
+scrub given imsi on production builds .
+this test checks that late data handler is invoked only if late arrival is configured for a feed .
+creates a new resource key from the given object and the factory keys .
+sends the given packet to the specified ip address .
+adds a value and its corresponding display item to the list .
+resets the manager view configured by the parameters in this base class .
+adds the given element to if it has an id .
+pide por pantalla el cateto b y devuelve el valor introducido por teclado
+create the like vector with read - only matrices support .
+parse an octal long integer from a header buffer .
+method to return the singleton instance of this class
+waits as long as all elements found with the specified locator are visible .
+determines if the subject might contain creds for princ .
+return all the medicals with the specified criteria . in case of error a message error is shown and a null value is returned .
+return a string representation of this object .
+waits until the crawl has to stop .
+get a list of strings that corresponds to the subject regular expression constraints from a jaxb certificate constraints type
+selects sandbox as login server ( used in tests ) .
+returns a map node at given coordinates or null if there ' s no map node in the location of the coordinate
+"go through the list of class loaders but exclude the given class loader , then try to load the requested class . the method will stop as soon as the class is found . if the class is not found the method will throw a class not found exception exception ."
+sets the subnet mask to be used for the network interface
+unregister an existing peer .
+determines the number of listeners of a particular class .
+string representation of the secuence database
+"copy chars from a large ( over 2 gb ) reader to a writer . this method buffers the input internally , so there is no need to use a buffered reader ."
+returns list of cenums or throw an runtime exception
+take an action and learn from the option given the current state and current observation .
+this method resets the outgoing events .
+creates the board from the data given by reader ( expects . sok format ) .
+this method was generated by my batis generator . this method corresponds to the database table manger
+retrieve the bytes for the given string in the encoding set for this stream .
+record a draw between two players and add to the set .
+gets a version from the cache
+create a new retrying caller with configured rpc timeout .
+safely close the stream sources and underlying inputstreams .
+gets the revision for the last change to the specified line .
+add the link rule and check if spannable text is created .
+returns a string representation of this object ; useful for testing and debugging .
+generate a response from a given set of input words .
+assert can ' t add empty array .
+reset the request attributes for the current thread .
+transform an hexadecimal string to a byte array .
+load symbols from a file .
+deleted an interest on a key . this method is called on the nioservice - thread .
+first sorts according to low - bound ( ascending ) then according to high - bound ( descending )
+compute the sum of the x coordinates each raised to an integer power and multiplied by the corresponding y coordinate .
+method to establish whether a treatment room is free
+"tests if this abs content element list is grounded , i . e . , if no one of its elements is associated with a variable"
+return true if this cluster contains cluster bs . assume that bs use the same taxa - index reference .
+sets the scoreboard to show users the score from their class only
+called when the writer gets closed ( rollback closes it ! )
+parses a string in rfc 822 format into a date object
+checks that a url is a valid oauth callback
+tests digest authentication scheme .
+adds a reference to a rich media configuration . ( part of the rich media content . )

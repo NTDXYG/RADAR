@@ -1,0 +1,2000 @@
+see if a character is printable
+get the bounds of the system in global coordinates . returns two arrays of shape ( 3 ) containing minimum and maximum bounds respectively
+extract the command name and arguments to pass to docopt . args : argv : the argument list being used to run the command . returns : a tuple containing the name of the command and the arguments to pass to docopt
+get the next slip packet from raw data
+encode replay gain gain / peak values as a sound check string
+determine if an error encountered during an http download is likely to go away if we try again
+extracts the content - type header from the headers returned by page
+returns back a float from the given value
+yield dependant user packages for a given package name
+estimate the center and full - width half max of a signal using moments
+returns out object from context : param om : out _ message : return : out _ object
+get project keystone client using admin credential
+split by multiple delimiters
+prompt a user for a boolean expression and repeat until a valid boolean has been entered . ` ` prompt ` ` is the text to prompt the user with
+extract a lzh archive
+returns the user s information
+calculates the minimum spanning forest and returns a list of trees as subgraphs
+get list of instances in current project
+verify that objects in list are of the allowed type or raise type error
+converts a foundation stress to an equivalent mass
+parse dever _ config . py and return list of apps
+load json file content parameters - - - - - - - - - - file _ path : path to the file raises - - - - - - type error error with the file path
+returns true if ' distinct ( ) ' should be used to query the given lookup path
+unpatch _ app will remove tracing from a celery app
+"for each country , get the days of the spread since 500 cases"
+clean lookup fields and check for errors
+true if the version is specified and is n ' t exact false otherwise
+parse first row of nem file
+parses row and gets columns matching tag
+lazily load the mc quillan rotation periods table
+r create new trajectories that are subsampled at lag but shifted
+get pv arguments for a vm
+authenticate a username and password against our database : param username : : param password : : return : authenticated username
+r check time and signal parameters
+returns an instance of lxml . etree . _ element for the given doc input
+rolling sum of data
+calculate the overlap of two lines in average percent overlap
+check if cache is invalig and regeneration required
+get the available operator name . parameters - - - - - - - - - - name : str the optional name to use . returns - - - - - - - str the operator name
+use the name field in the configuration or p + count : param partition _ dicts : : return : list of partition objects
+get first no na n value in column : param array : : param idx _ col : : return :
+"checks necessity of clearing the folder . : param paths : list of directories : return : true if at least one directory exists , false otherwise"
+restart the traffic _ manager process and the traffic _ server process on all the nodes in a cluster
+imports the module for a doac handler based on the string representation of the module path that is provided
+retrieves the tidy py tools that are available in the current python environment . the returned dictionary has keys that are the tool names and values are the tool classes . : rtype : dict
+returns the store being used on the editor * field * is attached
+get the current set of waypoints active from boatd . : returns : the current waypoints : rtype : list of points
+function to construct default path to output data folder this function constructs the default path to the output data folder
+returns dictionary of sequence fragment lengths keyed by fragment id
+gets the devices count . : return : the devices count
+c - a - a ' : magnesium - hydroxide hydroxide sulfate [ hmw84 ]
+convert a dictionary into a corba namevalue list
+check if a file is a python source file
+non - byline authors for group author members
+browserify a single javascript entry point plus non - external dependencies into a single javascript file . generates source maps in debug mode . minifies the output in release mode
+returns a list of all possible combinations of a barcode with one mismatch
+read flow matrix and construct markov matrix
+sql - code to search in party
+runs mafft on the given fasta format file . returns the filename produced . : param clustered _ fn : file to align . : return : filename of aligned file - if its created . none if something fails
+encode all ' : ' substrings in a string ( also encodes ' $ ' so that it can be used to mark encoded characters ) . this way we can use : : to separate the two halves of an aside key
+this filter return info about few topics missing for moderate . args : forum ( object ) : forum object . returns : int : if it is 0 there are no topics to moderate
+returns if array is a square matrix
+specializes : func : ` encode ` for invocations where ` ` v ` ` is an instance of the : class : ` ~ base model ` class
+"a skeleton json api document , containing the basic elements but no data"
+get the currently checked - out branch
+creates a dictionary representing the edges in the graph and formats it in such a way that it can be encoded into json for comparing the graph objects between versions of gocats
+"attempts to accept ( ) on the descriptor , returns a client , address tuple if it succeeds ; returns none if it needs to trampoline , and raises any exceptions"
+ros geometry _ msgs . msg . transform instance
+helper function that merges the _ blocks attribute of a ds - array into a single ndarray / sparse matrix
+non recursive algorithm based on pop from old and append elements to new list
+attributes for resource creation
+makes a flask response with a json encoded body
+reindex subdomain dataframe and starts at indice 1
+"web sites often gives the secret with spaces between 4 - char words . this method normalizes the received key into one parseable by base64 , and handles padding . : param key : the original key . : return : a normalized b32 string"
+c - a - a ' : potassium bicarbonate sulfate [ hmw84 ]
+return a libcloud node for the named vm
+prepare an image for and ` ` date ` ` from an image collection
+if we have a valid ' search < source > ' statement
+given a sequence of lines for each line that contains a ansi color escape sequence without a reset add a reset to the end of that line and copy all colors in effect at the end of it to the beginning of the next line
+"takes a relative plain - text day and time zone , returns a datetime object corresponding to the colloquial date in the specified timezone"
+load an existing ner model ( with weights ) from hdf5 file . : param path : string . the path to the pre - defined model . : return : ner
+return ` ` true ` ` if colored output is possible / requested and not running in gui . colored output can be explicitly requested by setting : envvar : ` cocotb _ ansi _ output ` to ` ` 1 ` `
+test if a string represents a float
+"convert a color to an rgb tuple . this accepts the same input formats as convert _ color , but raises an exception if the alpha value is not 1"
+class numbers are assumed to be between 0 and k - 1
+supply references to initial variantcalls if run in addition to batching
+draws building heat balance graph : param analysis _ fields : : param data _ frame : : return :
+handler function for radius keyword with smart conversion to a degrees value
+page lacking interwikis generator . @ param total : maximum number of pages to retrieve in total @ param site : site for generator results . @ type site : l { pywikibot . site . base site }
+retrieves the login credentials from the computer you are on . good for command line tools
+create a tissue target space from a given image . the image is assumed to contain a black - colored tissue space in white background . image - - the location of the image on the disk
+choose a node of the ` expression ` such that no property leading to a data has to be reversed ( with ! )
+set valid properties for the artist dropping the others
+unique elements preserving order
+substitute environment variables and split into list
+convert a boolean value to text
+determine authserv id if needed
+applies all expansion mechanisms to the given path
+set the maximum number of pending measurements allowed in the buffer before new measurements are discarded . : param int limit : the maximum number of measurements per batch
+use the api to check for an existing fork
+returns an * rgba * tuple of 4 ints from 0 - 255
+"parses a whitespace - delimited string of "" [ user @ ] host [ : port ] "" entries . returns a list of ( host , port , user ) triples"
+return just the comment lines from a csv file
+"converts a float x . y into ( x , y )"
+check this is a valid 2 d pixel list
+"given a date in yyyy - mm - dd , returns a python date object . throws a value error if the date is invalid"
+"file properties dictionary ( sql _ raw _ list ) transforms a row gotten via sql request ( list ) , to a dictionary"
+finds the area under a polynomial between the specified bounds using a rectangle - sum ( of width 1 ) approximation
+"this function contains the logic used to check if the thread should be restarted . beware , this function * must not * call any hooks"
+yield valid expressions from text
+metadata for notebook bundlerextension
+projects along rowspace of b onto rowspace of c
+number of basis functions in the basis set . returns - - - - - - - int the number of basis functions
+flatten the tree into a list of properties adding parents as prefixes
+"parse a tsv header : param line : the header text : return : ( column _ names list , column _ indices dict )"
+"comments must be converted to < xsl : comment > to be output , doing it early allows them to get an xml : id so they can be matched in the theme . the theme selector needs rewriting to replace comment ( ) with xsl : comment"
+find files corresponding to urls
+read dataset from single sheet as dataframe ( or list of dataframe )
+hack to get relevant arguments for lineage computation . we need a better way to determine the relevant arguments of an expression
+import the specified modules and provide status
+write multi block data
+"detect all configurations / channels that this interface could currently connect with . : rtype : iterator [ dict ] : return : an iterable of dicts , each being a configuration suitable for usage in the interface ' s bus constructor"
+"read the member in struct index in nnet3 / nnet - common . h return a tuple ( n , t , x )"
+extracts currency from value
+get a plotting backend
+"prepare group by list item . convert replaces any special "" dimensions # "" , "" meta # "" or "" value _ meta # "" occurrences into spark sql syntax to retrieve data from extra _ data _ map column"
+get celery schedule
+"decodes int value from rlp format : param rlp : rlp bytes : return : tuple ( value , length )"
+resolves the ip for a given hostname or returns the input if it is already an ip
+"read configuration from ini file . parameters - - - - - - - - - - file _ path path of the configuration file force force reading of the file , fail if not found"
+compute gradient of biomass _ per _ flux function
+decorrelate colors of image . : param image : input image . : param color _ correlation _ svd _ sqrt : color correlation matrix . : return : decorrelated image
+return true if the store contains an array at the given logical path
+cast a arrays to a shared dtype using xarray s type promotion rules
+return information about server health
+normalize a string into multiple lines
+allocate new netlink socket . does not yet actually open a socket
+default wsgi 404 app
+read metadata from a hdf5 file parameters - - - - - - - - - - filename : path
+"compute a random base of the given trace set . returns unit l2 - norm base of shape ` ( dims , tot _ actions ) ` . optionally weights the actions by weight _ vec"
+"set the uids in a pif , explicitly if the list of uids is passed in : param pifs : to set uids in : param uids : to set ; defaults to a hash of the object : return :"
+helper function to create the structure for absolute values
+execute a terminal command and return the stdout
+compare and return value
+filter the string so gold does n ' t have heart failure
+in case of buffer size not aligned to sample _ width pad it with 0s
+determines if the given python value ` ` arg ` ` can be encoded as a value of abi type ` ` typ ` `
+convert an object ' s attributes to a dict
+"- file uris are converted to file names - if also netcdf wrap in netcdf : "" $ { filename } "" : $ { layer } - all other protocols go through unmodified"
+extracts the date from a file with a specific filename . : param filename : name of the hdf image file . : type filename : str : return : date the image with a given * filename * was taken . : rtype : datetime . datetime
+"decorator that registers ` exc _ type ` as deserializable back into an instance , rather than a : class : ` remote error ` . see : func : ` deserialize `"
+convert gerrit account properties to buildbot format take into account missing values
+check if given index exists . : param engine : sqlalchemy engine : param table _ name : name of the table : param index _ name : name of the index
+unpack a udp datagram into a log record
+check if package is installed . : param package : : param installed _ packages : : type package : str : type installed _ packages : iterable : return : : rtype : bool
+"convert time period to a number of seconds . raise value error for invalid time , otherwise return a number of seconds"
+returns int pointing to an open gl texture
+return true if the text in < sentence > contains brackets : param sentence : : return :
+return a list of resource names found in the html metadata section
+return the bounds of wavenumber values for the specified grid
+get the torch device we are using
+flushes cache for the stage identified by stage name from api identified by rest api id
+return the shannon entropy of the sample data
+return the set of all child classes of cls
+"calculate the gelman _ rubin statistic ( r _ hat ) for every stochastic in the model . ( gelman at al 2004 , 11 . 4 ) input : models - list of models"
+convert angular velocity to dcm dot omega - angular velocity defined in body frame
+finds the separator that gives the longest array
+"like equiv _ url , but forces an insecure connection"
+return random triangles as a trimesh parameters - - - - - - - - - - - face _ count : int number of faces desired in mesh returns - - - - - - - - - - - soup : trimesh . trimesh geometry with face _ count random faces
+"gets frame resolution for a movie . returns - - - - - - - tuple : ( x , y )"
+check the target url will lead to the same host server . parameters - - - - - - - - - - target : str the target redirect url . returns - - - - - - - bool true if the target url is safe ; false otherwise
+backwards compatibility wrapper for cpu count
+gitignored file that contains specific snowav version and path input : - none output : - path to base snowav directory
+extract country code from addresses : param profile : contact profile : return : two - letter country code or none if not unambiguous
+returns true if child is an eventual child node of parent
+"yield all direct child nodes of * node * , that is , all fields that are nodes and all items of fields that are lists of nodes"
+returns true if manufacturer builds a limited number of vehicles a year . the limit varies globally
+parse preferences to the dictionary
+removes html comments from the value
+create a dictionary with the relevant information from the request
+function to get an issue ' s metadata from metron and the write that information to a tag in the comic archive
+format invariants as re st
+convert newlines to unix
+nulls make more sense for some columns than zeros
+recursively iterate over the items of a dictionary
+compute bit - error - rate ( ber ) by comparing 2 binary audio arrays
+returns a sorted list of prefixes
+given a set of sequences append a suffix for each sequence s name
+"performs a force - clean of a project , removing all files instead of politely calling the clean function of the underlying build system"
+find the topics in a list of texts with latent dirichlet allocation
+returns the names of all positional arguments to the given function
+returns the cuda device i d
+get path to local executable . : param executable : name of executable in the $ path variable : type executable : str : return : path to executable : rtype : str
+"check intan recording directory to determine type of recording and thus extraction method to use . asks user to confirm , and manually correct if incorrect parameters - - - - - - - - - - file _ dir : str , recording directory to check returns - - - - - - - str : file _ type of recording"
+returns unquoted value of given string
+check if is google app engine
+"write a cython include file ( . pxi ) , ` filename ` , with the definitions in the ` definitions ` mapping"
+get union of all community solutions args : grounding ( bytes ) : grounded model optimum ( str ) : optimal score returns : term set : union
+"takes the given form text , parses it and returns a wtforms form class ( not an instance of it )"
+r iterates through iterable with a window size generalizeation of itertwo
+start updating rolled metrics in daemon thread
+fit a 2 d 2nd order polynomial to ` data [ mask ] `
+return fyda configuration file ( ' . fydarc ' ) using yaml
+generate a camel case string from an underscore _ string
+"walk a directory and produce the cards found there , one by one"
+stick list of blocks together
+iter the immediate contents of ` data ` and yield any dictionaries . does not recurse . parameters - - - - - - - - - - data : mapping returns - - - - - - - iterator [ mapping ]
+returns ` content - type ` based on an array of content _ types provided . : param content _ types : list of content - types . : return : content - type ( e . g . application / json )
+return a list of slot names for slots defined in class _ and its superclasses
+cuts the score into colors using the prea colors : param score : : return :
+render rest path from * args
+read local dataset and return the ddf object
+exec functions ( e . g . subprocess . popen ) by default force the child process to inherit all file handles which can result in stuck connections and unacknowledged messages . setting fd _ cloexec forces the handles to be closed first
+tries to check if an object has a variable
+"gets the table fullname that this entity represents in database . fullname is ` schema . table _ name ` if schema is available , otherwise it defaults to ` table _ name ` . : rtype : str"
+"if the range of characters from code1 to code2 - 1 includes any upper case letters , return the corresponding lower case range"
+takes list of field or tuple . returns list of field ( using tuples as constructor arguments )
+split the given sql statement into a list of individual sql statements
+a canned scenario for display in the workbench
+check if an instance with given name exists
+a helper method to get the correct address family for a given address . : param address : the address to get the af for : returns : af _ inet for ipv4 and af _ inet6 for ipv6
+get a hashable object given a string and a dictionary
+parse docx and odf files
+retrieves download location for feh data zip file from hosted json configuration file
+( ? : \ d + \ . \ d * ) | ( ? : \ . \ d + )
+"convert str s to unicode : param str s : string : return : "" unicode "" version of s ( unicode in py2 , str in py3 )"
+force a value to an integer . if the value can not be converted return the default value
+convert float to int : param val : value to convert : type val : float : return : int ( val ) : rtype : int
+generate the svg file ai _ filename from the figure ai _ figure ( list of format b outline )
+returns whether the class has the required info to generate code for a specified code template string
+unlink all links in dst that are in filenames . args : src : the directory where the source files exist . dst : the directory where the links should be made . filenames : a list of filenames in src
+create a binary image of a circle radius r
+gets the bcml internal working directory
+returns a frequency series of ones above the low _ frequency _ cutoff
+"given a framerate , makes a ` ` rate ` ` xml tree . : param fps : the framerate . : return : the fcp xml ` ` rate ` ` tree"
+marks this field as belonging to a group
+"make sure the string has no double underscores , also convert from camelcase"
+"returns the geometry type of the first shape under the given geometry object : param geometry : str , geometry object to query : return : str"
+generates a batch iterator for a dataset
+split string into list of strings by specified number
+"return the possible configs , args , params for a pig job"
+"verify if a latin letter is accentuated , unicode point of view . : param str letter : letter to check : return : true if accentuated , else false : rtype : bool"
+clone a sql object avoiding the properties in the skip parameter the skip parameter is optional but you probably want to always pass the primary key
+build lists of incoming edges to each vertex in a linearized graph
+"given a dictionary - > { start : quantity , start : quantity , . . . } return a list of tuples [ ( start , end , quantity ) , ( start , end , quantity ) , . . . ]"
+display the issue template directory
+converts a hex - formatted ( e . g . # ffffff ) string to a gdk color object
+return a container for milestone properties if it does not yet exist one is created
+iterate over all fields of a node only yielding existing fields
+check if truecolor is supported by the current tty . note : this currently only checks to see if colorterm contains one of the following enumerated case - sensitive values : - truecolor - 24bit
+class factory method that builds the connector handlers an amazon aws s3 remote store
+imports the contents of filepath as a python module
+convert top level keys from bytes to strings if possible . this is necessary because python 3 makes a distinction between these types
+sets up a subparser to download audio of you tube videos
+return a list of article - id data
+get default languages . used in case the model and the app does not have languages configured : return :
+print all registry values registered under key : param key : : return :
+extract token from header of query parameter . : param request : the request to look for an access token in . : type request : twisted . web . server . request : return : the token or none if not found : rtype : unicode or none
+"for each top - level object in a dictionary , replace it with a link , if appropriate"
+function that verify if the header parameter is a essential header : param header : a string represented a header : returns : a boolean value that represent if the header is required
+check if variable is numeric
+get the compose label for a compose by id . only completed production composes have discoverable labels ; will return the empty string for other composes
+find and returns the path to the nearest big datasets . parameters - - - - - - - - - - envkey : str environment variable name . it must contain a string defining the root artifactory url or path to local big data storage
+resolver for ner and sequence classification label config
+attempts to compile the given source first as an expression and then as a statement if the first approach fails
+get num spellcheck errors
+"@ return : an html string that encodes the given plaintext string . in particular , special characters ( such as c { ' < ' } and c { ' & ' } ) are escaped . @ rtype : c { string }"
+"> > > next week ( ( 2015 , 53 ) ) ( 2016 , 1 )"
+finds the location of the current steam installation on windows machines . returns none for any non - windows machines or for windows machines where steam is not installed
+set content of given textarea element el to value
+return the variable i d by finding the line in the program ast and gettings its argument
+generate the consensus hash from the hash over the current ops and all previous required consensus hashes
+check whether a arginfo and b arginfo are the same signature . actual names of arguments may differ . default arguments may be different
+opens the json file and returns the data as dict object
+renders an action button
+add app to local registry by name
+creates a socket suitable for ssdp searches
+create whole genome contigs we want to process only non - alts
+check if num py ' s correlate function reveals old behaviour
+get the sha1 of the current repo
+try to convert x to int
+takes the binary data stored in the binary string provided and extracts the data for each channel that was saved along with the sample rate and length of the data array
+load eds points in the glue interface
+search for a class string in module : param class _ string : the class name to search : param module : the module : return : the class if found else none
+utility function to load an image from disk
+parse yaml file of configuration parameters
+return list of all database locales available . : returns : dictionary of language objects language _ code : language : rtype : dict
+returns a user from the dcos enterprise . it returns none if none exists
+best guess of intended case . manchester = > manchester chilton = > chilton aav tech = > aav tech the = > the imho = > imho
+given a list of file names return those names that should be copied
+look for a dictionary that can not be pickled
+test if all sweeps in radar are sequentially ordered
+create a c array of doubles from a list . args : mylist : ( list of numerical values ) will be converted to a c array
+checks ( recursively ) if the directory contains . py or . pyc files
+assemble a block of relevant help text to be returned with an invalid request
+an implementation of computing the analytic signal
+hash a file with the sha256 algo
+build an output table parameter
+iterate through fasta file
+returns an open named graph
+"returns three sets of triples : "" in both "" , "" in first "" and "" in second """
+"merge properties if the keys on old and new are disjoint . return a mapping containing the values from both old and new properties , but only if there is no key that exists in both"
+return the mdl - 12345 number from a commit message
+filter all supported languages by given search _ text . : param search _ text : string to look for in supported languages : return : all languages that contain the search _ text
+escapes certain characters in a given string such that haproxy will parse the string as a single value
+automatically highlight interesting parts in the text : param text : : return :
+shallow clone of module ` m `
+conditional import of matplotlib
+create a mesh from mesh data
+get the first toplevel widget in a gtk . builder hierarchy
+add object to cache
+load the time machine data set ( available in the english book )
+returns a tkinter . image with background color bgcolor and img superimposed
+helper to get most frequent value for one field of a groupby
+setup refunc ' s logger with given level and streaming to stderr
+this function will return the expected path for an init script corresponding to the service name supplied . : arg name : name or path of the service to test for
+determine if two revisions have actually changed
+returns the requested content back in unicode . : param r : response object to get unicode content from . tried : 1 . charset from content - type 2 . fall back and replace all unicode characters : rtype : str
+sort by increasing amount but ensure that negative amounts are sorted first . max _ amount is the maximum amount found in the stock
+check if bam file is valid . raises a value error if pysam cannot read the file
+"helper function to parse function arguments . this takes a logic or a string or none , and returns a logic or none"
+get suggestions in case of object _ has _ no _ func
+reads the node to return a magnitude frequency distribution
+return all digits that the given string starts with
+process all headers to produce a set of combined headers that follows the rules defined by each instrument
+return a list of valid ecc names
+"normalizes the model mae score , given the baseline score"
+find xml files in the directory
+"for an entity with width and height attributes , determine the bounding box if were positioned at ` ` ( x , y ) ` `"
+eval a string without eval expressions
+return a restclients . models . uwnetid . uw email forwarding object on the given uwnetid
+takes in a series which contains lists of the same structure and returns a dataframe with a column for everey list entry
+intializes the document from an exisiting native stoch kit xml file read from disk
+scale a polygon . parameters - - - - - - - - - - polygon : list of lists a list of polygon point coordinates . returns - - - - - - - list of lists reordered polygon point coordinates
+wrap h5py . highlevel . dataset objects into a more numpy like object
+build a dict of aaindex objects hashed by id
+fix invalid symbols in unicode string
+converts an sdk object to a dictionary . fixes any sdk imposed object oddities . : param object : sdk object : returns : dictionary
+shift and scale matrix so its minimum value is placed at shift and its maximum value is scaled to scale
+validate the mimetype string
+return the file system type for mypath
+handle a response from the newton api
+helper for loading a manifest yaml doc
+"called in an exception handler to ignore any exception , isssue a warning , and continue"
+alternate constructor to generate a curve instance by its name . raises not implemented error if the name can not be mapped to a known supported curve nid
+opens a stream and reads 8192 bytes from it . this is useful to check if a stream actually has data before opening the output
+generate all bindings for the given predicate which are not true in the given model
+kullback leibler divergence between two covariance matrices a and b . : param a : first covariance matrix : param b : second covariance matrix : returns : kullback leibler divergence between a and b
+returns a copy of an iterable object ( also copying all embedded iterables )
+adapter for rendering an object of : class : ` crabpy . gateway . capakey . perceel ` to json
+read time from a path . returns none if unreadable
+"convert duration to a string : n days , hh : mm : ss . : param duration _ in _ seconds : duration in seconds . max : 67767976233532799"
+"create , populate and return the versioneer config ( ) object"
+"get the correct names of the columns holding the coordinates @ param header header of the csv @ returns ( lon , lat , crs ) where lon , lat , crs are the column names"
+tag the repo using an annotated tag
+create ` keymap ` object from ` raw _ keymaps `
+processes a cmor style file path
+check whether we should enable dhcp at all . we wo n ' t even open our dhcp if no nodes are on introspection and node _ not _ found _ hook is not set
+parse module file name into author / name
+"run the given list of ` regexps ` which are expected to be ` ( regexp , replace ) ` tuples on the given ` content `"
+remove rows with invalid ids
+stripped - down version of ofxget . mk _ server _ cfg ( )
+read text files in directory and returns them as array
+utility function to create date ( time ) partitioned tables
+"filter out vtodos from an iterator over calendars . : param calendars : iterator over ( href , calendar ) tuples : return : iterator over calendar subcomponents"
+returns the list of completions generated by _ completer . also stores start and end globally for later retrieval by get _ begidx ( ) and get _ endidx ( )
+ask the user to provide the api key
+converts cartesian x y to polar r theta
+handles a get request on a resource
+"return matplotlib pyplot and func formatter as a tuple : returns : a tuple of modules : rtype : tuple : param renderer : the renderer name . if renderer is none , it will not be set . : type renderer : str"
+"preprocesses a tensor encoding a batch of images . # arguments x : input numpy tensor , 4 d . data _ format : data format of the image tensor . # returns preprocessed tensor"
+"given a graph g , makes sure that all of the pair betweennesses listed as attributes remain possible , and removes those that are not . also adds new attributes where new edges have been added"
+returns the duration of a wav file ( in seconds )
+return a list of 2 - tuples - the argument name and its default value or a special value that indicates there is no default value
+this extractor can be used if a blueprint can act as compound or leaf
+get string representation of an object
+attempt to open each elastic index in a list of indices : param elastic _ client : elastic client : param indices : list of indices to open : return : list of failed indices
+dynamically creates a module with the given name
+converts a list of model objects into a list of dictionaries representing the data contained in those model objects . : param object _ list : a list of model objects : return : a list of dictionaries
+"algle to 2x3 transform matrix theta : param angles : assume radian : return : outdim : [ angleshapes , 2 , 3 ]"
+set the id of reach data entry set the order id ( zero - based ) for each object to be plotted within the context of each panel args : params ( dict ) : internal plotting parameter dictionary returns : an updated parameter dictionary
+filters leaderboard columns to get the system column names . args : columns ( iterable ) : iterable of leaderboard column names . returns : list : a list of channel system names
+get learning rate based on schedule
+infer the connectivity matrix associated with a state - by - node tpm in multidimensional form
+get all the complex mode attributes in the network so that they can be used for mapping to resource scenarios later
+return a dictionary with file as keys and content as values
+create a metrics instance from a bigquery query or table
+a helper function that returns content type object based on its slugified verbose _ name _ plural
+this function links the user ' s choice of transformation with its inverse
+"attempt to evaluate promise , even if obj is not a promise"
+return the list of paths for given python module . args : module _ name ( str ) : name of the python module . returns : : obj : ` list ` of : obj : ` str ` : list of source paths for the module
+returns valid tags an extension module might have
+does a cgi form contain the key ?
+map an xml tree into a dict of dicts
+map ssms to chromosomal locations
+return unique machine identifier . this is software - based but fairly standardized from the / etc / machine - id file . we can potentially rely on this for uniquely identifying a node
+indicates if the request context is a normal user
+retrieves aws account number
+small hack function to eliminate double peak values from a timeserie parameters - - - - - - - - - - - data : pd . data frame
+returns the ` execute ( ) definition based on the arrays in ` operand _ list `
+function to get rest host
+import load cell data from as a . txt file and creates a numpy array of values of sensed data parameters - - - - - - - - - - filename : . txt file the first parameter . returns - - - - - - - lc _ input _ data : numpy array numpy array of sensed load cell data
+strips typedef info from a function signature : param signature : function signature : return : string that can be used to construct function calls with the same variable names and ordering as in the function signature
+remove collect ' s static root folder from list
+datapipeline api is throttling us as all the pipelines are started at the same time . we would like to uniformly distribute the start time over a 60 minute window
+copy the field at name from from dic to to dic only if it exists @ param from dic : origin dictionary @ param to dic : destination dictionary @ param keys : array of keys of the elements to copy
+turns a list of urls using arrow notation into a list of source objects
+walk the package resources . implementation from os . walk
+returns a biopax processor for a bio pax model object
+register the streaming http handlers in the global urllib2 default opener object . returns the created opener director object
+return the average jaccard similarity between a brand ' s followers and the followers of each exemplar . we merge all exemplar followers into one big pseudo - account
+convert a positivist date to julian day count
+attempt to extract an error message from response body
+guess lexer for given text limited to lexers for this file s extension
+"try to import ` module ` . returns module ' s object on success , none on failure"
+zero - pad indices so that file names will sort properly
+decrypt ` ` inp ` ` string with a private key provided as string in pem format
+parse version string into release major minor version
+determine how many cores we are able to use . return 1 if we are not able to make a queue via pprocess . parameters - - - - - - - - - - cores : int the number of cores that are requested . returns - - - - - - - cores : int the number of cores available
+main entry point for trading mode
+builds the update values clause of an update statement based on the dictionary representation of an instance
+splits multiple commands in a single line separated by ' ; '
+convert nmea formatting latitude / longitude to decimal degrees
+return team information and picks for the given gameweek
+"due to some events in plone form gen , we need to use this event to end the signupsheet configuration"
+"returns http basic auth string sent with request , or none . if request includes basic auth , result is string ' username : password '"
+parses weekday info from trans xchange vehicle journey element
+builds a compilation database from the database found in build dir
+get the installation directory for steam games : return list of steam library folders where games can be installed
+return a list of all ( long and short ) names for the tag
+register a namespace for use by ordf : param prefix : the namespace prefix that should be used : param namespace : an instance of ordf . namespace . namespace
+verifies whether is cold start and return a string used for struct logging returns - - - - - - - str lower case bool as a string aws _ lambda _ logging does n ' t support bool ; cast cold start value to string
+this converts from galactic coords to equatorial coordinates
+"set logger level to ` level ` within a context block . do n ' t use this except for debugging please , it ' s gross"
+infer start activities from a directly - follows graph parameters - - - - - - - - - - dfg directly - follows graph returns - - - - - - - - - - start _ activities start activities in the log
+given the path of a file returns it ' s extension as string : param file _ path : the path of an input file : return : the extension of the file
+return a list of stdio command ' s parameters by iterating through its annotations
+retrieve content as html using the ident - hash ( uuid
+"if typ is a forward reference , return a resolved version of it . if it is not , return typ ' as is ' : param typ : : return :"
+return either a string or the doi part of a url
+[ - + ] ? [ 0 - 9 ] * \ . ? [ 0 - 9 ] + ( [ e e ] [ - + ] ? [ 0 - 9 ] + ) ?
+convert a list of uint8 to int32 ported from javascript : param _ bytes : a bytearray
+srm87 equation from table iii
+load crs object from esri code via spatialreference . org . parses based on the proj4 representation
+compute the angle between two vectors of equal length : param v1 : numpy array : param v2 : numpy array : return : angle between the two vectors v1 and v2 in degrees
+| given a module service try to import its models module
+"converts relative urls into absolute urls . used for rss feeds to provide more complete html for item descriptions , but could also be used as a general richtext filter"
+one - vs - all mode handler
+reduce a dictionary by selecting a set of keys
+filter to select concepts with minimum / maximum number of spikes and occurrences and first spike in the first bin position
+get bins that contain approximately an equal number of data points
+concatenate file piece hashes
+"determines whether a string represents true . as the name suggests , any input which is not explicitly evaluated to true will cause this method to return false . args : string : the string to evaluate"
+locale negotiator base on the accept - language header
+"computes the wilcoxon ranksum statistic parameters - - - - - - - - - - array _ one , array _ two : iterable two arrays of values , possibly of different length . returns - - - - - - - exp _ diff : float scalar value from the wilcoxon ranksum statistic"
+arg = grid and r : 3 * 3 median filter
+generates rst raw block for given image filename and format
+return true if the annotation if for a dict
+make an event message ready to be published or stored . returns a serialized model of event containing an event message
+get password for rar archive from user input
+"retrieve a string , error if a blank value is given"
+split ( if needed ) and obtain the list of commands that were sent into skelebot
+get host name provide by operating system
+get cpu type of computer
+"return a list of intermediate shapes under a transform parent : param geo : str , transform to list intermediate shapes for"
+"get content - type based on magic library as * bytes * as libmagic bindings are provided via several ' magic ' packages , we try them in order"
+tries to parse a date into a date time instance returns ` none ` if it can not be parsed
+creates a blueprint and register its routes
+"strip url from protocol and trailing slash , in order to use it as config key"
+create column data source for copy number and breakpoints given a specific solution
+add query parameter
+utility method to get a unique path that can be used for caching a download
+prompt the user for a password on stdin
+standard optimization routines as used in lmfit require real data . this function takes a real fid generated from the optimization routine and converts it back into a true complex form
+"for python 2 , make sure the string is properly converted to unicode : param basestring value : : return :"
+generates a gps time set reply packet . returns : packet : a reply packet
+select an available repository
+strip tweet message
+return true if x is a valid email address ; otherwise return false
+displays whether wake on network is on or off if supported
+returns the ip address of the given hostname note : will return none if the hostname is not found
+encrypt data using damgard jurik cryptosystem : param m : plaintext : param n : modulus : param g : random public integer g : param s : order n ^ s : return :
+dimensionless negative reaction rate
+use co - occurrences to compute scores
+"mle estimator of linear model . parameters - - - - - - - - - - x : design matrix y : response variable returns intercept ( = 0 if fit _ intercept is false ) , coefficients of mle ; the regularization parameter before which the variable is not selected"
+node is either online or standby
+gets a dict from a colour object
+"return true if the given item is available for loan , false otherwise . : param item _ pid : a dict containing ` value ` and ` type ` fields to uniquely identify the item"
+get the mtime associated with a module . if this is a . pyc or . pyo file and a corresponding . py file exists the time of the . py file is returned
+"require a file which may exist in a parent directory . searches for the file in the nested directory , and failing that , in its parent ( s ) , up to and including the current directory ( but no further )"
+factory returning related storage resources for ` used _ by `
+"find rows in m filled with masking value . : param m : numpy matrix to be searched for masked rows . : param masking _ value : value that corresponds to missing contacts , defaults to 0 : returns : indices of masked rows"
+"return true when point ( x , y ) is inside rect"
+finds the ' vertices ' in the equatorial zone conjugate to ' pole ' with width half ' width ' degrees
+replaces words that may be problematic
+check if the names passed are accessed undeclared . the return value is a set of all the undeclared names from the sequence of names found
+"saturates the logging server ' s max number of connections , ensuring it departs its . accept ( ) loop"
+try to resolve the given dns name to ipv4 addresses and return empty set on any error
+discover what directory the command should run in
+parse website seeds . @ params seeds example : - url1 - user1 : pwd1 @ url1 - user1 : pwd1 @ url1 | url2 | user3 : pwd3 @ url3
+calculate sha256 values from files found in a directory and map them to their filepath directory { str } - - path to directory to search return { dict } - - dictionary with filepath as key and sha256 as value
+convert an rgb ants image to a vector ants image
+get netconf credential that matches name
+merge two dictionaries
+will thaw into a temporary location
+return the dictionary of metadata from the database . this data is keyed using the cnx - epub data structure
+alternative way to look up blast for a given pdb id . this function is a wrapper for get _ raw _ blast and parse _ blast
+"set the default value of the ` ` guess ` ` parameter for read ( ) parameters - - - - - - - - - - guess : bool new default ` ` guess ` ` value ( e . g . , true or false )"
+skip past chunk data
+serializes the given text batch update into json . : param mt batch text sms update batch : the batch update to serialize : return : dictionary suitable for json serialization : rtype : dict
+return the weight corresponding to single power
+"retrieve a http response json object from the cache . parameters - - - - - - - - - - url : string the url of the request returns - - - - - - - response _ json : dict cached response for url if it exists in the cache , otherwise none"
+build params { . . . } : param dic : dict : return : str
+find the slot with the given name . it ' s possible to specify a module name then forwarded to load config ( )
+obtains the polished filenames for the weights and the csvlogger of the model . # arguments model _ name : string to declare the name of the model # returns two strings that will serve as the filenames for the weights and the csvlogger respectively
+receive an integer from a ` socket ` using ` struct . unpack ` : param sock : ` socket ` to receive integer from : return : ` int `
+normalises a covariance matrix into a cross - correlation matrix . parameters - - - - - - - - - - covmatrix : ndarray of rank - 2 a covariance matrix . returns - - - - - - - corrmatrix : ndarray of rank - 2 the cross - correlation matrix
+function for getting formatted print
+"simple wrapper that gets an attribute from ldap3 dictionary , converting empty values to the default specified . this is primarily for output to json"
+converts any user specified datatype into dbrcode and dtype
+"generate a window for a given length . : param n : an integer for the length of the window . : param mono : true for a mono window , false for a stereo window . : return : an numpy array containing the window value"
+get whether or not glean is allowed to record and upload data
+returns the nntp argument parser
+extracts elements of the given sequence . : param sequence : the sequence to get elements from . : param indices : the indices of the elements to get . : return : the selected elements
+gets the molgenis version lazily
+return a numpy array mapping events to slots
+find and load the module
+updates the profile s auth entry with values set by the user . this will overwrite existing values
+matches an item name to an i d in items . json
+validates the result value is greater or equal to the given lower bound
+calculate percentage usage of ' used ' against ' total '
+"when enabled , container _ _ str _ _ shows keys like _ _ index _ etc , otherwise and by default , it hides those keys . _ _ repr _ _ never shows private entries . : param enabled : bool"
+a chain - of - responsiblity that imports a module from an iterable . : param modules : a sequence of module names to try importing . : return : the first module to successfully load
+finds key values in a nested dictionary . returns a tuple of the dictionary in which the key was found along with the value
+deserialize results from a given file handle
+attempt to get the currently logged in user
+morph between more then two sequences @ param waves sequence : a sequence of wave cycles @ param gaps sequence : the size of the gap between each pair of cycles
+"data is list data to sort depends is a dictionary { data item : [ items to come after ] } returns a list of items in data sort by depends requirements , keeping order of orginal list otherwise"
+extract text from an inspire search
+default sorting of goea results
+quick and cheap check to see if bucket can be accessed args : client : a boto3 client object bucket _ name ( str ) : name of bucket to check returns : bool : can we access the bucket ?
+convert data points to values between 0 and 1 and return new columns of prefixed data . args : df : pandas dataframe . columns : list of columns to transform . returns : original dataframe with additional prefixed columns
+"use sdmpy to get all sources and ra , dec per scan as dict"
+convert a duration object to a duration string ( in seconds ) . args : duration ( dict ) : duration dictionary . returns : str : duration string
+detect if the database exists
+"returns the leading numeric part of a string . > > > numeric _ part ( "" 20 - alpha "" ) 20 > > > numeric _ part ( "" foo "" ) > > > numeric _ part ( "" 16b "" ) 16"
+return the list of forbidden combinations that prohibit some part of the requested additions
+"* str * , one of "" runtime "" , "" original "" , "" frozen "" , coming from "" - - file - reference - choice "" notes : defaults to runtime for modules and packages , as well as standalone binaries , otherwise original is kept"
+execute notebook ` nb ` and return notebook with built outputs
+checks if a path is an actual directory
+inspect a filter set and produce the arguments to pass to a graphene field . these arguments will be available to filter against in the graph ql
+return a list of default value for index _ refine board from a dict initialparameters
+converts the xml from alpino into penntreebank format
+sets all comment attributes on a line to indicate no comment is present . parameters : o line : ( line object )
+extracts all used symbols from an iterable of paradigms
+closes the socket and kills the thread
+calculates steps to run on device
+prepare reserved tokens and a regex for splitting them out of strings
+delete all subtitles in path recursively
+get the latest entry in the response queue or none if it is empty . returns - - - - - - - optional [ action ] instance of the action class or none
+"from quat = [ vec , scalar ] = [ sin angle / 2 ( unitvec ( x , y , z ) ) , cos angle / 2 ] gives unitvec and angle of rotation around unitvec"
+reads in and formats mothur cons . taxonomy file
+return all non - private tags from a dicom dataset
+searches in the original pdb file for the oligomeric status determined by the author . called by : clean _ and _ sort ( )
+given a nested dictionary from k1 - > k2 > value transpose its outer and inner keys so it maps k2 - > k1 - > value
+return dictionary of events for a game with matching i d
+"deals with the post response from a leave room request . : param data : data received from the server : type data : dict [ str , any ]"
+hook to add global options
+read a box file in eman1 box format . : param path : path to box file : return : list of bounding boxes
+strips the value if it is not none . : param value : text to be cleaned up : type value : str or none : return : clean value if one was specified ; none otherwise : rtype : str or none
+read keras retinanet model from keras . model . save ( )
+returns an ascending order clause on the versioned unique constraint as well as the version column
+returns a queryset of all relevant categories for a the model _ name
+get a dictionary of backpage city names mapped to their legend value
+dictorsetmaker : test dictorsetmaker _ star2
+return url to zipped logging
+add params to doc string
+build listing for flagged files pseudo - folder
+returns the details of the last git commit
+return file name with extension by bone name and number of ` topping ` flag
+class decorator to register msg parser
+convert an attribute set ( to be used in a filter ) to string
+return the name used when the kinto . core resource was registered along its viewset . : returns : the resource identifier . : rtype : str
+this function is receive detail parameters : return : parameters
+c - a - a ' : magnesium - hydroxide chloride bicarbonate [ hmw84 ]
+instantiate a key instance with the given key
+compute the pearson ' score between 2 lists of vectors
+"remove unwanted headers , e . g . the ones used for dictionaries but not desirable in the pch"
+filter queryset by a comma delimeted cause list
+counting the number columns based on the content of this row
+sometime symlinks can get broken if the original files are deleted . delete such broken links
+return a per - thread global batcher instance
+""" c - a : sodium thiosulfate [ pm73 ]"
+given an interface specification return a cmdline command name
+get the name for a model
+finds the value of the input buffer given the type of the field . since data : param buffer : : param field _ type : : param _ byte _ order : : param is _ string : : return :
+parse command - line arguments . @ return : the command line arguments . @ rtype : c { argparse . namespace }
+deserializes model from checkpoint dir using capnproto
+gets process name from process i d
+"decodes a packet and returns its payload : param command _ data : the command data payload : type command _ data : str : returns : the encoded command , ready to be sent to a remote gdb : rtype : str"
+heuristically extracts the base indentation from the provided code
+"return filter for analysis request . parameters - repo : repo slug name , fe . buildtimetrend / python - lib"
+check that the declared number of inputs ( the length of ` input _ type ` ) and the number of inputs to ` func ` are equal . parameters - - - - - - - - - - input _ type : list [ data type ] func : callable returns - - - - - - - inspect . signature
+try to find rss feeds from a tags in the webpage
+configures the frozen pool and keeps all kwargs
+make na ( expression ) replace values which pass the expression with na . replaces all values in ` ` vid ` ` for which ` ` func ` ` evaluates to ` ` true ` ` with ` ` nan ` `
+for functions of the form : a / ( exp ( k1 * ( x - x1 ) ) + exp ( k2 * ( x - x2 ) ) )
+get a client socket
+this just adds the collection id to a dict from sqlite . row
+can a module ( like scipy or numpy ) be imported without a severe and avoidable performance penalty ? the rational behind this is that some parts of temci do n ' t need scipy or numpy . : param module : name of the module
+"given a template name , it returns the relative path from the template dir"
+r calculate the allowed total angular momenta
+find all non - callable members of a protocol
+"given a filesystem path of a file , return its contents . : param str path : path to a file : return : str ( contents of the file )"
+returns whether the value acts like a standard float
+this function initializes a socket on the passed ' port ' for listening . if something fails ( such as the port being in use ) the method returns none
+return the spherical coordinates for coordinates in cartesian space
+returns the hyper kitty argument parser
+get a num py array view of a vnl vector
+"formats for console logging if coloring is enabled or not . show the level name if coloring is disabled ( e . g . info ) . also , root logger should show the logger name"
+given message / rfc822 returns the content
+"returns the current version of the app , or none if there is no current version found"
+set item to last position if position not defined
+finds the keycode associated with a string representation of a keysym
+splits a taf report into each distinct time period
+depending on how we extract data from pysam we may end up with either a string or a byte array of nucleotides . for consistency and simplicity we want to only use strings in the rest of our code
+creates a tree - like list of choices
+returns the location of an astronomical object in the sky in terms of azimuth and altitude
+returns full path of incoming relative path . relative path is relative to the script location
+"toggles ignoring cache for each request . if ` true ` , cache will not be used . : param cache disabled : cache disabled state . : type cache disabled : bool"
+walk all files for a dir
+convert a model s verbose name to the model class . this allows us to use the models verbose name in steps
+domain has a bad hostname if its canonical https endpoint fails hostname validation
+return a list of the first ` n ` items in ` source _ iter `
+decide whether we ignore a local variable from the traceback . we need to avoid reporting on certain things so that we do not end up with a long list of locals which hides the useful information about the function
+returns a list of keys matching pat
+returns a list of app labels of the given apps _ list now properly handles new django 1 . 7 + application registry
+used for test only : clean up all records and start again : rtype : str
+creates a new user class with extracted user attributes for later use . a new user object is needed to avoid overwritting of e . g . ` ` user . records ` `
+create a new thread for given worker
+convert raw cli output to structured data using text fsm template
+"merge src into tgt , overwriting as needed . : param tgt : the target dict . : param src : the source dict"
+returns the in - plane spin from mass1 mass2 and xi2 for the secondary mass
+"determines the number of terms needed to be within eps of the sum , using the integral test"
+"utility method to return the default parsers able to parse an object from a file . note that multifile object parser is not provided in this list , as it is already added in a hardcoded way in root parser : return :"
+generated source for method get error response
+"simply wraps the tkinter function of the "" same "" name"
+return the given number as a string with a sign in front of it ie . + if the number is positive - otherwise
+exact set cover by the dancing links algorithm
+appends parent scope name to ` relative _ scope _ name `
+returns the browse record of the article category given by uri
+group windows from one station into channels and count the number of windows in that channel : param sta _ win : : return :
+extended euclidean algorithm to find modular inverses for integers
+standard version number
+"return a boolean of whether the raw password matches the three part encoded digest . if setter is specified , it ' ll be called when you need to regenerate the password"
+active with valid credentials
+reset the global session variable . mostly useful for unit tests
+returns the product part of a file . we assume files to be something like domain - language . po . example : atcontenttypes - pt - br . po
+prepares a dict so it could store network information
+get all individual comments from the ingredient and return them as a list
+"given a filepath pointing to a json file and a property , return the property stored in that json file"
+"provide tmpdir which is scoped for the whole backend : return : str , path to the temporary directory"
+initialize db object : param db _ url : url to the mongo db : type db _ url : str : param db _ name : database name to use : type db _ name : str : rtype : none
+get a unique demux sample
+takes a block _ representation and returns the previous block hash
+takes inputs ft and fo and returns d f / f
+simple password - based authentication - the same password of the host like on the instagram : param request : request to autheticate : param password : instagram and web password of the host user : return : true or false if authentication failed
+"returns the key type , key name and if key is a compound list then returns the index pointed by the field arguments : field : csv header field"
+takes one metric or a wildcard series list followed by a constant n . draws only the metrics with a minimum value below n
+creates a list of sets containing jobs at different depths of the dependency tree
+crop the images to ensure both fit within the bounding box
+"as : func : ` node _ matcher ` , except that empty resname and false ptm _ atom attributes from ` node2 ` are removed"
+"private function , which assigns correct types to h5py extracted values from _ browse _ dataset ( )"
+"get bbndk runtime metadata . : param session : requests session object , default is created on the fly . : type session : requests . session ( )"
+copy the array if its base points to a parent array
+recursive check specific to arrays
+convert an integer to a 1 d format with error correction for transformers
+remove the last template in the name
+makes sure that whenever scale is zero we handle it correctly . this happens in most scalers when we have constant features . adapted from sklearn . preprocessing . data
+returns a list which has been stored as a csv file
+common to swagger definition . : param base : the base dict . : param description : an optional description . : param resource : an optional resource . : param options : any additional options
+"for a given method name return the service type which supports it . : param method : the method name to lookup : return : the service type or none , an interface i d needs to be added to this : rtype : str"
+return the restrict identifier ( may be empty )
+convert a msa from chimerics to a matrix . each cell has the subexon number ( index ) or nan for gaps and padding
+delete random symbol from a string
+returns a new fragment from a dictionary representation
+collect outdated packages . @ returns : list of packages
+when given a dictionary where every key contains a list of ids replace the keys with the list of files matching those ids . this is how you get a list of files belonging to each child for each parent
+function to evaluate accuracy of any data iterator passed to it as an argument
+loads and returns regex patterns dictionary
+yield hosts that have a specific vulnerability
+get admin s emails from django settings
+returns type object of class specified by name args : name : full name of the class ( with packages ) returns : class object
+if s is a file name read the file and return it s content . otherwise return the original string . returns none if the file was opened but errored during reading
+heuristic to determine whether the treebank has blinded texts or not
+returns the current projection . : return : numpy array with projection
+returns the absolute velocity for the given actor
+returns ` request info ` instance . if object was already created during ` ` request ` ` it is returned . otherwise new instance is created with details populated from ` ` request ` ` . new instance is then cached for reuse on subsequential calls
+"finds the selected ids after the scene has been rendered again in selection mode , this method gathers and returns the ids of the selected object and restores the matrices . : return : the selection stack"
+split an iterable of packages into packages that need to be passed through and those that need to have their disk location resolved
+"construct subcommand summaries : param command _ summaries : commands and their summaries : type command _ summaries : list of ( str , str ) : returns : the subcommand summaries : rtype : str"
+parse response and return content - type
+sets breakpoint on particular native event . : param event name : instrumentation name to stop on . : type event name : str
+create roles as defined in the data
+return at content of sequence
+compute znp flags for ( arg1 - arg2 )
+check if container is running : return bool : container is running
+provides a select box for country selection
+"stretch image according to stretch dim = { axis : length , . . . }"
+process response from batch caller args : response ( object ) : requests library response object success ( bool ) : success condition given by bool or lambda returns : str : batch status finish | failed
+function to create file
+check no hyphen at the end of rand _ name ( ) argument t108
+construct the training script args from the hparams
+parses or generates a udemy course url of a given link inside a page
+returns external resources
+compare 2 sets of public numbers . these is a way to compare 2 public rsa keys . if the sets are the same then the keys are the same
+generate new device i d
+"determine if the transaction would be applied , even if zero transactions are found : param transaction : the working transaction : returns : a boolean value to determine if the transaction needs to be filtered out or not"
+"returns list of num _ seqs sequential , unique names . first argument is ignored ; expect this to be set as a class attribute"
+return true if code is similar
+extract element data for psi _ tables
+get game release version list
+construct a list of code units from polymorphic inputs
+this just echoes back the payload
+parse the dssp data file
+contextmanager that change maxblock in image file
+create module from a llvm ir string
+compute inner product between two time domain waveforms weighted by noisecurve
+calculates the hypothetical total edge cost if the graph were to be complete . : rtype : float : param nxg : the graph to calculate the hypothetical edge cost of . : return : the total edge cost if the graph were complete
+automatically try to discover django settings files return them as relative module paths
+get the number of names that exist at the current block
+checks to see if the residue is non - canonical
+get the current plugin information ( from a plugin )
+return a list of url _ patterns from the registered routes
+get the long description of a package from its readme . rst file args : dirname ( : obj : ` str ` ) : path to the package returns : : obj : ` str ` : long description
+sanitizes http request query string
+returns the opcodes to push the data on the stack
+this method will initialize ` ` shared instance . instance ` ` and return it . the purpose of this method is to have offer single default bitshares instance that can be reused by multiple classes
+parse document with content
+read a hdf5 file into a dictionary
+"return max depth for a df row passed with x & y columns , for use in a swmm5 junctions table"
+"this function does not deal well with na n values , so make sure to remove them before calling"
+return the filenames of the available xml schemas . these are essentially all the files with the . xsd extenstion in the ` dirpath _ schemas ` folder : return : a list of xml schema filenames
+returns pairwise energy . : param points : size : scalar ; smooth _ factor : scalar : rtype : pairwise energy matrix
+returns sequence string
+returns each row as a : class : ` . pseudo named tuple row ` . this is the fallback factory for cases where : meth : ` . named _ tuple _ factory ` fails to create rows
+check event attributes presence in all the traces of the log parameters - - - - - - - - - - - - log log attributes _ set set of attributes returns - - - - - - - - - - - - filtered _ set filtered set of attributes
+guesses the atomic number
+view to download a document
+convenience wrapper for name collector
+extract the package - name and the package - version from the pacman - package . : param file _ path : path to the pacman - package : return : a package info ( ) - object with package - version and package - name
+p ( k ) = { \ mu ^ k \ over k ! } \ exp ( - \ mu )
+returns a list of all the roles for an account . returns a list containing all the roles for the account
+when returning a password from a tty we assume a user is entering it on a keyboard so we ask for confirmation
+returns the number of bits that are set in a 32bit int
+"filter dataframe to exclude matching columns , based on search for "" s "" : param s : string to search for , exclude matching columns"
+return a param as a list
+calculates the request payload size
+tries to infer a protocol from the file extension
+this function sets up the engine . io endpoint as a route for the application . note that both get and post requests must be hooked up on the engine . io endpoint
+return list of strings of maximal length in a set of strings
+helper function to add new my _ element to my _ list based on its type
+create a mapping ( item to id / id to item ) from a dictionary . items are ordered by decreasing frequency
+checks string for potentially malicious inputs for eval function
+"first send strings from any given file , one string per line , sends any strings provided on the command line . : param options : argument parser or equivalent to provide options . input and options . strings . : return : string"
+given a list of links separate them into pages that can be displayed to the user and navigated using the 1 - 9 and 0 number keys
+for json output add a full stop if ends in et al
+` ` int sdl _ joystick num hats ( sdl _ joystick * ) ` ` get the number of pov hats on a joystick
+"return a response wrapped in the appropriate wrapper type . lists will be returned as a ` ` ` resource list ` ` ` instance , dicts will be returned as a ` ` ` resource ` ` ` instance"
+convert string parameter value to a list with a single element
+return a : class : ` xsd validator ` object based on available dependencies
+return list of names for enum states of a channel . returns none for non - enum channels
+recreate a given subformat
+read pandoc attributes
+helper function to ensure ' params ' is in a nice state for later use
+ensure that dict has field ' type ' with given value
+trim low quality bases from the 3 ' - end of the sequence
+"create a knn model object . : param fname : dataset file : type fname : str : return : model object , lookup table : rtype : tuple"
+make directory ' plot ' in the ` outdir ` and return its path
+"encode an s3 key , this is just a link to the s3 url , with a special _ _ s3key _ _ type"
+returns returncode of example
+returns a piccolo / picalor compatible id
+"ber decode multiple ( content , berdecoder ) - > [ objects ] decodes everything in content and returns a list of decoded objects . all of content will be decoded , and content must contain complete ber objects"
+read from sys . stdin and return an array of integers . an integer at the beginning of sys . stdin defines the array ' s length
+download corpora for multinli
+converts a string argument to a list by splitting it by spaces . returns the object if not a string
+get the binary hamming distance between two sequences of bytes
+remaps oscar credit card object as helcim dictionary . parameters : card ( obj ) : a credit card object provided by django oscar . returns : dict : credit card details formatted for django - helcim
+method to check to use shared memory
+"prepare variables for ota versus full check . : param ota : the starting version if ota , none if not . default is none . : type ota : str"
+"takes a text and generates a list of possible entities : arg text : the text to look at : returns : generator where each part ( except the first ) starts with an "" & """
+this is only for testing pourposes resets the depot manager status
+ensure that the lock is released
+create a target node that marks a configuration field
+turn an sqlalchemy model into a dict of field names and values
+return true of the function has been marked with
+returns true if val is a list ( or enumerable ) of strings . false otherwise
+compute y _ pred and the derivative of the deviance w . r . t coef
+"check for assert equal ( type ( a ) , b ) sentences sl317"
+"determine if the address is special note : this is super bad , improve it"
+retrieve all regions as strings
+get a notebook name from a path to a notebook
+truncate string values
+return the integer value for a given option in a section
+"unpack bytes to bits : param arr : list byte stream , as a list of uint8 values returns - - - - - - - bit _ arr : list decomposed bit stream as a list of 0 / 1s of length ( len ( arr ) * 8 )"
+return an open mysql db connection using the given credentials . use retries and sleep to be robust to the occassional transient connection failure
+parse example _ command to get inputs . each input stored as element in a dictionary list
+retrieve a content type from an app _ name / model _ name combo . throw http404 if not a valid setting type
+retrieve a content type from an app _ name / model _ name combo . throw http404 if not a valid setting type
+return the ravello application we ' re working in
+throws despatchbaysdk exceptions in response to suds generic ' exception ' exceptions
+generate an arista specific name for this acl . use a unique name so that open stack created acls can be distinguishged from the user created acls on arista hw
+create a new gdal dataset in memory useful for various applications that require a dataset
+"read the first line of the file and extract column names from it . returns a dictionary with two elements : colnames a list of column names indices a dictionary of column indices , indexed by name"
+"takes data generated by a map of eigensystem calls and returns the eigenvalue and eigenstate tables parameters - - - - - - - - - - esys _ mapdata : list of tuple of ndarray returns - - - - - - - ( ndarray , ndarray ) eigenvalues and eigenvectors"
+retrieves the grains from the network device if not cached already
+check if given regex is of type ecma 262 or not . : rtype : bool
+"type parser for user defined and builtin classes . parameters - - - - - - - - - - arg : class to parse returns - - - - - - - parsed : ordered dict ( ' value ' , ' signature ' , ' fullargspec ' , ' isbuiltin ' , ' inheritance _ tree )"
+compose the absolute path of a template
+build a new review config object using the ini config file and the defaults if they exist in the app _ config
+returns a list of assset types for a multiple choice dropdown
+deregisters a decompressor for a specific compression method . args : decompressor ( type ) : decompressor class . raises : key error : if the corresponding decompressor is not set
+get the checksum for the google data fetched
+take x dictionary and insert / overwrite y dictionary values : type x : dict : type y : dict : return :
+return none if cache entry does not exist
+c - a - a ' : sodium chloride nitrate [ pk74 ]
+transforms the code object into a new code object
+helper function to see if given name has any of the patterns in given matches
+"update steep down areas ( sdas ) using the new maximum in between ( mib ) value , and the given complement of xi , i . e . ` ` 1 - xi ` `"
+run commands in separate processes
+"return a valid differential class from ` ` value ` ` or raise exception . as originally created , this is only used in the sky coord initializer , so if that is refactored , this function my no longer be necessary"
+"load input file and returns it , in read - only mode"
+"given a generator which yields an iterable , get an element"
+"extract paragraphs from wikipedia . parameters - - - - - - - - - - section : str min _ paragraph _ length : int , optional ( default : 140 ) returns - - - - - - - paragraphs : list"
+convert an unsigned integer to a numpy binary array with the first element the msb and the last element the lsb
+"if contents of ` field ` is not a list of n doubles , make ` field ` red with tooltip caption ` message ` & return 1 . otherwise return 0"
+"return transversals for the group with bsgs base , gens"
+"import a file with full path specification . allows one to import from anywhere , something _ _ import _ _ does not do"
+fix to avoid packages include in slackbuilds folder
+rebuild the task and the sequence from a config file
+check if two module models may be considered the same
+archive given files : param files : list of file names : param zip _ filename : target zip filename : param base _ path : base path for files : return :
+unmount virtual box guest additions cd from the temp directory
+generate renewing time
+"convert : mod : ` datetime ` to the gregorian date as utc float days , preserving hours , minutes , seconds and microseconds . return value is a : func : ` float `"
+set node value ( create a child if necessary )
+get a valid semantic version for tag
+here we clean the queryset
+a generator which iterates over the vertices in reverse - cuthill - mc kee order
+return a list of dictionaries from a result - set
+create the yaml parser object with this factory method
+return all of the requirements of ` dist ` that are n ' t present in ` installed _ dists `
+"removes the suffix from the string if it exists , and returns the result"
+"return an rgb tuple converted from an xyz tuple , along with a bool indicating whether clipping occured"
+"given a 28 bit int , returns a 32 bit value with sync - safe bits added may raise value error is the value is negative or larger than 28 bits"
+read ip address allocations from the allocation file
+return ddp socket object
+"return a list containing tuples of e . g . ( ' _ _ init _ _ ' , ' example / import _ test _ project / _ _ init _ _ . py ' )"
+"parse a string to command name and arguments . : param comm : a string consisting 1 or more words separated by spaces and an optional json as the last word : return : 2 - tuple : command name , args list"
+returns the out shaping policy of a distributed virtual portgroup
+"given a url with authentication components , extract them into a tuple of username , password . : rtype : ( str , str )"
+"returns tuple of ( num _ of _ matches , array _ of _ matches ) arranged highest confidence match first . : param filename : path to file : return : list of possible matches , highest confidence first"
+"a cycled latin square permutation of elements . if elements is a integer the elements = [ 0 , . . . , elements ] is used . parameters - - - - - - - - - - elements : int or list list of elements or a number"
+returns atom section from mol2 provided as list of strings
+we do a pre - order traversal of the tree to calculate the text and tail of each node
+return new returning based on input and context
+transform data frame to list of dict
+offset time ( in milliseconds ) from a datetime . datetime object to now
+create dot graph representations
+remove columns ending with i from a pandas . data frame parameters - - - - - - - - - - df : data frame returns - - - - - - - none
+recursively remove keys with a value of ` ` none ` ` from the ` ` in _ dict ` ` collection
+create a handler for logging purposes . : param debug : does debug information need to be logged ? : return : the logging handler
+internal method to help drop elements from a dict . : param d : : param skip : : return :
+load all frontend modules specified in the config
+return data about a function source including file name line number and source code
+check if a turi create model is pickle safe
+get list of models . db reference from xml node entry
+averages the per - epoch metrics from multiple executions
+build a string from the current error code + error report structure
+recursively collect the files contained inside dirpath
+zig zag transform : encodes signed integers so that they can be effectively used with varint encoding . see wire _ format . h for more details
+"read the control file in json format and extract the blocks of simulation , general parameters , clustering and spawning : param json params : control file in json format from where the parameters will be read : type json params : json str"
+"get all callable methods of an object that do n ' t start with underscore returns a list of tuples of the form ( method _ name , method )"
+return a list of vocabularies that should be skipped when auto output to disk for the specified format
+dictorsetmaker _ star2 : dictorsetmaker _ star2 comma test
+c - c ' : calcium potassium [ hmw84 ]
+validate the match if right character is in a given sequence
+wrapper utility that returns a test vpn service
+formats output from get _ all _ rules and returns a table
+return a valid icached item mapper . map for schema
+checks whether the given ` uri ` is a * uri * reference : param str uri : the given ` uri ` : return : true if a * uri * reference : rtype : bool
+using the specified input resource assemble a list of rpm urls
+check if a command is supported : param command : the command to execute : return : boolean
+fetch first non - none / empty result of applying ` ` apply _ func ` `
+"subroutine of ` ` all _ intervals _ covered ( ) ` ` . check if column and diagonal strip of x are all white . if so , x can not be covered . vertex function is not extreme"
+p values for given f values
+decorate each http verb method to check if the request is authenticated
+"construct a dispatch - usable path from a string , path instance , or other iterable"
+the approximated jacobian is
+triggers when exiting the given testsuite
+yield file names of executable files in path
+"generate a filesystem path from a namespace name or pid . generate a filesystem path from a namespace name or pid , and return a filesystem path to the appropriate file . returns the nspath argument if both nsname and nspid are none"
+r groups a list of items by group id
+"return a canonical value for the "" type "" key . note that this will return [ ] , the empty list , if the value is a list without any allowed type names ; * even though * this is explicitly an invalid value"
+iterate over all child nodes or a node
+check tendermint compatability with bigchain db server
+positional arguements : samples : numpy array . required . metric : string . ' l1 ' or ' l2 ' . required
+"iterate all the keys and attributes associated with a class , without using getattr ( ) . does not use getattr ( ) so that class - sensitive descriptors ( i . e . property . _ _ get _ _ ( ) ) are not called"
+high level sct for testing submission results . args : col _ names : names of columns to test for equality . defaults to all . sort : whether to sort the rows of the results . match : argument passed to test _ column
+decode the key and append fields
+perform head request and return status code
+core function for a classical damage computation
+registers a plugin class
+extract details for application
+alters a potential so that it is periodic across the structure . v - potential ( array ) eps - dielectric constant ( array ) dx - step size ( nm )
+wrapper utility that returns a test floating ip
+2 d list column align : param list | tuple rows : rows : param bool left : default true : rtype : list
+clean a dictionary of dwgsim key - value pairs
+exports a . tsv file of the dataframe created by generated _ pairwise _ gene _ match _ df ( )
+get _ file _ diff : download files from nodes args : tree ( channel manager ) : manager to handle communication to kolibri studio returns : list of files that are not on kolibri studio
+the result folder parameters - - - - - - - - - - project _ folder : str returns - - - - - - - result _ folder : str
+pad a timeseries to match the specified [ start end ) limits
+"get the encrypted git hub token in travis . make sure the contents this variable do not leak . the ` ` run ( ) ` ` function will remove this from the output , so always use it"
+compute clustering index parameters - - - - - - - - - - nu : int number of units nc : int number of clusters returns - - - - - - - clust : float 0 if units are not clustered ( checkerboard ) 1 if units form a single cluster
+if the user has asked for each directory name to be shortened will return the name up to their specified length . otherwise returns the full name
+render a string for space section
+create neo4j safe properties
+json serializer that deals with dates
+build the resnet50 based level 1 model : param lock _ base _ model : : return :
+parse png file bytes to pillow image
+"reviews an ips patch to insure it has only one eof marker . : param fhpatch : file handler of ips patch : returns : true if exactly one marker , else false"
+get sequence length from user . : return : sequence length as int
+get a list of exposed actions that are callable via the ` ` do _ action ( ) ` ` method
+load the list of known accounting tags
+load the peer java object of the ml instance
+parse rate and return number of seconds to pause between calls to c { scale }
+fix for tasks without a module . provides backwards compatibility with < 0 . 1 . 5
+convert some html tags to latex equivalents
+recursively strip all strings found on an object . : param obj : obj to process : return : object processed
+return model prop by name : type model _ cls : spannerorm . base _ model . base model : param model _ cls : : type prop _ name : str : param prop _ name : : rtype : property | none : return :
+delete all messages from lizard inbox
+google analytics adapter factory
+reset environment variable gmt _ datadir to its old value
+opens all json - config files in a directory and returns a list of each files content
+given a file name to a valid file returns the file object
+return the cluster or none if it does not exist
+the function to encode kwargs . : param : to _ encode : kwargs to encode . : return : encoded kwargs : dict
+a series of resblocks starting with a downsampling convolution2 d
+define the epicyclic _ gearing second simulation : annulus - planet
+convert all fractional coordinates to cartesian
+retrieve the aperture correction for this exposure
+binyenstack ( stack ) applies yen ' s algorithm on a set of images
+remove prefix ` start ` from sting ` s ` . raises a : py : exc : ` value error ` if ` s ` did n ' t start with ` start `
+normalizes glyph left margin
+subsamples new vector from vector of orig items . returns all items if requested sample is larger than number of items . this version uses the cumsum / frequency distribution method
+"decode dictionary back into unicode : param dict [ str , object ] d : keys : rtype : dict [ unicode , object ]"
+"take an object , and if it is a py macaron model , serialize it into json so it can be passed as argument of a celery task . otherwise return the object unchanged"
+executes the method provided in settings to get the cas server url dynamically
+validate the structures so that all of them should have the same lattice args : structures : list of pymatgen structures returns :
+hashes and returns the message ` ` message ` ` . : param message : bytes : rtype : bytes
+determines the number of days of a specific month in a specific year
+"original ' , ' are replaced as ' _ _ ( cm ) _ _ ' and new lines are as ' _ _ ( lf ) _ _ '"
+returns true if the values in the list l are all co - prime otherwise it returns false
+update the control board with the specified fitted parameters
+this method returns the total deaths across all countries and also returns total deaths per country . : param instance : instance of the class : return dict
+parse game . xml data to find the game information
+finds lines containing the search string and replaces the whole line with the specified replacement string
+finds the fn that has terminals as children
+returns byte padding required to move the base pointer into proper alignment
+returns whether cancel transition can be performed or not . returns true only if all analyses are in unassigned status
+determine if given host is localhost equivalent
+for the alerts and backends keyword arguments . . . - provides resonable defaults - accept a single alert / backend or a list of them - accept alert / backend class or the a string containing the alert / backend i d
+get fields of the given index : param connection : my sqldb connection : param db : database : param tbl : table : param index : index name : return : list of field names
+works like ` mkdir - p ` : creates all ( not yet existing ) directories in a given path
+get and store repository handler for named project
+translates that a key of say 1 is the ' oug - displacement vector ' table
+gets the name of all recipes present in the run _ list of a node
+"splits an original filename into dict with keys base , ext"
+realise preprocess for an input pillow image and convert it to numpy array . parameters - - - - - - - - - - image an input image to be processed . returns - - - - - - - preprocessed numpy array
+opens an xlsx file ( the template ) and returns the openpyxl object
+platform specific default root path
+converts a line from the properties file and adds it to the properties dictionary
+> > > parse _ duration ( ' 00 : 01 ' ) 1 > > > parse _ duration ( ' 03 : 33 ' ) 213 > > > parse _ duration ( ' 01 : 14 : 00 ' ) 4440
+adjust environmental variables which can cause conflicts with installed anaconda python
+return a list of the names of the persistent attributes of ` ` cls ` ` . . . . except collections
+get a list of devices that have search _ string in the host name
+return the end datetime as determined by dtend or duration
+parse and return dictionary of typaliases
+"return a setting from a section , optionally provide default"
+default menu choice foratted for inclusion in a prompt string
+return a toplevel logger
+"set the joined alias on the child , for django > = 1 . 8 . 0 : param child : : param alias _ map :"
+return a dict for form datas population : param dict request _ parameters : a dictionnary containing the parameters we want to rerturn : returns : the param dict : rtype : dict
+return the length of the blimpy header in bytes
+plot the swim speed during experimental indices
+class method that will return a certificate object by its id
+check parameter and expand it to a file name
+converts txt to a integer number and returns this number return none if txt is not a number
+"check if the value is a * none value * in function of the type : param type : type of value : param value : value to check : rtype : * bool * , true if it is a * none value *"
+reset configuration context : return : none
+"return the full path of the first index in indir , or none if not found"
+adds the specified path to the output logging paths if it is not already in the listed paths
+"finds the first free port starting at start _ port for the service and returns an open port not reserved by riptide or another application used by additional ports logic ( get _ additional _ port ) , may be used by other system parts"
+update the modification time ( mtime ) of the specified file . : param file _ path : path of the file to update . : return : the new and the old file modification time
+this needs to be called in between definitions of nodes in order to set on which page their documentation will go . names must correspond to the url of the page the documentation should be on
+load the default config file from the default ipython _ dir
+helper function for formatting the content of the options line
+returns os data
+changes the starting point of a circular seq record by n _ bases bases
+r return a mask to reduce the density of points in irregularly - spaced data
+get image _ name for the image _ id specified . args : inst _ img _ id ( str ) : image _ id to get name value from . returns : aminame ( str ) : name of the image
+"parses entered response string to string error message without the error code . e . g . : response = ' - 110 , "" command error "" ' returns : ' command error '"
+get ast node and return a contract function
+returns detailed information about registered blueprint routes matching the blueprint bundle path
+import a dotted module path and return the attribute / class designated by the last name in the path . raise import error if the import failed
+list all resource managers names . returns all service names and all combination of service . resource names . : param admin _ required : none - > returns all resource managers true - > returns only admin resource managers false - > returns only non admin resource managers
+return date time base input class from django . forms . widgets module
+group files that match by globs for merging rather than by explicit pairs
+simple routine to connect to an existing database and list a few stops bin / connect - tester - - database _ url sqlite : / / / gtfs . db _ no _ gtfs _ zip _ needed _
+partially taken from typing . get _ type _ hints
+use one of rules and apply it to identification
+get as close to the repo root as possible
+mark testcases missing in source code
+pull retrosheet game logs for a given season
+validate referenced values in functions
+gets all of the logged event info changes for a mod : return : returns a dict of new and modded event info entries : rtype : dict
+deserializes a dict and its elements
+method to create unique list of repositories from the list of repositories given . : param repo _ list : list of repositories which might contain duplicates . : return : list of repositories with no duplicate in them
+find the hashtags in a given text
+wrapper to get subject parameter from nexus
+check if the array type of ` a ` is of type specified by ` dtype ` parameter . raises - - - - - - type error if the array type does not match ` dtype `
+reserve _ memory : size and keep time : param mem _ size _ str : 1 gb | 1 mb | 1 kb . . . : param reserve _ time : 60 ( s ) : return :
+"return the field names ( channel names ) from dbf file fn . with usecols , return only names corresponding to the integers in usecols"
+fix rare cloud layer issues
+input : { cluster _ item : cluster _ name } dictionary output : { cluster _ name : set ( [ cluster _ items ] ) } dictionary
+"finds a substring in a string . : param s : string you are searching in . : param char : string you are searching for . : return : if the substring is found it returns the index of the first occurrence , otherwise returns - 1"
+implement full dcm using px4 native sd log data
+"for commands executed directly via an ssh command - line , ssh looks up the user ' s shell via getpwuid ( ) and only defaults to / bin / sh if that field is missing or empty"
+returns dictionary of named gateways for given vpc { name : gateway }
+gets the type . group . label + key spec from an element in an overlay
+return image inside a qlabel object
+"changes @ thin , @ auto , @ shadow to bold"
+get an iterator if documents from a tree or document - like object
+returns lists of lists when given tuples of tuples
+read gtfs trips . txt as a pandas dataframe parameters - - - - - - - - - - textfile _ path : str director of text file textfile : str name of text file returns - - - - - - - df : pandas . data frame
+search and return the location of the shared git templates directory . : rtype : string or none
+will only give a find on classes that is a subclass of micro service with the exception that the class is not allowed to be a direct response micro service or request micro service
+recursively count nodes to compute the cardinality of a subtree for each node
+clone plugin data of a dashboard entry
+read only star fit parameters and coordinates from a fits file . : param fits : an open fitsio . fits object : param extname : the name of the extension to read from : returns : the arrays coords and params
+a - a ' : triborate bicarbonate [ fw86 ]
+get class device info
+create a blueprint for replacing loan item
+fix the values of all numeric variables in namespace recursively
+"return a concatenation of prefix , object and suffix . returns empty string if obj is not "" truthy "" ( i . e . , not none or empty container )"
+compute an exit code for mutmut mutation testing
+"isri arabic stemmer based on algorithm : arabic stemming without a root dictionary . information science research institute . university of nevada , las vegas , usa"
+decode a base x encoded string into the number : param str base _ num : number encoded in the given base : param int base : length of the base to use : param str alphabet : the alphabet to use for encoding
+removes duckling entity predictions
+return the attributes of : class : ` settings . g ` to their original values
+convert nd4j array to numpy array
+get creator function by name
+returns attribute value from downloaded data . parameters : - data : dict - the result of ` get _ data ` function - attribute _ name : str - attribute name from ` api _ fields `
+function takes input of auth class object auth object and url and returns a bool of true if the authentication was successful
+standard simple csv loader
+create sql - code for search
+a helper function for cyclic shifting a one dimensional array
+convert camel case name to underscore name
+gets the apic class to an acitoolkit class mapping dictionary : returns : dict of apic class names to acitoolkit classes
+hexadecimal byte validator for argparse
+take the type string of a node and create the queryable type string : param type _ string : the plugin _ type _ string attribute of a node : return : the type string that can be used to query for
+"calculates eigenvectors and values of an extended contact map : param contact map : contact map : type contact map : np . array : returns : ( numpy . ndarray , numpy . ndarray ) - - eigenvalues , eigenvectors"
+common method to account for vtk endian quirks and efficiently adding points
+checks if mac address found from nmap that matches raspberry pi accepts : ip _ address var as string returns : nothing prints : found ip of pi if found
+"suggest parser ( ext , text ) given a filename extension and text , returns the name of the suggested parser corresponding to the language of the file . see also register filename extension ( ) and register shebang keyword ( )"
+read a source list object from the path of a directory containing source files . parameters - - - - - - - - - - path : str directory containing ` mpdaf . sdetect . source ` files
+returns the image urls and filenames for the chapter finds the image urls from the ' chapter _ preload _ images ' variable from the chapter page
+verify is a list is a list of points
+convert utc to gps time : param timestamp : utc timestamp in seconds . : return : gps timestamp in seconds
+check if directory exists . . todo : : should check that it is actually a directory parameters - - - - - - - - - - path : str path to check returns - - - - - - - out : bool true if directory exists
+take a name for a language or a feature which has come from somewhere like a cldf dataset and make sure it does not contain any characters which will cause trouble for beast or postanalysis tools
+calculate how many items must be in the collection to satisfy this slice returns ` none ` for slices may vary based on the length of the underlying collection such as ` lst [ - 1 ] ` or ` lst [ : : ] `
+get last update time prints out the date and returns the date ( str )
+get the version which is currently configured by the package
+aicc [ k ] = aic [ k ] + 2 * ( k + 1 ) * ( k + 2 ) / ( nf - k - 2 ) assumiamo di tenere tutti i k < = k
+"new _ y = dp _ unnormalise ( y , normalisation _ parameters ) unnormalises the data , y , using the parameters passed in normalisation _ parameters"
+converts a var _ instance to a var array one
+return true if at least one command requiring ` ` cmake ` ` to run is found in ` ` commands ` `
+calculate dest values using anne chao ' s harmonic mean
+""" c - a : samarium chloride [ pm73 ]"
+create unique labels
+glob for files to be registered on an ibl session : param ses _ path : pathlib . path of the session : return : a list of files to potentially be registered
+c - c ' - a : potassium sodium chloride [ pp87ii ]
+create a config from a string and optional dict . see get _ default
+detect if the fetched page is last page of search results
+returns distance of each item in qs from the mean . warning : slow method used only for compatibility testing . do not use
+calculate the pixel coordinates from the standard pixel - map file by default it gets rotated by 90 degrees clockwise to show the same orientation as mars and fact - tools
+"helper method that wraps the package _ search action . * unless overridden , sorts results by metadata _ modified date * unless overridden , sets a default item limit"
+create the n - dimensional ndnt kernel . parameters - - - - - - - - - - shape : tuple of int the shape of the neighborhood around each pixel . returns - - - - - - - kernel : array _ like
+function to create a dictionary containing edges of y reversed . inputs = = = = = = y : adnum outputs = = = = = = = a dictionary
+returns a tuplet containing : - the result of the depth _ first _ search ( ) function starting at ' root ' ( is a tuplet ) - a dot format output of the given graph ( display it using graphviz dotty command )
+test whether @ uri should be filtered by @ filter _ list
+"fetch framework variable according given attr _ name . return a new reusing variable through create _ parameter way args : attr _ name : string , attr name of parameter returns : framework _ var : framework . varialbe"
+safely run command in certain path
+serializes the request payload to match the format requested by nbg apis . serializations : - datetime : ( z - suffixed iso format )
+load any supported file format . : param path path : file to load . : return : a dictionary with the parsed content . : rtype : dict
+remove supporting and input files after testing is complete
+assemble memory configuration for a spark session : param memory : string with memory configuration for spark : return : memory configuration
+gradient of slice operation
+r remove all negative entries from sparse matrix
+apply the index of each item
+adapter for rendering an object of : class : ` crabpy . gateway . capakey . sectie ` to json
+get the current security policy : param user : user to use for security policy
+! @ brief convert a byte array into a halfword array
+"standard negative log likelihood . fit 1 parameter ` ` n _ signal ` ` , in 2 dimensions ` ` alpha , energy ` ` ( ` ` alpha ` ` is separation to source )"
+get flow file safetly
+adds sbo terms for demands and exchanges
+compute the rectangle from a wkt string
+assembly module scope name and model scope name
+flip rgb to bgr image data ( numpy ndarray ) . also accepts rgb a / bgr a and single channel images without crashing
+converts an epoch timestamp to human readable time
+dataset . cache _ root is the root directory in which the given dataset has been cached
+return architecture name from given lldb target . : param lldb . sbtarget target : lldb target . : return : architecture name or none if can not find architecture . : rtype : str | none
+"return a printable character , or ' . ' for non - printable ones"
+get snapshot by name from the snapshot tree root . : param name : snapshot name : param root : current root node in the snapshot tree : return : none in the snapshot tree with given snapshot name
+return the scalar cartesian norm of a single 3 elements vector
+find the midi output name for a connected fader port
+generates a valid python name from a system model name . args : name ( str ) : the system model name . returns : str : the generated name
+parse the output of gnu time filename : a path to the gnu time output returns a data frame
+is there a suitable handler for this control : param ` control ` : the control instance to check if a handler for it exists
+"return function _ name ( arg [ 0 ] , arg [ 1 ] , . . . ) as a string"
+run a command in the console returns : error terminal _ output
+gets all foreign keys on * to _ table * referencing * from _ table *
+compare two ` mtime ` values ( e . g . for sorting )
+"return job class from rq settings , otherwise return job . if ` job _ class ` is not none , it is used as an override ( can be python import path as string )"
+try to guess request country
+"get the home folder of grid cal , and if it does not exist , create it : return : folder path string"
+"given a file path , parse it based on its extension ( yaml or json ) and return the values as a python dictionary . json is the default if an extension ca n ' t be determined"
+returns if a request has an okay error code otherwise raises invalid request
+taking a matlab file of arbin data from the calce database and imports it into a host of different num py arrays filename : matlab file
+expand abbreviations and otherwise canonicalize street name and number
+get the current directory into which logs will be written
+"get info from . cih file in path , return it as dict . : param path : path to . cih file . : return : info _ dict : . cih file contents as dict"
+search for all records of a dolphin by label
+compatibility wrapper . taken from storm setup . py
+turn the type argument into something useful
+break a string at sentences and dump as wrapped literal yaml
+check if augmentations are loaded in already or not
+finds the first occurrence of term in english column of database and returns as a word
+attempt to detect whether apm or px4 attributes names are in use
+create a redis connection
+return the name of the table s primary key
+"compute element - wise mean and variance from min and max values . args : minval : a tensor of minimum values . maxval : a tensor of maximum values . returns : tuple of ( mean , variance )"
+smoothly truncate a time domain impulse response
+returns whether the given query options expect a possible count of zero
+"display recent oneliners , return bottom margin and adj . offset"
+convert an observation dict into a raw array if the original observation space was not a dict space
+extract guides out of type - annotations
+update configuration target with given ` ` project ` ` and ` ` repository ` `
+helper function to select correct indices given the local state values in basis . n _ states . args : correlations : list of correlations to be computed basis : an instance of a basis class . returns : list of correlations in terms of indices
+splits as close to the end as possible
+process rnaz dat file format ( generated by rnaz cluster . pl : param filepath : : return :
+date to string with forced timezone information
+gather bytes for checksum calculation
+set up the auth handler using the authfile in ` ` rootdir ` ` rootdir the root directory to sync
+returns true if type represents c + + volatile type false otherwise
+expand group names
+get class device info
+returns the list of fields in the given model instance . checks whether to use the official _ meta api or use the raw data . this method excludes many to many fields
+extract version information as a dictionary from version . py
+yield headers and data from a google analytics report . args : results ( dict ) : google analytics statistics results . yields : list : csv - style headers and data from the report
+split up the full concept path into a category _ cd and a data label
+"verify a xml document signature usign rsa - sha1 , return true if valid"
+convert sigma to full - width half - max
+"order _ name - - limit a text to 20 chars length , if necessary strips the middle of the text and substitute it for an ellipsis . name - - text to be limited"
+"using the list of tuples created from ` parse _ heart _ json ` , generates a csv file and saves it to the directory of choice . returns the file path if successful , none otherwise"
+"hash parts of a file for basic identification by default , the first and final 512k b are hashed"
+returns config file from config directory . any unset values default to default _ config configuration
+"take a list of dictionaries , and tokenize / normalize"
+return a list of tags ( with nrml namespace removed ) representing the order of the nodes within a node
+iterate through all venv folders for globally installed packages . : rtype : iterator [ str ]
+retrieve order data
+registers all notifications in the application
+retrieve id from input which can be num or id
+check whether the code is run from ipython
+"get route name from raml resource uri . : param resource _ uri : string representing raml resource uri . : returns string : string with route name , which is : resource _ uri : stripped of non - word characters"
+"not sure why this is needed for migrations , there is probably a better way"
+"computes covariance matrix for giving boundary points , according to peura et al . 1997 , "" efficiency of simple shape descriptors """
+tests for existence of a directory on the string filepath
+display bandwidth before and after permutation
+"convert datetime in a dictionary : param date : date in datetime format [ datetime ] : return : dictionary with all components of the date : year , month , day , hour , minute , second [ dictionary ]"
+"given a fastq file , read through the file : param fastq : name of fastq file : param pkl : name of pickle file to write to : return :"
+get component name from filename
+return named params from a technical string
+returns djinfo template context as dictionary
+get all python files from the list of files
+makes sure that a description starts with a capital letter and ends with a period for consistency
+cleans the notebook to be suitable for inclusion in the docs
+"decode a string as ascii or utf8 if possible ( as required by the sftp protocol ) . if neither works , just return a byte string because the server probably does n ' t know the filename ' s encoding"
+context mgr to asserting no environment variable of the given name exists ( sto enable the testing of the case where no env var of this name exists )
+make api method docs inheritted
+"handle none if preprocess , else handles anything not in dir _ strs"
+initialize global log properties to their default values
+given a json representation of all the models in a graph return a dict of new model objects
+"get current context not initialized context raises : class : ` . context is not initialized error ` ,"
+takes a number ( pages ) and the reordering scheme to use . returns a list of indexes to use with page reordering
+watch for action with timeouts . this method will listen for custom objects that times out
+list a lzh archive
+"get two sorted array sets from the connections tuples , one for the first elements and one for the second"
+create a matrix of active links leaving each node
+create or extend an argument tree tdict from path
+check mysql has innodb _ large _ prefix set
+gets a cachet component by id
+ensure the state transition matrix rows sum to 1
+converts the given datetime to an iso string . this assumes the datetime is utc
+"as a stupid programmer i like to use the upper left corner of the document as the 0 , 0 coords therefore we need to do some fancy calculations"
+"parses control file contents , yields a list of steps"
+return a boolean value for whether the given file is ignored by git
+verifies that the given two - letter country code is valid . : param code : a two - letter country code : type code : str : return : the passed value : rtype : str : raises : voluptuous . invalid
+get read cateroties : param bam : input bam path : param out _ txt : output file name : return : output summary name
+generate a filename to be used by packer
+seen _ union : union identifier
+shorten long urls to fit on one line
+return a report that matches ` ` name ` ` : param request _ handler : : param name : : rtype : : class : ` fineract . objects . report . report `
+only for testing purposes
+plot a graph using a circular layout . parameters - - - - - - - - - - graph : networkx . graph graph representation of interaction network
+check if desktop is locked . return bool . desktop is locked if press win + l ctrl + alt + del or in remote desktop mode
+returns a dictionary with catalogs definitions
+"the main method for the netify app , when started via uwsgi"
+return job job status code from the response of the qstat command
+interpolate the edges of the range gates from their centers
+convert a label to a lut id number
+make sure string is unicode try to default with utf8 or base64 if failed
+determine if test is better than control
+if you introduce new save - able parameter dictionaries then you have to include them here
+get vlan i d associated with a portgroup on a dvs
+"coerces an optional value into a list of one or zero elements . > > > optional _ to _ list ( "" a "" ) [ ' a ' ] > > > optional _ to _ list ( none ) [ ]"
+checks if a module exists and can be imported
+check that database is in project and that it has activities returns database _ name if all checks pass
+provides a score out of 10 that determines the relevance of the search result
+given a list of dialects choose the one to use as the canonical version
+set the initialization state of the local node @ param initialized : true if node initialized @ type initialized : bool
+"set whether or not validators are run . by default , they are run"
+create pdf and store it in filedir _ pdf
+reduce test case graph to a test - only graph
+reads in data from a directory of csv files ; assumes the directory only contains csv files
+gets query parameters for creating a signed url
+check vaules in selinux mode
+execute fsync on a file ensuring it is synced to disk returns the file stats : param str file _ path : the file to sync : return : file stat : raise oserror : if something fails
+if obj is argparse . namespace or optparse . values we ll return a dict representation of it else return the original object
+"to see if we are a console app , check if we can treat stdin like a tty , file or socket"
+"@ return : the existing loggers , in a list of c { ( name , logger ) } tuples"
+blindly find and return the first egg we find
+"given a dataframe n x n , returns mean m x m matrix of grouped mean rois inputs - - - - - - - df : pd . data frame , shape = n x n rois : np . array like , shape n"
+calculate cov _ x from fjac ipvt and p as is done in leastsq
+calculates a moving average of iterable over n elements
+check whether the application < name > is installed
+calc qi _ power on t _ x tuple returning tuple
+even / odd hit test on interior of a path
+"compute division of polynomials over gf ( 2 ) . given a and b , it finds two polynomials q and r such that : a = b * q + r with deg ( r ) < deg ( b )"
+create a database connection to the sqlite database specified by the db _ file : param db _ file : database file : return : connection object or none
+"check whether the code cache for a particular piece of code is valid . returns a tuple containing : a boolean representing whether the cached code should be used , and the cached code ( or ` ` none ` ` if the cache should not be used )"
+"adjust the evaluation interval adaptively . if cur _ dev _ size < = thres _ dev _ size , return base _ interval ; else , linearly increase the interval ( round to integer times of base interval )"
+returns a dictionary of important dates
+frobenius norm log likelihood
+parse the history node of a pubmed xml response parameters - - - - - - - - - - node : xml node or none returns - - - - - - - pubdate : dict or none
+returns set of names of sequenes which have meaningful part ( without x or - ) longer than 30 % of trimmed alignment
+download ofx files and combine them into one it expects an ' accounts ' list of ofxclient . account objects as well as an optional ' days ' specifier which defaults to 60
+"given multiple sample matrices , return a 1 d array of all differences between each sample matrix ' s pixels and their corresponding median background value . all input matrices must have the same shape , nonzero coordinates and format"
+function to avoid code duplication that takes returns the right profile i d
+check whether range of values can be stored into defined data type . : param mn : range minimum : param mx : range maximum : param dtype : : return :
+generate a nonce with the current timestamp
+emits cardinality decorator at end of type
+determine if this given value is an ipv6 address value as defined by the ipaddress module . parameters - - - - - - - - - - value : str the value to check returns - - - - - - - bool true if the value is any valid ip thing false otherwise
+return a tileset info for this time interval
+"validator for the combination of statuses . check if the combination of statuses of lease , reservations and events is valid : param lease _ id : lease id : param status : lease status : return : true if the combination is valid"
+initiate log file
+make sure input filename exists
+initialize a basic logger for htmap for the cli
+calculate percentage of sites removed given alignment size and number of sites trimmed
+"a 6 digit hex string representing an ( r , g , b ) color"
+calculate contsign of v and pack as kv
+in order to reuse function output _ emacs _ table / output _ other _ table we generate table contains cells with type my table cell
+"fetch school data from external api and parse it , at once . parameters - - - - - - - - - - code school unit code"
+strip every element of a list and keep a list of ordered unique values : param tab : list to strip : type tab : list : return : stripped list with unique values : rtype : list
+proximal operator for maximum entropy regularization
+"adds operating system , requires "" i d "" and "" operatingsystem - id """
+subtract from a marking the postset of t and adds the preset parameters - - - - - - - - - - - - m marking t transition returns - - - - - - - - - - - - diff _ mark difference marking
+normalize 2d array between two values to check
+calculates the conversion factor and physical amplitude of motion in nms by comparison of the ratio of the heights of the z signal and second harmonic of z
+returns a list of label strings loaded from the provided path
+"pre : reacsbounds = { reac : ( lo , hi ) } , all external reactions blocked post : model with reactions in internal cycles ( for doing elementary modes )"
+set list of safe writeable paths
+convert a py ephem date into a timezone aware python datetime
+restrict the csv files to the adequate number of subjects
+"search for python ini files in given paths , append files with full paths for p . get parameters ( ) to read . current paths given are : where this code is executing , one up , current directory"
+apply log _ softmax to the last dimension of input x : param x : tensor : return :
+quote string containing unsafe characters for both group - name and items : param s : string to make safe : return :
+format date for display
+function for unpacking the tableswitch op arguments
+"check for assert equal ( a , none ) or assert equal ( none , a ) sentences n318"
+return a decoded unicode string . false values are returned untouched
+return all binary states for a system
+get the nn model that s being analyzed from the request context . put the model in the request context if it is not yet there
+get a single value from a request get parameter . optionally error if it is missing
+check if there is a correct function name used in the function definition . : param tokens : tokens to check : return : none if no error found otherwise a string representing what type of error was found
+converts argument strings in key = value or key . namespace = value form to dictionary entries
+checks for deferred email that otherwise fill up the queue
+return potential locations of iaca installation
+read graph and construct flow matrix
+return the highest intensity peak coordinates
+"get the plugin templates from the templates directory . if more than one template is found or passed , a dialog is raised to choose one"
+calculate downsampling value
+converts a k os string or string _ value into a bytes object
+remove text nodes containing only whitespace
+disable tracing for the provided blacklist urls by default not tracing the exporter url
+"` ` int sdl _ sem post ( sdl _ sem * ) ` ` atomically increases the semaphore ' s count ( not blocking ) . : return : 0 , or - 1 on error"
+returns a job binary that does not contain a data field the data column uses deferred loading
+return generator of provided queue : param q : queue : type q : queue . queue : return : generator : rtype generator
+take a reporter editions dict and flatten it returning a dict for use in the dict writer
+"method by which a message of type ' gossip notify ' is packed / encoded : param data _ type : the data type of the message : return : dict , code and data"
+parse bracketed list
+"download the data from yann ' s website , unless it ' s already here"
+linear weighted moving average . formula : lwma = sum ( data [ i ] ) * i / sum ( i )
+"initializes a parameter list . if there is a "" start "" row , then everything below it will be saved as a list"
+check whether the array has non negative entries
+determine if a string is a valid unit . args : ustr ( str ) : string representation to test . returns : bool : true if the string is a valid unit . false otherwise
+classify atoms in the given formula according to whether they occur as positive or negative literals
+enumerate over sqlalchemy query object ` ` q ` ` and yield individual results fetched in batches of size ` ` limit ` ` using sql limit and offset
+load a dict from a string
+wrapper to work around lack of . total _ seconds ( ) method in python 3 . 1
+returns image choices for the prompt . : param list images : list of digitalocean . image . image instances : return : list of 2 - len tuples
+"choose the most common item from the list , or the first item if all items are unique"
+remove a preorder hash
+"get the current focused declaration object . returns - - - - - - - result : widget or none the declaration for the currently focused proxy , or none if the current focus widget does not map to a proxy"
+"decodes the specified integer representing edges in cortex graph . returns a tuple ( forward , reverse ) which contain the list of nucleotides that we append to a kmer and its reverse complement to obtain other kmers in the cortex graph"
+return the inertia tensor of a cylinder
+filter list of repositories acc . to the list passed : param repos : list of repos to check pull request for : param ignore _ repos : list of repos to ignore : return : filtered list of repos
+filter to convert given timestamp to utc date / time
+"return an english string representing a rate . delta is assumed to be a rate as "" 1 per delta """
+open a pdf file with py pdf2
+convert argparsed strings to lists for an argument
+used to get credentials from bearer auth : param auth : < str > : return : < dict >
+mimetypes . guess _ extension introduces some bizarre randomness . this function removes it for the extensions that interest us most
+return a ch ebi name corresponding to the given ch ebi id
+get an actor by its universally unique urn . : param actor _ urn : actor urn : type actor _ urn : string : returns : : class : ` pykka . actor ref ` or : class : ` none ` if not found
+return resource referenced by bookmark
+add new path build on idx to all paths
+copy a ro object into a rw structure made with standard python classes
+flattens a given material . args : material ( dict ) : material config . returns : list
+just read the config for a project
+checks if the structure object is charge balanced
+"computes symmetric normalization of a , dealing with sparse a and batch mode automatically . : param a : tensor or sparse tensor with rank k = { 2 , 3 } . : return : tensor or sparse tensor of rank k"
+set native ( unsorted ) cuda device id parameters - - - - - - - - - - idx : int . specifies the ( unsorted ) native index of the device
+return maximum number of midi outputs . returns - - - - - - - max _ outputs : int maximum number of midi outputs
+merges concatanates given input array into lines of strings . args : input _ array ( array ) : parsed string of array
+"similar to sort versions , but take the list of versions returned by find versions"
+is this at least libvips x . y ?
+"checks if the signature is compatible with signature . @ param signature : string the signature to check if compatible . @ param with signature : string the signature to check with . @ return : boolean true if the signature is compatible , false otherwise"
+return a positive content _ length in a safe way ( return 0 otherwise )
+"this mutates passed in ex ( any base x ) , replacing nested selects with their ( flattened ) output"
+perform a single conversion from an input buffer to an output buffer
+normalize the host part of the url
+check if user can create topic . args : category ( str ) : category name . forum ( obj ) : object forum . user ( obj ) : object user . returns : bool : if the user can create topic
+validate bids unless opts say otherwise
+"create , populate and return the versioneer config ( ) object"
+returns helpful similar matches for an invalid flag
+checks if claimset _ data contains tuples with an integer entry . : param claimset _ data : list of tuples or strings . : type claimset _ data : list of tuples or strings : return : true if tuples with numbers ; false if not
+"whether end of alignment segment is a linear end parameters - - - - - cigar _ tuple : tuple of cigar returns - - - - - int 1 for linear end , 0 for ambiguous end"
+configure whether this module should assume that it is being run from a jupyter notebook . this sets some global variables related to how progress for long measurement sequences is indicated
+create a python identifier for the detector to be used as the class name
+load library by searching possible path
+"start and bind the fluid db client : param app : the flask instance : param sandbox : whether to use the sandbox , optional , default : false"
+"a function that converts the x , y coordinates to polar ones . - does not do the circular correction"
+minimizes aliasing effects on spectra and cross - spectra df : pandas . data frame containing spectrum or cross - spectrum
+helper method for ` ` get _ tree ` `
+"this function is needed for python 3 , because a subprocess can return bytes instead of a string"
+get a list of the parameters in the operator . parameters - - - - - - - - - - operator : lin op the operator to extract the parameters from . returns - - - - - - - list a list of parameter objects
+set up x10 dimmers over a mochad controller
+open file for reading respecting python version and os differences . sets newline to linux line endings on windows and python 3 when encode = false does not set encoding on nix and python 3 to keep as bytes
+translate the values of the list of 3 - tuples according to the provided look - up table is a generator . : param list triangle _ list : a list of 3 - tuples of integers : param dict lut : a dictionary mapping current to new values
+return true if cls has on overridable _ _ init _ _
+"transforms an unpacked smarty parse object into a . utils . ghid . if using algo zero , also eliminates the address and replaces with none"
+transform a vtk actor and return a new object
+"use pandas to group clusters by cluster identifier df = pandas dataframe cluster _ id = column that identifies cluster membership , which can be a basic string like "" hospital cluster a "" date _ col = onset or report date column"
+"run namedex in the commandline this function runs when the module is ran as a script . it only prints the results , it does not output to stout"
+trace every executed line
+generates a random long . the length of said long varies by platform
+normalizes given node as str or dict with headers
+calculate the remaining bytes of a utf - 8 sequence if given the first character . utf - 8 only !
+checks if a given gtype is sane
+calculates the effective outer indices of the intermediate tensor corresponding to the subgraph ` ` s ` `
+"a helper function that wraps socket . getaddrinfo and returns none when it fails to , e . g . resolve one of the hostnames . used to address python - 895"
+make pylint aware of our custom logger methods
+compute mapping from parameters to devices by looking at the device option of the op that creates the blob has
+get applicant from email address
+summarizes a single nc file given its basename
+create windows each containing the same number of accessible bases
+azure notebooks does not allow access to url parameters . this is a cheap function to parse them when provided manually
+add i d to json rpc if not present
+get a configuration variable group named | name |
+yield all the uninstallation paths for dist based on record - without - . pyc
+forms queue ' s context entry
+"parse command - line credential string , e . g . ` cloud _ files = my _ files `"
+calculates the largest divisor of a natural number num _ n
+a function to cover the common case of creating a config for a bot
+recursively scans a directory for all valid bot configs . : param root _ dir : directory to scan . : return : the set of bot configs that were found
+registers a path specification credentials . args : credentials ( credentials ) : credentials . raises : key error : if credentials object is already set for the corresponding type indicator
+return a point instance from a given list
+provided with a tlsciphertext instance c and a stream or block cipher alg the function decrypts c . data and returns a newly created tlsplaintext
+set property values for polygon
+returns an approximate vector representing the major axis of points
+takes bytes and returns a gitypelib or raises gierror
+wsgi application creation helper : param controller : overrides default application controller : param transactional : adds transaction hook for all requests
+a three - locus heterogeneity penetrance model
+gill - king algorithm for modified cholesky decomposition
+select only rows passing a set of cuts from catalog table
+exports the saved weight data as a csv file
+"locate a cycle of ( least - preferable , second - choice ) pairs to be removed from the game"
+generator classmethod that returns a configured catalog for all valid combinations of language and topic
+returns the default start stop activation time threshold [ s ] . : return : start - stop activation time threshold [ s ] . : rtype : float
+"if an article is provided , then we select categories relating to it . otherwise we select all article categories"
+compute the number of steps required to escape from a point on the complex plane
+return a new nurbs renderer for the system ( dereferences pointer )
+initialize a rule instance from a yaml map : param name : rule name : param table : map of the table associated with the rule : param inobj : yaml map of the rule : return : rule instance
+"generator for all child dx _ nodes of dx _ node that are part of dx _ nodes : param dx _ nodes : [ diffx node , . . . ] : param dx _ node : diffx node"
+compute collective overlap between two lists of particles
+move a branch s head to a new sha
+convert a camel cased name to pep8 style
+return header object with ' authorization ' for a given token
+"make an element ' s name absolute to make it unique . eg "" stock1 "" in model "" model "" - - > "" model . stock1 "" : param model _ name : name of model : param name : element name : return :"
+replace all capitalized tokens in ` x ` by their lower version and add ` tk _ maj ` before
+generate a fake dataset that matches the dimensions of mnist
+read classifier from pickle file
+represents value as a dict
+"takes a list containing identity names , emails , and ids , and returns a list of identity ref with vote objects"
+returns the path to the location of the file associated with the resource with the given resource id
+hook : hook atom atom newline hook : hook atom atom atom _ list newline
+returns the displacement reduction factor of the foundation for a given corrected normalised rotation . : param cor _ norm _ rot :
+this is the get key function that generates an encryption key for you by passing your secret key as a parameter
+checks that the given packages are not older than any other existing package in the repos
+like mkdir - p
+create a customer with the name . then attach the email and phone as contact methods
+estimates the number of flops in conv layer . . warning : : currently it ignore the padding : param node _ string : an onnx node defining a convolutional layer : return : number of flops : rtype : ` int `
+delete the desktop entry generated by create _ desktop _ entry
+set logger to used by the log function
+do a best effort attempt to conver input to a string . : param input : user supplied input . : type input : mixed . : return : string or none : rtype : string
+"helper to match compatible architectures . if ' up ' is true , we return the included architectures , if false we return the including"
+"return the argument names from a python function argument spec . > > > function _ argument _ names ( ' foo = none , bar = baz ( a , b = 42 ) ' ) [ ' foo ' , ' bar ' ]"
+prepare a set of samples for parallel structural variant calling
+"module function returning data as required by the configuration dialog . @ return dictionary with key "" zzz _ subversion page "" containing the relevant data"
+translate ambiguous characters from curly bracket format to single letter format and remove spaces from sequences
+discards every step - th item from ` iterator `
+normalize the json api data and convert to dataframe . parameters - - - - - - - - - - data api response json data . returns - - - - - - - pd . data frame a normalized dataframe
+load ucsc cyto band table . parameters - - - - - - - - - - filename : str path to cyto band file returns - - - - - - - df : pandas . data frame cyto band table
+runs the main section of src / robotide / editor / tags . py
+reads the weird format of var int present in src / serialize . h of raven core and being used for storing data in the leveldb . this is not the varint format described for general ravencoin serialization use
+return a string with any extra info to include for this object
+removes the complex and complex complex suffixes from a medscan agent name so that it better corresponds with the grounding map
+"a condition is a dictionary of { keypath : values } . extract the keypath from the user . check if the value is in the values list . if not , this condition fails"
+add dict _ a into dict _ b merge values if possible else dict _ a value replace dict _ b value
+"parse string for time codes , titles and url"
+get the workid from an archiveofourown . org website url
+calculates the mututal information between each feature in f and s . this function is for when | s | > 1 . s is the previously selected feature . we exploit the fact that this step is embarrassingly parallel
+check to prevent mutable default argument in sahara code . s360
+parse a list of degradations arguments args : degradation _ args ( list of string ) : input degradations arguments returns : ( list of degradation ) : degradation objects with specified params
+parse the references to reference instances
+"return the figure size ( width , height ) following the golden ratio given the width figwidth ( default = 5 )"
+get the ratio of ` iterable ` items that pass ` filter _ function `
+replace all strings in dictionary with compiled version of themselves and return dictionary
+returns all disk images within a location with a given image name . the name must match exactly . the list may be empty
+"from quaternion = [ vec , scalar ] = [ sin angle / 2 ( unitvec ( x , y , z ) ) , cos angle / 2 ] ie 4 elements returns rotation angles and axis longitude and latitude coordinates ( in degrees )"
+generate python code with numpy functions
+return authentication key for corosync
+returns keystone auth
+tries are _ files then split _ str use with multiple = true
+pick biases such that neurons are active for a percentile of inputs
+ex _ expression : op _ exists cmp _ expression | cmp _ expression
+run linting for a single file
+"create an image from a url , using a file cache"
+normalize the various options of hosts _ and _ ports int a list of host and port tuples
+build raster stack vrt file from in _ file _ list . : param in _ file _ list : : param out _ file : output vrt file ( end with . vrt ) : return :
+split the contents of a batch file into individual scenarios
+find all of the packages
+compute the mean value of an diagonal observable
+simple method to determine if a url is relative or absolute
+checks that the diff between consecutive sync pulses is below 150 ppm returns true on a pass result ( all values below threshold )
+validate node ip address . : param ip : an ipv4 address . : type ip : string : rtype : false : is either a non valid ipv4 address or is an rfc1918 - address . : rtype : string ( ip address )
+returns ` ` default ` ` if ` ` argument ` ` is ` ` none ` `
+parse one line of the xfs info output
+"converts labels from ( - 1 , 1 ) to ( 0 , 1 ) : param y : label vector : return : new labels"
+create data - only container if it doesn t already exist
+encode a value to utf - 8 only if it ' s unicode
+gets the tempo for a song
+get update query type
+"given a template name ( or list of them ) , returns the template names as a list , with each name prefixed with the device directory inserted into the front of the list"
+find all active carbon source reactions
+searches for both btc - only and non - btc - only devices returns : list of devices
+get sep ( [ type ] ) ; return the seperator specified by type
+returns a list of favourite group the form of organization _ list action function
+the layer doesn t have an exposure class we need to add it
+"computes the legendre symbol : param a : number : param p : prime number : return : returns 1 if ` a ` has a square root modulo p , - 1 otherwise"
+validate the given connectivity matrix
+check whether broker action has completed yet
+"read the flags from a dictionary and return them in a usable form . will return a list of ( flag , value ) for all flags in "" flag _ dict "" matching the filter "" flag _ filter """
+return a newly created stat as a dict with ' stat _ id ' and ' values ' fields . the values are ordered consistenly with the item stat order in the d2s file
+raise exception if the structure of the personnummer is incorrect
+find locally installed tools : param str plugin _ dir : : return : a list of importable packages : rtype : list
+computes histogram ( density ) for a given vector of values
+convert camel - case names to underscore - delimited parameters - - - - - - - - - - val : string the string to convert returns - - - - - - - string
+deprecated function for applying a seq on a spin group and retrieving the signal
+gives hash parameters for the given set of words
+deserializes retries from json . : param retries : retries as json
+verify that the file at path is the therapist hook and return the hash
+this is a fallback technique at best . i ' m not sure if using the registry for this guarantees us the correct answer for all csidl _ * names
+sets environment internally for python
+iterate over a vcf - formatted file
+activate all the extensions for the given names . extension _ names - - sequence of extension names
+serializes a django queryset as netvis - graph : param qs : a django queryset : param limit : a integer to limit the number of objects : return : a netvis graph
+gumbel width distribution samples come from iid gumbel distributions . distributions are randomly inverted since gumbels are skewed
+finds an unused node id in graph
+f1 - fourier transform for n + p ( echo / antiecho ) 2 d
+instantiate the collection from an existing environ
+build : class : ` dtale . utils . jsonformatter ` from : class : ` pandas : pandas . data frame `
+makes failure output for streams better by having key be the stream name
+a version of xmlattr filter that sorts attributes
+create and show a scrolled message dialog
+child - first discovery of aces for an object
+lookup aqi database for station codes in a given city
+generate n colors starting from color1 to color2 by linear interpolation hsv in or rgb spaces
+set the repository to be used . the arg should be the normal / entry / view url for a repository entry
+"if the string is bytes , decode it to a string ( for python3 support )"
+merge ` ` right ` ` into ` ` left ` ` and return a new dictionary
+alias a selectable if it has a group by clause
+coerce ' value ' to an json - compatible representation
+"method for calculating the center of mass ( cm ) parameters - - - - - - - - - - data : numpy array numpy array of the vertices of shape ( n , 2 ) returns - - - - - - - cm : touple touple of coordinates of the cm"
+remove the weak reference of the given component
+"load any gltf "" extras "" into scene . metadata [ ' extras ' ] . parameters - - - - - - - - - - - - - - header : dict gltf header returns - - - - - - - - - - - - - kwargs : dict includes metadata"
+returns set of columns that are being searched and highlights
+generate a d - optimal design problem from libsvm datasets
+"converts a version string to a tuple of the form ( major , minor , revision , prerelease ) example : "" fw - v0 . 3 . 6 - 23 "" = > ( 0 , 3 , 6 , true )"
+retrieves a logger configured for the application
+check that the given folder exists and create it if not existing
+convert a seldon message proto to json dict parameters - - - - - - - - - - message _ proto seldon message proto returns - - - - - - - json dict
+yield a left - > right traversal of an aggregation
+"execute given vowpal wabbit command , log stdout and stderr . parameters - - - - - - - - - - cmd : str given vowpal wabbit command to execute . returns - - - - - - - str stdout and stderr . raises - - - - - - subprocess . called process error if something goes wrong"
+"choose a random outcome , apply to the state , and return the new state"
+builds and adds url for a given page / post to jinja context
+"tries to find a suitable log level based on input string . input can be a level ( 0 = critical , 4 = debug ) , or a substring of debug , info , warning , error , or critical"
+converts rgb to a hex string
+compute the balanced accuracy for binary classification
+calculate the memory limit in gigabytes returns - - - - - - - int the memory limit ( in gigabytes )
+authenticate using oauth refresh token . raises google auth error if authentication fails . returns access token string
+"evaluate whether a given string can be rendered in ascii args : s ( str ) : the string to test returns : bool : true if the string can be rendered in ascii , false otherwise"
+parse the results of an object command
+creates an program from a json dictionary structure counterpart to program . to _ json ( )
+reads in the prompt from a text file returns string
+get the style dictionary for matplotlib path objects
+method to determine where the users settings should be saved
+default plot routine . : param obj : : return :
+create a min hash digest
+verify the value of a cookie . this will fail if the cookie does not exist . parameters : name : value value : value
+dest should be a directory path that does not exist
+"convert map coordinates to pixel coordinates based on geotransform accepts float or num py arrays gdal model used here - upper left corner of upper left pixel for m x , m y ( and in geo transform )"
+"given an atom based on a built - in predicate , return an equivalent atom with the negation absorbed . if the atom is not based on a built - in predicate , return the atom unchanged"
+resets the clipboard
+sets the mode of the executor . params : passwd - none ( no password ) or string ( set password )
+"returns true if the string argument appears to be a bluetooth address ( strictly speaking , a mac address ) arguments : address - string mac address returns : boolean - true if it appears to be a bluetooth address , otherwise false"
+compute the log of the lower incomplete gamma function
+reload the router : param ctx : return : nothing
+deserialize a bookmark string to a place marker . : param bookmark : a string in the format produced by : func : ` serialize _ bookmark ` . : returns : a marker pair as described in : func : ` serialize _ bookmark `
+compare results stored in multiple files with data in tabular format
+deregisters a path specification resolver helper . args : resolver _ helper ( resolver helper ) : resolver helper . raises : key error : if resolver helper object is not set for the corresponding type indicator
+randomly subset fastq files
+returns true if any networks or ports exist for a tenant
+r runs a task that takes some time
+score c to 5 risk - classes : param score _ c : score c : return : risk - class
+set a custom template renderer
+"checks if a point ( y , z ) is inside a line given by ( y1 , z1 ) and ( y2 , z2 ) . also check if the point i d matches with the ids from the line . returns - - - - - - - boolean"
+return window object if title or its part found in visible windows titles else return none
+query cern resources to get user info and groups
+expand environment variables and user home ( ~ ) in the log . file and return as relative path
+navigates up the given node and returns the root node
+return the quantum fidelity between pure states
+test if points p1 and p2 lie on the same side of line a - b
+converts an object into a request body . if it s none we ll return an empty string if it s one of our objects it ll convert it to xml and return it . otherwise we just use the object directly
+transliterate to 8 bit using only single letter replacements
+test if a module has tests . module format : homeassistant . components . hue test if exists : tests / components / hue
+return the nearest xterm 256 color code from rgb input
+get ip address for the docker host
+calculates the autocorr of mag series for specific lag
+returns the mode flags to use for a modifier symbol . : param xlib . display . display display : the * x * display . : param str symbol : the name of the symbol . : return : the modifier mask
+""" detrend iq along axial direction then use hilbert transform to get envelope"
+this function decorator may be used to mark a method as usable for intercepting request head content . handles _ request _ head will accept an http request object and implement the logic that will define the filter actions to be applied to the request
+try to convert all possible dependencies to processes
+build a dictionary mapping assembly keys to file paths with reference sequence . this method takes a hierachical or no - hierarchical dictionary and builds reduces it to a non - hierarchical dictionary
+fallback implementation of glibc _ version _ string using ctypes
+wrapper to get the module for a script
+assign list of permissions . example : : { % flow _ perms request . user task as task _ perms % }
+create a complete graph from the list of node ids
+check given seq is two - dimensional . raise error if ca n ' t be easily transformed
+get overridden method if any
+process assignment function definition
+determine whether it is possible for this endpoint to return an iterated response
+return real value of cdata section
+generate a set of random sdr s
+get redis db handler
+"read csv at ` location ` , return a list of ordered dictionaries , one for each row"
+reads int property from the hid device
+get the indeces of gates which commute with cz
+show detailed information about a chute in the store . name must be the name of a chute in the store
+returns true if task is chief task in the corresponding run
+calculates the individual and combined scaling factors for both provided models
+numpy aware comparison between two values
+return true if two wildcard patterns can match the same string
+validate the config file and command line parameters
+: type database indexdigest . database . database : type table _ name str : type column indexdigest . column . column : rtype : dict
+annotates the provided dom tree with xmlns attributes and adds xmlns prefixes to the tags of the tree nodes
+"return a concise human - readable description for this plugin . subclasses should set the class attribute description , which is returned by the default implementation"
+convert a bytecode file path to a source path ( if possible ) . this function exists purely for backwards - compatibility for py import _ exec code module with filenames ( ) in the c api
+msoa data contains individual level demographic characteristics including : - hid - household id - area id - hid - household id
+does this line start with a number ?
+loads the objective function from a . json file
+if maybe _ dttm is a datetime instance convert to a stix - compliant string representation . otherwise return the value unchanged
+make index the first item of the list whilst preserving the order of elements
+"given a valid user access token , it will return the user ' s email"
+show button for the creation of sections ( if experiment type is multivariate )
+replace nulls with the mode on dataframe [ colname ]
+accumulate random bit string and remove \ 0 bytes until the needed length is obtained
+"takes a pandas series of dates as inputs , calculates windows , and returns a series of which windows each observation are in . to be used with groupby . transform ( )"
+construct actual key for password identification
+get the current lan ip address of this device : rtype : str
+return a new shard tail that follows this shard body
+flatten the nested json structure returned by the explorer
+dungeon map generator based on square room grid
+use only the smallest group with a certain amount of observations
+os . walk with filter to only return directories . : param empty _ only : filter that specifies to only return empty directories . the empty _ only use case represents removal of directories in own cloud not found in git
+randomly shuffle the training data . parameters - - - - - - - - - - model : alphapy . model the model object describing the data . returns - - - - - - - model : alphapy . model the model object with the shuffled data
+"guesses whether a set of axes is home to a colorbar parameters - - - - - - - - - - ax axes instance returns - - - - - - - true if the x xor y axis satisfies all of the following and thus looks like a colorbar : no ticks , no tick labels , no axis label"
+helper to open also compressed files
+reject duplicate keys
+creates a main window using 75 % of the available screen resolution
+returns uniform model noisy value
+collect some information about the machine this experiment runs on
+parse out information from sacct status output
+call a faker if value is none uses : { { myint | or _ fake : ' random int ' } }
+compute the peaks profile for a set of cw peaks and add into the yc array
+"loads custom / pypi / map . txt and builds a dict where map [ package _ name ] = url : return : dict , urls"
+get the list of tags for output : param doc : a mapping from http verb to the properties for serialization : return : a list of string containing tags as described by the openapi 3 . 0 spec
+load template by it ' s name . appends ' . html ' or ' . htm ' extension if needed
+ensure string is a unicode string . if it is n ' t it assumed it is utf - 8 and decodes it to a unicode string
+sets / returns the background color for text elements : return : ( str ) - color string of the text background color currently in use : rtype : ( str )
+get ignore commits regex patterns . : return :
+collects psms with the highes precursor quant values adds sum of the top 3 of these to a protein table
+sort the individual lines of a block of text . args : dedupe ( bool ) : remove duplicate lines with the same text . useful for dealing with import statements in templates
+yield range of consecutive numbers
+scroll _ offset + = 1
+repository _ fullname = : owener / : name
+"return ( calc _ dtype , res _ dtype ) suitable for blas calculations"
+given a status contents in html converts it into lines of plain text
+iterator that yields all cells in a notebook nbformat version independent
+retains only cannonical chromosomes in bed - like df
+"return the media that was registered in the request object . . . note : : the output of plugins is typically cached . changes the the registered media only show up after flushing the cache , or re - saving the items ( which flushes the cache )"
+cwl target to retrieve a list of callable regions for parallelization
+return all index as ` { ' items ' : [ list of indexes ] } `
+generate seed for random number generator
+"converts extended representation to x , y accepts also projective representation . : param p : : return :"
+returns a new state that follows the given state and also has the resource gain of the given pickup : param state : : param pickup : : return :
+opens connection to s3 returning bucket and key
+it adds data to the plot grid
+"using a predecessor matrix from scipy . csgraph . shortest _ paths , get all indices on the path from a root node to a target node"
+sensitivity in d b re 1 v / pa returns the transfer - factor in m v / pa
+we have a list of terms with which we return facets
+"prepares a configuration element containing its uri for a version creation document containing the specified configuration , if any"
+return the pyramid application registry associated to the current running application : returns : a pyramid registry instance
+improves the docstrings of application models when called at the bottom of the respective module
+convert secret to des key used by bsdi _ crypt
+returns context dict containing a single quote . this is chosen from amongst quotes flagged as public
+checks if the graph ` g ` has isolated nodes
+"return the appropriate line index , depending on ` ` line _ or _ func ` ` which can be either a function , a positive or negative int , or none"
+convert to string all values in ` data ` . parameters - - - - - - - - - - data : dict [ str ] - > object returns - - - - - - - string _ data : dict [ str ] - > str
+returns md5sum of file
+function to decide which key function to use . defaults to ` ` default _ key _ func ` `
+"add bdds from json ` file _ name ` to ` bdd ` . @ param load _ order : if ` true ` , then load variable order from ` file _ name `"
+infer language pair from filename : < split > . < lang1 > - < lang2 > . ( . . . ) . idx
+return ids that match this resource type ' s i d format
+remove interactiontion if one of these components is not in complexes dataframe
+"compute the tensor - , index - , and total shape of an expr . returns ( shape , size , index _ shape , index _ size , total _ shape , total _ size )"
+helper method for multiprocessing of apply _ transformation . must not be in the class so that it can be pickled
+return the names of all imported snp sets
+performs ` ` nexus3 script delete ` `
+setup logging via cli options
+get compose v3 compatibility from - - compatibility option or from compose _ compatibility environment variable
+split an iterator at ` ` size ` ` item intervals
+validates the connection object is capable of read access to rethink
+return the server defaults for the given environment variables
+perform put operation . this is used in the distributed wrapper
+escape all special characters
+after request handler
+turn an astropy quantity object into something we can write out to an hdf5 file
+pick url querystring to params
+get the area of a polygon which is represented by a 2 d array of points . area is computed using the shoelace algorithm . args : polygon : 2 d array of points
+return the config data as a dictionary parameters - - - - - - - - - - file : str path to the configuration file
+branching order of a tree section
+render an html element ( tree ) and optionally pretty - print it
+create an object key for storage
+calculates the centroid of a polygon with paired x - y values
+get name of this resource : return : name of this resource : rtype : str
+"given a string and index , return ( line , column )"
+assemble a multiline message from a sequence of nmea messages . : param messages : sequence of nmea messages : return : single message
+get a list of skil . resources . base . resource objects by type ( ' compute ' or ' storage ' )
+preprocessor to create contour from an earthquake
+"create string from object , concatenate if list"
+enable or disable the plugin
+"returns a code describing the capitalization of the word : lower , title , other or non - alpha ( numbers and other tokens that ca n ' t be capitalized )"
+ignore any exception via isinstance on python 3
+function to return a list of unique field names from the config file
+function to derive address family from a junos table name . : params table : the name of the routing table : returns : address family
+"return string representing given number in levenshtein coding . n : int , number to convert to levenshtein coding"
+serialize datetime objects as string for json
+"on the assumption that all the leaves of a nested dictionary ( tree ) structure are in some way equivalent , this is a quick method of returning the first such leaf without knowing the specific keys used to construct the nested dict"
+transform text describing a space world into a 2 d array of fields
+get an singleton _ instance of the client class singleton
+"relevant idl typecodes and corresponding numpy codes most specify a byte size , but not all"
+"task files ( logs , etc . ) are saved in task _ dir in following structure based on task _ id : task _ dir / millions / tens _ of _ thousands / task _ id / *"
+return an attribute for the ldap entry specified by dn and ensure it only occurs once
+get stream version from bookmark
+"efficiently parses the root element of a * raw * xml document , returning a tuple of its qualified name and attribute dictionary"
+check whether an unparsed string is a numeric value
+remove the highlight from the given edges or all edges if none given
+truncate the file and return the filename
+assigns a color to the direction ( dynamic - defined colors ) parameters - - - - - - - - - - - - - - dir direction returns - - - - - - - - - - - - - - col color
+try passwordless login with shell ssh command
+return standard deviation
+visual - related features for a single span
+cast a string to a strictly positive integer
+the number of residues per turn at each monomer in the polymer
+"add ( ` ` x ` ` , ` ` y ` ` ) to current mouse location"
+given a tuple of genes ( one from each strain ) identify and return the two which are from strain pair
+return known information about references held by the given object
+merge entities into a single token
+returns the monday of the given week
+read url list from config dictionary
+"given an address , get decrypted hex private key from db"
+delete index infromation from params
+"return random unit vector from an equal distribution on a sphere . references : cook 1957 , marsaglia 1972"
+returns a list of parameter names for the given pytest function node . parameterization marks containing several names are split : param parentnode : : return :
+reads letter aliases from a text file created by go depth1 letters wr
+"determine the real me authentication strength of this session . : param request : a django request : return : the auth strength of the real me session , or none if not authenticated with real me"
+creates an input device instance based on an input template . : param dev _ name : the name of the new device : param dev _ type : the id of the template to base the device off of : return : input device instance
+"some sources from apis return lower cased where as describe calls always return title case , this function turns the former to the later"
+identifies what the type of file is
+apply the last saved configuration to a device
+"converts current year , month , weekday and week number into the day of month"
+"return whether the url blacklisted or not . using blacklist _ urls methods against the urls . : param url : url string : return : true if url is blacklisted , else false"
+checks if given value is boolean
+returns a single row from a set of results or raises an error
+"given a dataset object and data in the appropriate format for the interface , return a simple scalar"
+test if x is a correctly shaped point array in r ^ d
+create the specified path making all intermediate - level directories needed to contain the leaf directory . ignore any error that would occur if the leaf directory already exists
+takes a list of sentences in french and preprocesses them
+check if file name have valid suffix for formatting . if have suffix return it else return false
+"build the main content of the entry , which is written in markdown at the moment"
+format the name of the field args : value : the string to format
+find the current state of the lpar . state is converted to the appropriate nova . compute . power _ state : return : the appropriate integer state value from power _ state
+"definition : func ( x1 , x2 , y1 , y2 ) { . . . } objective : returns the slope ( m ) from the slope formula m = y2 - y1 / x2 - x1"
+return true if data container has multiple timesteps
+get the number of iso - weeks in this year
+\ ? [ a - z a - z _ ] [ a - z a - z _ 0 - 9 ] * :
+check mic icv & return the data from a decrypted tkip packet
+compute the spectral radius for the coefficient matrix
+"given a ssa in the format produced by get _ ssa ( ) , returns a map from versioned blob into the operator index that produces that version of the blob . a versioned blob is a tuple ( blob _ name , version )"
+"returns the ( x , y ) tuple of the point that has progressed a proportion n along the line defined by the two x , y coordinates"
+"duck type implementation for checking if object is cluster node or hypothesis _ node , more or less"
+if the second return value is not none then it is an exception encountered during parsing . the first return value will be the xml string
+monkey - patch urllib3 with py open ssl - backed ssl - support
+return true if ` value ` is a valid imdb id for a person
+a generator that stops on a keyboard interrupt
+converts value in int or float if possible
+"case when node have two children , one of which is operator , other not . in that case choice operator node as top node . example : t - > [ a , * - > [ a ] ] to * - > [ a , a ]"
+returns the first ' size ' dataframe : param size : ( optional ) the size of the sample . if none then all the names are returned : return : the mapping data frame
+get the source data for a particular gw catalog
+remove a place from a petri net parameters - - - - - - - - - - - - - net petri net place place to remove returns - - - - - - - - - - - - - net petri net
+makes a normalized suite from a cdf object
+return string of parameters comments and exposure time found in header in marccd image file . mccd - print allsentences displays the header - use allsentences . split ( ' \ n ' ) to get a list
+read and flatten json
+get a list of node colors by binning some continuous - variable attribute into quantiles
+get index prefix for a given schema
+return protection group volume or none
+returns a functions to search sender \ s name or it \ s part
+the file _ access _ waiting state global faw _ cache _ destroy event handler
+""" c - a : indium chloride [ pm73 ]"
+find a single html element using j query - style selectors
+group an array by its unique values
+force the noupdate value of an xmlid
+convert a string into a list whose elements length do not exceed a given width
+compute specified symmetric confidence interval for empirical sample
+checker for the nearby preprocessor
+checks if a file is locked by another process
+the maximum distance between parallel tangents to the projection area of the contour : param contour : : return :
+apply format _ value _ for _ spreadsheet to every value of a dict
+get the data for this key from the rundata
+base method to send get request and retrieve text from response . parameters - - - - - - - - - - url : str returns - - - - - - - string text raises - - - - - - exception client or server error can be raised
+run sst algorithm with svd
+create the order for samples between x and genotypes
+remove a directory . suppress error if the directory does not exist
+init a socks proxy socket
+detect if the field is a boolean or a dict
+enable integration with a given gui
+add one column to the left vector ( mps version )
+"inner covariance matrix for hac for panel data no denominator nobs used no reference for this , just accounting for time indices"
+construct a pauli term operator by taking the non - identity single - qubit operator at each qubit position
+returns an internal sequence dictionary update
+get the latest block hash for a given coin
+calculate hash of image read in from stream
+input : string | generator outs : generator reads firstline as the headers and converts input into a stream of dicts
+return a list of email text bodies from a list of email objects
+convert e ( e v ) < > nu ( nm )
+"filter contaminants , as marked by the search engine looking for a contaminant tag in the leading _ protein column"
+manage file handles to keep files open during demultiplexing
+"write code into database , szsec and shsec"
+simple funcion to eliminate consecutive duplicates in a list or arrays or in a list of numbers . : param input _ list : list with possible consecutive duplicates . : return : input _ list with no consecutive duplicates
+plots outputs of compute _ cap _ exposures as line graphs
+allocate a buffer on the host using pinned memory with specified number of bytes
+parses all the current rfc titles from the rfc - index . txt file allowing the title to be written to the database easily . : return list of rfc title information
+convert the given enaml font into a qfont . parameters - - - - - - - - - - font : font the enaml font object . returns - - - - - - - result : qfont the qfont instance for the given enaml font
+"wraps the sink socket , which receives results in chunks , to produce a generator of single results"
+generate a synthetic person : param fake : : return :
+gives the path to our module : return : path to our module
+load individual columns into named tuples using the orm
+"currently assumes your on middle c . could potentially take into account n1 as a way to know how to handle the irregularities . such as e - f being 1 half step , but g - a being 2"
+ensure the given item is an returned as an iterable . parameters - - - - - - - - - - item : object the item to ensure is returned as an iterable
+make a sumple list of routing rules . : param app : flask application : returns : list of routes
+"return a list of character codes consisting of pairs [ code1a , code1b , code2a , code2b , . . . ] which cover all the characters in | s |"
+create a graphene type for ( non - specific ) django model . used for orderables and other foreign keys
+"converts a n - dimensional array to blob proto . if diff is given , also convert the diff . you need to make sure that arr and diff have the same shape , and this function does not do sanity check"
+finds a selected nav _ extender node
+helper for getting incremental state for an nn . module
+get config file specified in environment
+reverse namespace lookup . note that returned namespace may not be unique : param uri : namespace uri : return : namespace
+generate the user + password portion of a url . : param str user : the user name or : data : ` none ` : param str password : the password or : data : ` none `
+parse the chain definitions
+raw _ dict : raw _ dict comma raw _ dict
+convert file ' s open ( ) flags into a readable string . used by process . open _ files ( )
+clean from the tree all knows problems . : param penn _ tree : the plain text tree : return : cleaned tree
+convert data frame index from datetime to clocktime ( seconds past midnight ) parameters - - - - - - - - - - - - - - index : pandas index data frame index in datetime returns - - - - - - - - - - pandas index data frame index in clocktime
+helper used by both resolve _ configuration _ dict and get _ configuration
+get the current vi mode for display
+returns the net dumplings configuration data . : param file : path to config ; ` ` none ` ` falls back on default config . : return : a dict of configuration data
+check if ` youtube - dl ` is available in the installation
+generate a symmetric random matrix with zeros along the diagonal
+"takes large data array and sigma clips it to find noise per bl for input to detect _ bispectra . takes mean across pols and channels for now , as in detect _ bispectra"
+"get reactions whose flux is restricted to zero based on fva solution keyword arguments : fva minmax - - dict { reaction : flux minimum , flux maximum } returns list of reactions ( in arbitrary order )"
+converts the vehicle ' s obd standards this vehicle conforms to : return : the current engine value
+"checks if the given path is a tdt block . parameters - - - - - - - - - - block : str block path returns - - - - - - - is _ block : bool true if ` path ` is a tdt block , else false"
+truncates floats that are integers to their integer representation . that is converts 1 . 0 to 1 etc . otherwise returns the starting value . will raise an exception if the input cannot be converted to int
+display all sub objects of the object with given slug
+builds a new array with valid values for the message entity constructor . : return : new array with valid values : rtype : dict
+returns the years interval from start year
+retrieves the pil image from the given array of bytes . : param image _ bytes : bytes to convert into a pil image . : return : pil image
+"set _ get ( + set , - value )"
+returns a list of tools to install @ return list of tools
+take an element tree and extract a software release from it . : param root : element tree we ' re barking up . : type root : xml . etree . element tree . element tree
+parse provided hostname and extract port number
+converts value into map object or returns empty map when conversion is not possible : param value : the value to convert . : return : map object or empty map when conversion is not supported
+unfortunately facebook returns 500s which mean they are down or 500s with a nice error message because you use open graph wrong so we have to figure out which is which : )
+estimate inverse covariance via scikit - learn graph lasso cv class
+do pca analysis on 4 d image to turn it into a 3 d image suitable for slic
+"true if user has ' add ' , ' change ' or ' delete ' permission on this model"
+get data from an image or fits file
+inverse cdf for a pure power - law
+attempt to find featured artists in the item ' s artist fields and return the results . returns none if no featured artist found
+"create a list of bars from a dic . parameters - - - - - - - - - - dic : dict keys are attribute names of bar , values are corresponding values . returns - - - - - - - bar : bar"
+"get parser epilog . we parse this as re structured text , allowing users to embed rich information in their help messages if they so choose"
+create the cell model
+this function finds the first set of values for each model and scenario and subtracts them from all values to remove the offset
+filter certain superflous parameter name suffixes from argument names . : param str prefix : the potential prefix that will be filtered . : param str name : the arg name to be prefixed . : returns : combined name with prefix
+make directories leading to ' dst ' if they do n ' t exist yet
+sets the upper bound timestamp
+load a texture from a file into a pil image
+performs attention on the input . : param attention _ input : the input tensor for attention layer . : param attention _ mask : a tensor to mask the invalid values . : return : the masked output tensor
+download an html page using the requests session and return the final url after following redirects
+compute the checksum of a full line
+decompose number into the primes
+searches for a predefined unit with the given ` ` name ` ` and returns a : class : ` units ` object representing it . if no such unit is found a : class : ` cell mlerror ` is raised
+"split list items into ` ( matching , non _ matching ) ` by ` cond ( item ) ` callable"
+convert checks api request object into a dict
+r return the area of a triangle
+default thread creation - used to create threads when the client does n ' t want to provide their own thread creation . : param function callback : the callback function provided to threading . thread
+set up a proxy that store too long warnings in a separate map
+generates a serial number request packet . returns : packet : a request packet
+generates a topography mask from an oceanographic transect taking the deepest ctd scan as the depth of each station
+return the first task instance that is a module node
+list regions for the service
+set the host and the scheduled _ at field of a group . : returns : a group with the updated fields set properly
+a - a ' : chloride hydroxide [ mp98 ]
+for a given opcode op in opcode module opc return the size in bytes of an op instruction
+if ` test is none ` do a straight equality test
+transposes an image by either rotating or flipping it
+split a song into two parts one starting at start1 the other at start2
+load imdb data and augment with hashed n - gram features
+class method to get a reference to the speed dial . @ return reference to the speed dial ( speed dial )
+get the peers relation id if a peers relation has been joined else none
+maps the vars _ list into a list of axis indices corresponding to the fluent scope
+ensure a configuration file exists in given configuration directory . creating a default one if needed . return path to the configuration file
+return context service arguments for su as a become method
+read 4 bytes as be integer in file f
+"get one object by primary _ key value . : type engine _ or _ session : union [ engine , session ]"
+returns a list of n - grams read from the file at path
+matches task details emitted
+initiating all elemental materials in csv files in path
+accessor for factory instance
+return a doctype declaration : param doc _ type : doc type string must be in ` ` page . doc _ types ` ` : type doc _ type : str : return : doctype declaration : rtype : str
+calculate normals from vertices and faces . parameters - - - - - - - - - - verices : ndarray faces : ndarray returns - - - - - - - normals : ndarray shape same as vertices
+calculate the w field of a quaternion
+return list of chunks
+get all direct dependencies based on requirements . in file and generated pipfile . lock from it
+returns true if a 2 - nested list contains at least one truthy value . : param l : a nested list : return :
+"find file by name , none if none or multiple"
+read lines from f until a blank line is encountered
+return true for likely dict object via duck typing
+returns true if the specified object property at given path satisfies the given predicate ; false otherwise
+cache known activity type ' s to remove useless latency . : param domain : : type domain : : param name : : type name : : param version : : type version : : return : : rtype :
+return number of all intercepted commands filtered by ' which ' field . args : cmds _ file : path to the txt file with intercepted commands . which _ list : a list of strings to filter command by ' which ' field
+"evaluate the time / memory requests for the grid job , allowing for ints or formulas"
+"get the length of the string representation of the key . if several keys of the same name are present , the maximum length is returned . : param bytes key : the keyword to get the string representation size of . : rtype : int"
+parse the mana cost of a card
+scale a folded site frequency spectrum
+return keyword arguments for pip install
+list vm snapshots . args : vm _ name : the virtual machine name . returns : info obtained from remote hyper - v host
+"returns all cleaving contexts stored in the broker . : param broker : : return : list of tuples of ( cleaving context , timestamp )"
+check to see if a file exists or is empty
+look for a favicon under the domain
+validates a finnish bank account number
+prompts user for username and password gets api key from server if not provided
+requires that value is already in tree with node as the root
+calculate the crc over a range of bytes using the ccitt polynomial
+decorator for all search filter options
+returns copy of data frame with stretched date time index
+do n ' t mangle the wrong org by accident
+load manifold from stanford ply file
+"get "" remote "" info for a single block of given backup , this is for "" data "" surface"
+makes a flask response with a xml encoded body
+format binary data into a string for debug purpose
+helper method for screening keyword arguments
+this context manager redirects stdout to a string io objects which is returned from the context . on exit stdout is restored
+find scene texture dependencies of the current scene that are not referenced : return : set < str >
+"returns a tuple with the file path and format found , or ( none , none )"
+create the results data frame
+sort the keys in a json - rpc response object
+generate the aws4 auth string to sign for the request
+get position in byte stream
+shrink the bounding box bb by factor in order to prevent unneeded work due to rounding
+get chrom as key
+"returns true if the given path resolves against the default url resolver , false otherwise . this is a convenience method to make working with "" is this a match ? "" cases easier , avoiding unnecessarily indented try . . . except blocks"
+return whether or not this function is executed in a notebook environment
+"check and parse thickness specs as either a single [ s ] or a list of [ s , s , s , . . . ]"
+remove the nexus nve binding
+"tries to make a time out of the value . if impossible , returns none . : param value : a value of some ilk . : return : date : rtype : datetime . date"
+reverse the shuffled list with the original key : param lst : shuffled list : param key : shuffle key : return : original list
+returns all the repositories in the database
+finds the most recently saved operative _ config in a directory
+"for a given trace , return a mapping from activity to frequency in trace . parameters - - - - - - - - - - trace : ` tuple ` of ` str ` a trace as a tuple of activities returns - - - - - - - ` dict ` mapping from activity to frequency in trace"
+return a pep 440 - compliant version number from version
+show subcommand . parameters : api : the api instance to use . returns : int : always 0
+returns a list of header strings that could be passed to a compiler
+parse the given rgb . txt file into a python dict
+move the relationships to appropriate location in the props
+list of maps available in * * escher * * returns : list : map names
+build a wallet configuration dictionary ( postgres specific )
+determine if value is an integer
+return the flux command as string : param ` flux _ path ` : the full path to the flux bin : param ` no _ errors ` : a flag to determine if this a test run to ignore errors
+utility method to retrieve a list of server groups
+load a json file and add is parent dir to resulting dict
+merge a dictionary ( b ) into another ( a ) and override any field in a which is also present in b : param a : dict to be updated : param b : dict with values to update : param path : : return : dict a
+decorate a delta and check that the file ids in it are unique . : return : a generator over delta
+return a dict of units that match the filter
+return true if the element is a physical entity
+given a sqlalchemy table object return a shelf description suitable for passing to shelf . from _ config
+checks if a file is stored securely
+"parameter : string ( unicode or bytes ) . returns : the ` text ` , with each instance of "" - - "" translated to an en - dash character , and each "" - - - "" translated to an em - dash character"
+determine whether the given response indicates that the token is expired
+encodes a path value
+parse a list for non - matches to a regex
+check if criterias for likely benign are fullfilled
+set all variables to live setting
+"burst , emit from center , velocity in fixed angle and random speed"
+recursively finds the most recent timestamp in the given directory
+"clean input toml , increasing the chance for beautiful output"
+construct an indented name for the node given its path
+"creates a magnitude spectrum from image params : image : a numpy ndarray , which has 2 or 3 dimensions ( bgr ) return : a numpy ndarray , which has 2 dimensions"
+"return true if the xlog is a . history file , false otherwise it supports either a full file path or a simple file name . : param str path : the file name to test : rtype : bool"
+translate a comm exception into something more useful to the user
+unlock a locked user
+this function extracts temporal derivative features which are first and second derivatives
+retrieve the bounding box of a volume in millimetres
+this function converts the ' yes ' and ' no ' yaml values to traditional boolean values
+registers the end of a request
+return the min - isr for topic or none if not specified
+calculate min and max of array with guards for nan and inf
