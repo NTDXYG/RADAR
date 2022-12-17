@@ -65,9 +65,9 @@ result_list = []
 def gen_garble_code():
     list1 = []
     for i in digits:
-        list1.append(i)  # 得到字母字符并放入列表
+        list1.append(i)  
     for i in ascii_lowercase:
-        list1.append(i)  # 得到数字字符并放入列表
+        list1.append(i)  
     k_words = random.randint(2, 6)
     result_list = []
     result_list.append(''.join(random.choices(list1, k=k_words)))
@@ -94,10 +94,36 @@ def gen_vis_simi_replace(word):
             result.replace(w, 'to')
         if (w == '4'):
             result.replace(w, 'for')
+
+        if(w == 'to'):
+            result.replace(w, '2')
+        if (w == 'for'):
+            result.replace(w, '4')
+
+        if (w == 'I'):
+            result.replace(w, 'l')
+        if (w == 'I'):
+            result.replace(w, '1')
+
         if (w == 'l'):
             result.replace(w, '1')
+        if (w == 'l'):
+            result.replace(w, 'I')
+
+        if (w == '1'):
+            result.replace(w, 'I')
+        if (w == '1'):
+            result.replace(w, 'l')
+
         if (w == 'o'):
             result.replace(w, '0')
+        if (w == 'O'):
+            result.replace(w, '0')
+        if (w == '0'):
+            result.replace(w, 'o')
+        if (w == '0'):
+            result.replace(w, 'O')
+            
         if (w == 'q'):
             result.replace(w, '9')
         if (w == 's'):
